@@ -7,8 +7,7 @@ For the second frame, the file 02.txt has been split into 6 smaller files, numbe
 | Page         | Status     | Relation |
 | ------------|------------|------------|
 | 01.txt       | Unresolved | |
-| 02_01.txt    | **Resolved**   | LE LIONNAIS (François), « Le second manifeste », OULIPO, La littérature potentielle, Gallimard,
-NRF, 1973, pp. 24-25 |
+| 02_01.txt    | **Resolved**   | LE LIONNAIS (François), « Le second manifeste », OULIPO, La littérature potentielle, 1973, pp. 24-25 |
 | 02_02.txt    | Unresolved | |
 | 02_03.txt    | **Resolved**   | « Odile » (1937) by Raymond QUENEAU |
 | 02_04.txt    | Unresolved | |
