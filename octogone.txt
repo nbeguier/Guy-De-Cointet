@@ -1,6 +1,18 @@
 https://guydecointet.org/en/dessin/113
 Title: SANS TITRE
 Clear-text message: 
+Tips: haut en bas.
+
+         |         |           |         |            |           |           |            |
+.. ...... ......... ....... ... .. ...... ... ........ .... ...... ... ....... ...... ..... ... .... ..
+01 234560 7898a23bc def049e dec 0g 32d4fc dec e4h6i6dj 07ck djle03 dec 78bd0kj de6390 21dck dec m61c n1
+o. ..u..o ..g.....e through the o. ..ture the hu....t. o.e. t..ho. the ...to.. th..go ..te. the ...e ..
+on ..u..o b.g.....e through the o. ..ture the hu....t. obey t..ho. the b..toy. th..go .ntey the ..ne .n
+.. ...... ........d an....n and .. ..a..d and n.....a. ..d. a..n.. and ...a... an.... ..ad. and ...d ..
+to .....t ........d an.t..n and t. ..a..d and n.....a. t.d. a..nt. and ...at.. an...t .oad. and ..od .o
+to r....t .....r..d an.t..n and t. .ra..d and n.....a. t.ds a..nt. and ...ats. an...t roads and ..od .o
+.. ...... ........t no....o not .. ..n..t not o.....n. ..t. n..o.. not ...n... no.... ..nt. not ...t ..
+un .....u ........t es.u..s est u. ..e..t est s.....e. u.t. e..su. est ...eu.. es...u .net. est ..nt .n
 
 https://guydecointet.org/en/dessin/151
 Title: THE RIGGLE OF THE...
@@ -8,7 +20,8 @@ Clear-text message: THE RIDDLE OF THE SPHINX
 
 https://guydecointet.org/en/dessin/152
 Title: SANS TITRE
-Clear-text message:
+Clear-text message: Il nous faut des œuvres fortes, droites, précises et à jamais incomprises
+Trivia: Tzara dans son Manifeste, soulignant le sens nouveau et la liberté de l’acte créateur
 
 https://guydecointet.org/en/dessin/153
 Title: SANS TITRE
