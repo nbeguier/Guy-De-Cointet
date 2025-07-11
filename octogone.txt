@@ -1,8 +1,7 @@
 https://guydecointet.org/en/dessin/113
 Title: SANS TITRE
 Clear-text message: 
-Tips: haut en bas.
-
+Tips: haut en bas. ou alors, le papier est tourné!!!
          |         |           |         |            |           |           |            |
 .. ...... ......... ....... ... .. ...... ... ........ .... ...... ... ....... ...... ..... ... .... ..
 01 234560 7898a23bc def049e dec 0g 32d4fc dec e4h6i6dj 07ck djle03 dec 78bd0kj de6390 21dck dec m61c n1
@@ -14,8 +13,12 @@ to r....t .....r..d an.t..n and t. .ra..d and n.....a. t.ds a..nt. and ...ats. a
 .. ...... ........t no....o not .. ..n..t not o.....n. ..t. n..o.. not ...n... no.... ..nt. not ...t ..
 un .....u ........t es.u..s est u. ..e..t est s.....e. u.t. e..su. est ...eu.. es...u .net. est ..nt .n
 
+dec m61c n1 de6390 21dck dec 78bd0kj 07ck djle03 dec e4h6i6dj 0g 32d4fc def049e dec 7898a23bc 01 234560
+
+
+
 https://guydecointet.org/en/dessin/151
-Title: THE RIGGLE OF THE...
+Title: THE RIDDLE OF THE...
 Clear-text message: THE RIDDLE OF THE SPHINX
 
 https://guydecointet.org/en/dessin/152
@@ -27,15 +30,33 @@ https://guydecointet.org/en/dessin/153
 Title: SANS TITRE
 Clear-text message:
 
+01 2345
+6748 9a5
+3a4bca5
+63cda5
+9c30da5
+ecaf05a5
+ad 7
+g7h705
+02f3hec05a5
+
+
+8
+
+
+
+
 https://guydecointet.org/en/dessin/154
 Title: SANS TITRE
 Clear-text message:
+Tips: Hexagones
 
 https://guydecointet.org/en/dessin/155
 Title: To Be Used Along the Space...
 Footer: ...to be used along the space and the time axis, we can now...
-Clear-text message: 
+Clear-text message: HAVING SETTLED THE QUESTION CONCERNING COMPARABLE UNITS TO BE USED ALONG THE SPACE AND THE TIME AXIS, WE CAN NOW ASK OURSE 
 Trivia: https://archive.org/details/10.GeorgeGamowOneTwoThree...Infinty19471988/page/77/mode/2up George Gamow One Two Three... Infinty (1947)
+Tips: Faire une rotation du dessin à 90°, lire de haut en bas
 
 https://guydecointet.org/en/dessin/156
 Title: HOW HIGH CAN YOU COUNT?
