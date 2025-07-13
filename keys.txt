@@ -1,0 +1,6 @@
+928  : https://www.guydecointet.org/carnet/271 p2 (Vigenere), https://www.guydecointet.org/carnet/351 p3 (Vigenere)
+245  : https://www.guydecointet.org/carnet/271 p2 (Vigenere)
+1972 : https://www.guydecointet.org/carnet/271 p10 (Vigenere)
+474  : https://www.guydecointet.org/carnet/340 p8
+28926: https://www.guydecointet.org/carnet/351 p3
+2543160: https://www.guydecointet.org/carnet/351 p3

@@ -28,6 +28,6 @@ For the second frame, the file 02.txt has been split into 6 smaller files, numbe
 
 ## Links
 
-The art is available [here](http://guydecointet.org/en/prop/284)
+The art is available [here](https://guydecointet.org/en/prop/284)
 
-The notebooks [here](http://guydecointet.org/en/carnet)
+The notebooks [here](https://guydecointet.org/en/carnet)
