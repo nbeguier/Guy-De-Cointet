@@ -1,4 +1,5 @@
 # 1973 VERT
+The notebook [here](https://www.guydecointet.org/carnet/351)
 
 ## Page 1
 https://www.guydecointet.org/img_web/GDC_carnet_1973_Vert_351_1.jpg
@@ -29,6 +30,7 @@ https://www.guydecointet.org/img_web/GDC_carnet_1973_Vert_351_3.jpg
 
 ### Gauche
 
+```
 1: 1 234 50 123 4501
 2: 2 543 16 025 4316
 3: C EST UN PEU TROP
@@ -38,6 +40,7 @@ https://www.guydecointet.org/img_web/GDC_carnet_1973_Vert_351_3.jpg
 2: 0254 31602 54 31
 3: VITE FAIRE FI DE
 4: 2599 32836 04 43
+```
 
 - 1: suite numérique modulo 6
 - 2: suite "2543160" répétée
@@ -51,10 +54,12 @@ Ce n'est pas un chiffrement, seule la longueur des mots est conservée.
 Message: LE VERITABLE INSPIRE N EST JAMAIS INSPIRE OU L EST TOUJOURS
 
 ---
+```
    7       8
 SAMEDI DIMANCHE LUNDI MARDI
 
 MERCREDI JEUDI
+```
 
 28926
 89262
@@ -81,11 +86,11 @@ https://www.guydecointet.org/img_web/GDC_carnet_1973_Vert_351_4.jpg
 Indes Noires de Jules Verne, avec erreur, écrit "MAGDE" au lieu de "MADGE"
 
 ---
-
+```
 IOERI OALLA GIOOS ADDRI
 IVNKY LUMPA OOELO ZAEDI
 ABAZV AXEED BAEWD
-
+```
 --- 
 
 Fin de citation des Indes Noires de Jules Verne
@@ -99,7 +104,7 @@ Fin de citation des Indes Noires de Jules Verne
 TODO (écriture difficile à lire)
 
 ---
-
+```
 IFFFA XEAGU LIRGG
 BUUQN UGIJI KUBNK
 NTEGY XOGIK MOOSP
@@ -113,7 +118,7 @@ QAXRP NESTO VAJEM
 ERNIC TAAPH ROOLR
 NAEEE QVAAS ABENI
 OEROI OCAQO NTIUL
-
+```
 
 ## Page 5
 
@@ -126,7 +131,3 @@ OEROI OCAQO NTIUL
 ## Page 9
 
 ## Page 10
-
-## Links
-
-The notebook [here](https://www.guydecointet.org/carnet/351)
