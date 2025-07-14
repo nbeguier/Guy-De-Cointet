@@ -3,12 +3,11 @@ The notebook [here](https://www.guydecointet.org/carnet/271)
 
 ## Page 1
 ```
-JEB
-OJO
+JEB -> IDA
+OJO -> NIN
 ```
 
-Message: INDIAN (se lit IDA avec une rotation, voir page 2)
-                        NIN
+Message: INDIAN (se lit IDANIN avec une rotation, voir page 2)
 
 ## Page 2
 https://www.guydecointet.org/img_web/GDC_carnet_1972_JEBOJO_CollBibliothequeKandinskyMNAMCentrePompidouParis_271_2.jpg
@@ -34,9 +33,10 @@ TRAGEDIE MUETTE: ?
 
 __verso__:
 
-– GOD AFTEN! dit-il.
-– GOD AFTEN, mon garçon!
-C’est le bonsoir norvégien. Il fut simplement échangé. : Jules Verne "Un billet de loterie"
+- GOD AFTEN! dit-il.
+- GOD AFTEN, mon garçon!
+
+C'est le bonsoir norvégien. Il fut simplement échangé. : Jules Verne "Un billet de loterie"
 
 EROS
 
@@ -49,10 +49,6 @@ Je ne parle que Houaïlou : Antonin Artaud Le Mexique et la civilisation
 
 __verso__:
 Il pouvait les mener loin, ce filament végétal, s’ils s’entêtaient à le suivre jusqu’à son extrémité comme un fil d’Ariane, — à cela près que le fil de l’héritière de Minos aidait à sortir du labyrinthe, et que celui-ci ne pouvait qu’y entraîner plus profondément: La Jangada
-
-
-
-
 
 
 ## Page 7
