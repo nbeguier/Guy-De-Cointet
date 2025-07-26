@@ -39,7 +39,7 @@ WIR SIND GANZ FREI (allemand: NOUS SOMMES COMPLÈTEMENT LIBRES (ironie avec :"WI
 
 - ??
 
-- EJPAVOR LCOL KO (??)
+- Espahor ledet ko
 
 - CIZEGOH TUR
 
@@ -63,15 +63,18 @@ Michel McCullas
 Page 7
 ------
 
+```
 EFOLMOL HJ
 LO YOCKMH  (?)
+```
 
 --
 
+```
 JM 346 PERZOLM
+```
 
-
-Message:
+Message possible:
 ARMES DE QUALITÉ
    ÊTRE ARMÉ
 C’EST ÊTRE LIBRE  (Extrait de "Les armureries d'Isher" A. E. Van Vogt)
@@ -88,18 +91,22 @@ Tips: C'est dans le texte mais ça ne correspond pas à la longueur.
 Page 8
 ------
 
+```
 HLJBO LALTHOTL
+```
 
-Message:
+Message possible:
 Clark, Fara (Extrait de "Les armureries d'Isher" A. E. Van Vogt)
 
 Page 9
 ------
 
+```
   EXT JVO OZELL
 EMSVG  PV HI Y
+```
 
-Message:
+Message possible:
 «ROUGE – décès
 BLANC – naissance 
 EMSVG  PV HI Y
