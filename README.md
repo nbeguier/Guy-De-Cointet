@@ -1,16 +1,64 @@
-# Guy de Cointet Deciphering Project
+# 🔍 Guy de Cointet – Deciphering Project
 
-This repository is dedicated to cracking the encrypted oeuvres of French artist Guy de Cointet. Known for using letters and numbers to encrypt his works, our objective is to decipher all his oeuvres to finally understand the messages and ideas he intended to convey.
+Ce dépôt est dédié à l'exploration et au déchiffrement des œuvres chiffrées de l'artiste français **Guy de Cointet**. Connu pour son utilisation de lettres, de chiffres et de codes visuels dans ses œuvres, ce projet vise à percer les mystères de ses messages cryptés à l’aide d’outils linguistiques, algorithmiques et d’analyse littéraire.
 
-## Repository Structure
+---
 
-The repository is organized into directories corresponding to individual pieces of art and date. Each directory contains the following files:
+## 📁 Structure du dépôt
 
-- xx.txt: Transcript of the ciphered text found in the artwork
-- xx.tips.txt: Tips and clues to help crack the message
-- xx.message.txt: The deciphered message in cleartext, if known
+L’arborescence suit une organisation par œuvres (par année ou titre), avec différents types de fichiers :
 
+- `xx.txt` : Texte chiffré tel que trouvé dans l’œuvre.
+- `xx.tips.txt` : Indices ou annotations pour aider à la résolution.
+- `xx.message.txt` : Message clair déchiffré, si disponible.
+- `README.md` : Explications spécifiques à l’œuvre ou au dossier.
+- `scripts/` : Scripts Python pour le déchiffrement ou l’analyse.
 
-Part of the challenge can be found on Reddit at [r/codes:guy_de_cointet_cizeghoh_tur_ndjmb](https://www.reddit.com/r/codes/comments/12ewymq/guy_de_cointet_cizeghoh_tur_ndjmb). 
+---
 
-Also, Guy's notebooks [are available here](http://guydecointet.org/en/carnet).
+## 🛠️ Outils inclus
+
+Des scripts Python permettent différentes méthodes de décryptage :
+
+- `vigenere.py` – Chiffrement/déchiffrement par Vigenère.
+- `decipher.py` – Pipeline générique de déchiffrement.
+- `all_rot.py` – Application de ROT-n sur des textes.
+- `anagrammes.py` – Générateur d’anagrammes.
+- `match_word_in_art.py` – Recherche de mots dans les textes chiffrés.
+
+---
+
+## 📚 Œuvres présentes
+
+Le projet contient des transcriptions de plusieurs œuvres dont :
+
+- **1971** – *Beige NSP EPE WAR*
+- **1973** – *Cizeghoh tur Ndjmb*
+- **1975** – *A Few Drawings*
+- **1972–1973** – Œuvres diverses : *VERT*, *Huzo Lumnst*, *JEB OJO*, etc.
+- **Livres** – *Indes Noires*, *Histoire des Météores*, *Disparition*, etc.
+
+---
+
+## 🔐 Objectif
+
+Comprendre les procédés de cryptage de Guy de Cointet et restituer, si possible, le sens complet de ses œuvres codées. Le projet mêle analyse artistique, linguistique et cryptographique.
+
+---
+
+## 🌐 Liens utiles
+
+- Discussions Reddit : [r/codes - Cizeghoh tur Ndjmb](https://www.reddit.com/r/codes/comments/12ewymq/guy_de_cointet_cizeghoh_tur_ndjmb)
+- Carnets de Guy de Cointet : [guydecointet.org](http://guydecointet.org/en/carnet)
+
+---
+
+## 🤝 Contributions
+
+Toute aide est la bienvenue : relecture, idées de décryptage, traductions, ou ajouts de scripts. N'hésitez pas à proposer une *pull request*.
+
+---
+
+## 📜 Licence
+
+Voir le fichier `LICENSE` pour plus d'informations.
