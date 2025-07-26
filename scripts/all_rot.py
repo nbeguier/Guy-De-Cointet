@@ -9,7 +9,7 @@ def rot_decrypt(text, shift):
     return result
 
 # Messages chiffrés en dur
-messages = ["GIOOS"]
+messages = ["MYXLUMNET"]
 
 # Affiche les 26 ROT pour chaque message
 for shift in range(26):
