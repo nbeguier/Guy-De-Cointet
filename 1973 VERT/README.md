@@ -9,6 +9,55 @@ Texte illisible
 Message: TODO
 
 ## Page 2
+
+Melody is the most artificial thing in music
+
+TODO
+
+.. PASSE COMME ..
+
+CDEHNOPRZ-237
+      
+## Page 3
+
+## Page 4
+
+.. ... aime tout qui est dans la raison
+
+
+... of the snow had bought with it a ... ?? TODO
+
+LA PLUS HAUTE CULTURE EST
+CELLE DE SUPPORTER LES
+CONTRADICTIONS
+: Nietzsche (Chacun sait maintenant que c’est un signe de haute culture que de savoir supporter la contradiction.)
+
+
+## Page 11
+
+```
+COM2NATIO.
+COM3NATION....
+COM4NATIO...
+```
+---
+TODO
+
+---
+
+C’est un peu trop vite faire fi de la valeur exemplaire de toute
+acrobatie. Le seul fait de battre un record dans l’une de ses
+structures excessives peut suffire à justifier l’œuvre.
+
+---
+
+Le plagiat est nécessaire ! Le progrès l’implique.
+
+---
+
+IL N'Y A D'ART QUE VOLONTAIRE (?)
+
+## Page 14 - 2
 https://www.guydecointet.org/img_web/GDC_carnet_1973_Vert_351_2.jpg
 
 ### Gauche
