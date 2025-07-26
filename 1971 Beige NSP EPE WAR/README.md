@@ -1,7 +1,12 @@
-# 1971 Beige NSP EPE WAR
-The notebook [here](https://www.guydecointet.org/carnet/270)
+# 🗞️ 1971 – Beige NSP EPE WAR
 
-## Page 1
+Cette œuvre de Guy de Cointet, datée de 1971, explore le cryptage visuel et linguistique à travers des formes simples, des fragments multilingues et des messages codés. Elle est décryptée ici page par page, avec des hypothèses de lecture et des liens vers des références externes.
+
+🗒️ **Carnet original disponible** : [voir en ligne](https://www.guydecointet.org/carnet/270)
+
+---
+
+## 📄 Page 1
 
 ```
 NSP
@@ -9,11 +14,15 @@ EPE
 WAR
 ```
 
-Message: NEWSPAPER (lecture de haut en bas)
+🔍 **Message** : `NEWSPAPER` (lecture verticale)
 
-## Page 2
+---
 
-### Gauche
+## 📄 Page 2
+
+### ◀️ Côté gauche
+
+Plusieurs blocs de lettres :
 
 ```
 PLTE
@@ -42,32 +51,17 @@ HIATKSDECTARD
 08NLYOHE(12).
 ```
 
-Message:
 
-```
-PALMTREE
+🔍 **Message partiel** :
+- `PALMTREE`, `PALMTREE ONE FIFTY CENTS`
+- Lecture partielle :
+  - *PROBABLY ONE OF THE GREATEST PRIME NUMBER MATHEMATICIANS: EDOUARD LUCAS (1842–1891)*
 
-PALMTREE1
+📌 Référence implicite à **Édouard Lucas**, célèbre pour ses travaux sur les nombres premiers.
 
-PALMTREE ONE FIFTY CENTS
+### ▶️ Côté droit
 
-APROBNBLYOHEO   ? PROBABLY ONE OF
-FTHIGRESTPUIM   THE GREAT PRIME
-ENSMBERATHEMA   NUMBER MATHEMATICIAN
-TICIUNEDOUARD   EDOUARD
-LFCASPARI2(18   LUCAS ? (1842-
-41-189N)SPEET   1891)
-I9YOARIKECTIN
-GHISITWAAGIGT
-NASKIUNTBLBAN
-I90PARI20FLNL
-OPQRCDLMPSTDC
-HIATKSDECTARD
-08NLYOHE(12).
-```
-- TODO: Finir de traduire le texte
-
-### Droite
+Blocs binaires en format visuel pouvant être lus comme du braille :
 
 ```
 xx x. xx
@@ -87,54 +81,36 @@ xx .x x.
 x. x. ..
 ```
 
-Message: GUY DE COINTE (braille)
+🔍 **Message** : `GUY DE COINTET`
 
+---
 
-## Page 3
-### Gauche
+## 📄 Page 3
 
-- TODO *hebreu*
+### ◀️ Côté gauche
 
+📝 Texte en hébreu — **à déchiffrer**
 
-### Droite
+### ▶️ Côté droit
 
 ```
 JOHNCAGENAMJUNEPAIKp89 AYEARFROMMONDAY
-
-Enjoy the commercials, that is to say, while you still have them.
 ```
-
-Message:
-
-```
-JOHN CAGE NAM JUNE PAIK p89 "A YEAR FROM MONDAY"
-```
-https://monoskop.org/images/a/a3/Cage_John_A_Year_from_Monday_New_Lectures_and_Writings.pdf
-
-Livre: "A YEAR FROM MONDAY", page 89, NAM JUNE PAIK: A DIARY
 
 Enjoy the commercials, that is to say, while you still have them.
 
----
 
-```
-THEHEMEEMNTNOTNMQKTRSTVNO
-```
-
-Message: TODO
+🔍 **Références** :
+- *John Cage* et *Nam June Paik*, artistes expérimentaux
+- Citation tirée du livre : *A Year from Monday*, page 89  
+📚 [Lire le livre (Monoskop)](https://monoskop.org/images/a/a3/Cage_John_A_Year_from_Monday_New_Lectures_and_Writings.pdf)
 
 ---
 
-Message: TODO *hebreu*
+## 📄 Pages 4 à 7
 
-## Page 4
-
-Message: TODO *japonais*
-
-## Page 5
-
-### Gauche
-
+- Page 4 : **Texte en japonais** – à traduire
+- Page 5 :
 The
 Signature
 Of
@@ -147,74 +123,41 @@ without raising
 the blade
 from
 the ground.
+  - ✍️ Référence à la **signature de Mahomet**, tracée sans lever la main.
+    - [Voir exemple visuel](https://www.nga.gov/artworks/166114-signature-mohammed)
+  - `PACIFIC1`, `FIFTY CENTS`, braille? TODO
+- Page 6 :
+  - Gauche : Matrice de lettres (`I?`, `E`, `A T`, etc.) – **à interpréter**
+  - Droite : `GUY DE COINTET`, `PACIFIC`
+- Page 7 :
+  - Texte japonais
+  - 🛡️ Référence cryptographique :
+    > “When radar was new it was found necessary to eliminate the balloon system...”
+    - Phrase utilisée pour tester les transmissions radio.
 
-Référence à https://www.nga.gov/artworks/166114-signature-mohammed qui peut en effet se dessiner sans lever son crayon (ou sa lame)
+---
 
-### Droite
+## 📄 Page 8
 
-```
-PCFC
-AII1
+🌀 Entraînement au chiffrement **ROTx** (rotations alphabétiques)
 
-FFYET
-ITCNS
+---
 
-x. xx .x
-x. .. .x
-.x xx .x
-```
+## 📄 Page 9
 
-PACIFIC1
+📌 À compléter
 
-FIFTY CENTS
+---
 
-Message: TODO *braille ??*
+## 📄 Page 10
 
-## Page 6
+🔠 Présentation d’un **alphabet basé sur des octogones**, utilisé pour certains déchiffrements graphiques dans d'autres œuvres.
 
-### Gauche
+---
 
-```
-I I?
-E
-A T
-V
-D U
-M
-P O
-R
-```
-Message: TODO
+## 🔗 Liens
 
-### Droite
+- [Carnet original (page 270)](https://www.guydecointet.org/carnet/270)
+- [John Cage – A Year from Monday (PDF)](https://monoskop.org/images/a/a3/Cage_John_A_Year_from_Monday_New_Lectures_and_Writings.pdf)
 
-```
-GUY DE COINTET
-
-GUY
-
-PACIFIC
-```
-
-## Page 7
-
-*japonese text*
-
-Message: TODO
-
-When radar was new it was found necessary to eliminateee the balloon system for city protection that had proceded radar
-
-Référence: La phrase sur le radar est célèbre parce qu'elle présente une distribution équilibrée de caractères fréquents et moins fréquents, idéale pour tester des transmissions.
-Elle était couramment utilisée par les services militaires pour des exercices cryptographiques ou pour l’entraînement des opérateurs radio.
-
-## Page 8
-
-entrainement au ROTx
-
-## Page 9
-
-TODO
-
-## Page 10
-
-Premier alphabet octogones, permet de déchiffrer en partie certains octogones ou hexagones.
+---
