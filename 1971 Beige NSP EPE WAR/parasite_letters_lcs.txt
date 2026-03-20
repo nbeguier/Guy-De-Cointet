@@ -1,0 +1,14 @@
+# Parasite letters (substitution-only alignment)
+# target: PROBABLY ONE OF THE GREAT PRIME NUMBER MATHEMATICIAN EDOUARD LUCAS
+# best_window_start_alnum_index=1, length=57, mismatches=31
+# grid_index,row,col,char,expected
+1,1,1,A,?
+6,1,6,N,A
+11,1,11,H,N
+17,2,4,I,E
+21,2,8,S,A
+24,2,11,U,R
+29,3,3,S,U
+44,4,5,U,A
+54,5,2,F,U
+

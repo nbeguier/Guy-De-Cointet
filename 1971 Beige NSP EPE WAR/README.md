@@ -1,29 +1,34 @@
-# 🗞️ 1971 – Beige NSP EPE WAR
+# 1971 – Beige NSP EPE WAR
 
-Cette œuvre de Guy de Cointet, datée de 1971, explore le cryptage visuel et linguistique à travers des formes simples, des fragments multilingues et des messages codés. Elle est décryptée ici page par page, avec des hypothèses de lecture et des liens vers des références externes.
+Cette page sert de journal clair pour distinguer ce qui est en clair, ce qui est dechiffre, ce qui est partiel et ce qui reste a faire.
 
-🗒️ **Carnet original disponible** : [voir en ligne](https://www.guydecointet.org/carnet/270)
+**Legende**
+- **Clair**: texte present tel quel dans l'oeuvre.
+- **Dechiffre**: solution obtenue.
+- **Partiel**: solution incomplète ou hypothese forte mais pas verrouillee.
+- **A faire**: non resolu.
+
+Carnet original: https://www.guydecointet.org/carnet/270
 
 ---
 
-## 📄 Page 1
+## Page 1
 
+**Chiffre**
 ```
 NSP
 EPE
 WAR
 ```
 
-🔍 **Message** : `NEWSPAPER` (lecture verticale)
+**Dechiffre**
+`NEWSPAPER` (lecture verticale)
 
 ---
 
-## 📄 Page 2
+## Page 2 – Cote gauche
 
-### ◀️ Côté gauche
-
-Plusieurs blocs de lettres :
-
+**Chiffre**
 ```
 PLTE
 AMRE
@@ -45,24 +50,74 @@ LFCASPARI2(18
 I9YOARIKECTIN
 GHISITWAAGIGT
 NASKIUNTBLBAN
-I90PARI20FLNL
+I9OPARI2OFLNL
 OPQRCDLMPSTDC
 HIATKSDECTARD
-08NLYOHE(12).
+O8NLYOHE(12).
 ```
 
+**Dechifree**
+`PALMTREE`, `PALMTREE1`, `PALMTREE ONE FIFTY CENTS`
 
-🔍 **Message partiel** :
-- `PALMTREE`, `PALMTREE ONE FIFTY CENTS`
-- Lecture partielle :
-  - *PROBABLY ONE OF THE GREATEST PRIME NUMBER MATHEMATICIANS: EDOUARD LUCAS (1842–1891)*
+**Partiel (lecture plausible)**
+`PROBABLY ONE OF THE GREAT PRIME NUMBER MATHEMATICIAN EDOUARD LUCAS (1841-1891)`
 
-📌 Référence implicite à **Édouard Lucas**, célèbre pour ses travaux sur les nombres premiers.
+**Notes**
+Reference implicite a Edouard Lucas.
 
-### ▶️ Côté droit
+**Piste de Recherche (tests deja faits)**
 
-Blocs binaires en format visuel pouvant être lus comme du braille :
+Structure du bloc :
+- Carre 13×13 (169 caracteres), lettres + chiffres + `(`, `)`, `-`, `.`. Lettres absentes : `K`×3, `W`×1, `Q`×1.
+- `EDOUARD` visible ligne 4, colonnes 7-13. Annees eclatees lignes 5-6 : `...2(18` / `41-189N)` → si N=1, `(1841-1891)` (Lucas ne en 1842).
 
+Lectures testées :
+- Colonnes (L→R / R→L), boustrophedon, diagonales, spirale : charabia.
+- **Ligne par ligne** : seule lecture avec fragments anglais.
+
+Comparaison ligne par ligne (texte cible) :
+- Prefixe ~40 caracteres quasi correct, puis ecarts croissants (ex. pos 5 A→N, 10 N→H, 16 E→I, 20 A→S).
+- Pas de decalage ROT uniforme ; pas de Vigenere courte (≤26) sur le prefixe.
+
+Transposition :
+- Methode PALMTREE validee sur blocs courts, mais echec sur 13×13 (y compris W=7, W=11, W=6 lignes de 13).
+
+Tests supplementaires :
+- Vigenere (cles : LUCAS, PRIME, PALMTREE, COINTET, GUY, EDOUARD, MATH, NUMBER, GREATEST, PROBABLY, FIBONACCI, LUCASPRIME, PRIMES) : rien de lisible.
+- Suppression periodique (k=2..20) : meilleur partiel k=20 offset 1 ; insuffisant.
+- Suppression positions premiers/Fibonacci/Lucas : rien de clair.
+- Decimation mod 169 : aucun `PROBABLYONEOF`.
+- Permutation de colonnes unique (13) optimisée sur 5 lignes : ≈25/65 corrects (insuffisant).
+- Mapping chiffres→lettres (1→I, 2→S, 8→B, 9→G) : `PARI2`→`PARIS` plausible mais incoherent globalement.
+- Alignement exact via suppression de nulles + mapping chiffres (digits en substitution) : aucun alignement complet.
+- LCS : lettres-only 50/61 ; chiffres-wildcard 59/69.
+- Chiffres traités comme chiffres : sequence `21841189992812` ; LCS chiffres = 8/8 avec `1841-1891` (vs 7/8 avec `1842-1891`) ; LCS alphanumerique 57/69 (1841-1891) vs 56/69 (1842-1891).
+- Tests Hanoi / Lucas‑Lehmer :
+  - Gray/Hanoi strict : ordre Gray sur 169 positions (8/9 bits, lecture row/col), + permutations lignes/colonnes via ordre Gray sur 0..12 ; LCS ≤ 48/69.
+  - Lucas‑Lehmer positions : permutations par rang / par mod / par marche (p=5/7/11/13, row/col) ; LCS max 54/69.
+  - Aucun gain vs baseline (LCS 57/69).
+- Tests parcours/permutations locales :
+  - Ordre carre magique 13×13 (Siamese), direct et inverse : pas d’amelioration.
+  - Cisaillements (row shift k*r / col shift k*c, k=1..12) : LCS max 51/69.
+  - Parcours par pas (primes/Lucas/Fibonacci) en 1D et en 2D : pas d’amelioration (LCS < baseline).
+- Observations qualitatives (lecture ligne par ligne) :
+  - `GREST` suggère **GREAT** (plutôt que GREATEST).
+  - `MATHEMATICIUN` suggère **MATHEMATICIAN** avec permutation/substitution locale (M manquant apparent).
+  - Après la date `(1841-1891)`, le texte devient nettement moins interpretable → probable fin de citation ou changement de mecanisme.
+
+Pistes non encore testees :
+- Permutation par cle a l’interieur de chaque ligne de 13 ?
+- Les caracteres `K`, `W`, `Q` (nulles presumes) marquent-ils les positions switchees ?
+- Substitution partielle : certaines lettres encodees (via alphabet octogonal p.10 du meme carnet ?), le reste en clair.
+- Pistes Lucas possibles : Tour de Hanoi (ordre de deplacements / parcours binaire) comme chemin de lecture ou permutation.
+- Pistes Lucas possibles : suite / test de Lucas‑Lehmer pour generer un flux numerique (mod 13) servant a permuter colonnes ou decaler par ligne.
+- Pistes Lucas possibles : idees issues des *Recreations mathematiques* (parcours, taquin, carres magiques, dominos, labyrinthes) appliquees a une grille 13×13.
+
+---
+
+## Page 2 – Cote droit
+
+**Chiffre (braille visuel)**
 ```
 xx x. xx
 xx .. .x
@@ -81,36 +136,58 @@ xx .x x.
 x. x. ..
 ```
 
-🔍 **Message** : `GUY DE COINTET`
+**Dechiffre**
+`GUY DE COINTET`
 
 ---
 
-## 📄 Page 3
+## Page 3 – Cote gauche
 
-### ◀️ Côté gauche
+Texte en hebreu.
 
-📝 Texte en hébreu — **à déchiffrer**
+**Notes**
+Deux coupures de presse en yiddish (pas hébreu pur) collées sur la page gauche, provenant visiblement du journal The Forward (פֿאָרווערטס), le célèbre journal yiddish new-yorkais — confirmé par l'encart "Forward / Section 1 / 26 Pages / Price Twenty Five Cents" en bas à droite.
 
-### ▶️ Côté droit
+▎ האט איר געזוכט דעם זינגער א שענע פראוים?
+▎ "Avez-vous cherché le chanteur, une belle femme ?" (approximatif)
 
+---
+
+## Page 3 – Cote droit
+
+**Clair**
 ```
 JOHNCAGENAMJUNEPAIKp89 AYEARFROMMONDAY
 ```
 
-Enjoy the commercials, that is to say, while you still have them.
+**Clair (citation)**
+`Enjoy the commercials, that is to say, while you still have them.`
 
+**Source**
+John Cage et Nam June Paik. Citation de *A Year from Monday*, p. 89.
 
-🔍 **Références** :
-- *John Cage* et *Nam June Paik*, artistes expérimentaux
-- Citation tirée du livre : *A Year from Monday*, page 89  
-📚 [Lire le livre (Monoskop)](https://monoskop.org/images/a/a3/Cage_John_A_Year_from_Monday_New_Lectures_and_Writings.pdf)
+**Chiffree**
+```
+THEHEMEEMNTNOTNMQKTRSTVNO
+```
+
+**A faire**
+
+**Notes**
+texte anglais, écrit de droite à gauche selon l'hypothèse d'une inspiration yiddish, non déchiffré.
 
 ---
 
-## 📄 Pages 4 à 7
+## Page 4
 
-- Page 4 : **Texte en japonais** – à traduire
-- Page 5 :
+Texte en japonais.
+
+---
+
+## Page 5
+
+**Clair**
+```
 The
 Signature
 Of
@@ -123,41 +200,69 @@ without raising
 the blade
 from
 the ground.
-  - ✍️ Référence à la **signature de Mahomet**, tracée sans lever la main.
-    - [Voir exemple visuel](https://www.nga.gov/artworks/166114-signature-mohammed)
-  - `PACIFIC1`, `FIFTY CENTS`, braille? TODO
-- Page 6 :
-  - Gauche : Matrice de lettres (`I?`, `E`, `A T`, etc.) – **à interpréter**
-  - Droite : `GUY DE COINTET`, `PACIFIC`
-- Page 7 :
-  - Texte japonais
-  - 🛡️ Référence cryptographique :
-    > “When radar was new it was found necessary to eliminate the balloon system...”
-    - Phrase utilisée pour tester les transmissions radio.
+```
+
+**Notes**
+Reference a la signature de Mahomet (dessinee sans lever la lame).
+Voir exemple visuel: https://www.nga.gov/artworks/166114-signature-mohammed
+	
+**Clair**
+`PACIFIC1`, `FIFTY CENTS`
+
+**Chiffre (braille visuel)**
+```
+x. xx .x
+x. .. .x
+.x xx .x
+```
+
+**Dechiffree**: GUY
 
 ---
 
-## 📄 Page 8
+## Page 6
 
-🌀 Entraînement au chiffrement **ROTx** (rotations alphabétiques)
+**Chiffree**
+Cote gauche: matrice de lettres (`I?`, `E`, `A T`, etc.).
 
----
+**A faire**
 
-## 📄 Page 9
-
-📌 À compléter
-
----
-
-## 📄 Page 10
-
-🔠 Présentation d’un **alphabet basé sur des octogones**, utilisé pour certains déchiffrements graphiques dans d'autres œuvres.
+**Dechiffree**
+Cote droit: `GUY DE COINTET`, `PACIFIC`.
 
 ---
 
-## 🔗 Liens
+## Page 7
 
-- [Carnet original (page 270)](https://www.guydecointet.org/carnet/270)
-- [John Cage – A Year from Monday (PDF)](https://monoskop.org/images/a/a3/Cage_John_A_Year_from_Monday_New_Lectures_and_Writings.pdf)
+Texte japonais.
+
+**Clair**
+`When radar was new it was found necessary to eliminate the balloon system for city protection that had preceded radar.`
 
 ---
+
+## Page 8
+
+**Clair**
+Entrainement au chiffrement ROTx (contenu a identifier si besoin).
+
+---
+
+## Page 9
+
+**A faire**
+A completer.
+
+---
+
+## Page 10
+
+**Clair**
+Alphabet base sur des octogones (utilise ailleurs).
+
+---
+
+## Liens
+
+- Carnet original: https://www.guydecointet.org/carnet/270
+- John Cage – *A Year from Monday* (PDF): https://monoskop.org/images/a/a3/Cage_John_A_Year_from_Monday_New_Lectures_and_Writings.pdf
