@@ -1,0 +1,29 @@
+Le chiffrement de frame 02 ne préserve QUE les longueurs de mots (pas les lettres).
+Pour décoder : trouver dans "La littérature potentielle" (OULIPO, Gallimard, 1973, pp. 24-25)
+le passage dont les longueurs de mots correspondent exactement.
+
+Longueurs de mots : 1, 4, 6 (3 mots, 11 lettres, fragment avec "..." indiquant continuation)
+
+**RÉSOLU** : "à tout jamais"
+Contexte : "...abandonnant à tout jamais la psychologisation qui s'alliant à la moralisation
+constituait pour la plupart l'arc-boutant du bon goût..."
+Source confirmée : La littérature potentielle (OULIPO, Gallimard, 1973)
+
+---
+
+Autres matches trouvés dans le même livre (non retenus) :
+
+- "a fait depuis"
+  Contexte : "...toute une gamme de structures plus ou moins contraignantes a fait depuis l'invention du langage..."
+
+- "à tout adulte"
+  Contexte : "...voilà ce qui arrive et advient à tout homme à tout adulte sain d'esprit lorsque la nuit tombe..."
+  Note : citation Queneau dans le livre
+
+- "à tout moment"
+  Contexte : "...Justice romps l'assoupissement le vice brille à tout moment Fonde etc..."
+
+- "à fait appris"
+  Contexte : "...La littérature potentielle tout à fait appris à parler..."
+
+- "I dans l'ordre" / "A noir carcan" / "à bleu qu'aède" — sections contraintes formelles, peu pertinentes

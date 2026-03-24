@@ -2,3 +2,7 @@ help/
 .DS_Store
 GDC_carnet_*
 COI\ *
+*.pdf
+*.epub
+*.djvu
+temp

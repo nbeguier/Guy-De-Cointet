@@ -1,0 +1,27 @@
+Le chiffrement de frame 02 ne préserve QUE les longueurs de mots (pas les lettres).
+Pour décoder : trouver dans "La littérature potentielle" (OULIPO, Gallimard, 1973, pp. 24-25)
+le passage dont les longueurs de mots correspondent exactement.
+
+Longueurs de mots : 2, 7, 2, 4, 6 (5 mots, 21 lettres, fin de phrase marquée par le ".")
+
+**RÉSOLU** : "du plagiat Il nous arrive"
+Contexte : "...Et cela m'amène à la question du plagiat Il nous arrive parfois de découvrir
+qu'une structure que nous avions crue parfaitement inédite avait déjà été découverte..."
+Source confirmée : La littérature potentielle (OULIPO, Gallimard, 1973) — Le Lionnais, second manifeste
+
+---
+
+Autres matches trouvés dans le même livre (non retenus) :
+
+- "de Lalande Si deux durées"
+  Contexte : "...Dictionnaire philosophique de Lalande Si deux durées situées dans un pneumatique font..."
+  Section : dictionnaire philosophique — hors manifeste
+
+- "et comment je veux parler"
+  Contexte : "...n'est pas intéressant de savoir pourquoi et comment je veux parler Romantisme tout ça..."
+
+- "la musique on commençait" [avec fusion de saut de ligne]
+  Contexte : "...dans le domaine de la musique on commençait à entrevoir des possibilités nouvelles..."
+
+- "de dérivés de lipogramme" [avec fusion de saut de ligne]
+  Contexte : "...de leipo je laisse en dehors de dérivés de lipogramme lipogrammatique..."

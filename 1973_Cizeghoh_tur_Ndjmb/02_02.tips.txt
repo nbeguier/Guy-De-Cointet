@@ -1,0 +1,18 @@
+Le chiffrement de frame 02 ne préserve QUE les longueurs de mots (pas les lettres).
+Pour décoder : trouver dans "La littérature potentielle" (OULIPO, Gallimard, 1973, pp. 24-25)
+le passage dont les longueurs de mots correspondent exactement.
+
+Longueurs de mots (par ligne du fichier) :
+  Ligne 1 : 2, 4, 1, 2, 5
+  Ligne 2 : 3, 1, 5, 2, 3
+  Ligne 3 : 1, 6  (fin de phrase : ".")
+  Ligne 4 : 2, 1, 8, 4
+  Ligne 5 : 7, 1, 5, 2
+  Ligne 6 : 1, 3, 7  (fragment avec "...")
+
+Soit environ 22 mots en deux blocs (séparés par le ".") :
+  Bloc 1 (12 mots, ~35 lettres) : 2,4,1,2,5, 3,1,5,2,3, 1,6
+  Bloc 2 (10 mots, ~40 lettres) : 2,1,8,4, 7,1,5,2, 1,3,7
+
+Ce frame se trouve entre 02_01 (Le Lionnais : acrobaties) et 02_03 (Queneau : inspiré).
+Il s'agit probablement du texte de transition dans le second manifeste.

@@ -1,0 +1,17 @@
+Pattern de longueurs : [6, 2, 5, 4] / [4, 2]  (ou [6, 2, 5, 8, 2] avec fusion de saut de ligne)
+
+Matches dans La Prison d'Édimbourg (Walter Scott) — 5 candidats (sans fusion) :
+  - "puisse se faire mais chut le"
+  - "rendre en toute hate pres du"
+  - "folies. Je benis Dieu avec le"
+  - "reprit la reine vous avez du"
+  - "demain le grand jour tout le"
+
+Matches avec fusion (9 candidats), exemples :
+  - "motifs et votre conduite je"
+  - "arriva en cette occasion. Il"
+  - "abonde en sites imposans et"
+
+Aucun de ces candidats n'est proche du passage identifié en 05_04
+("courait son ame", position ~227k dans le texte).
+Non résolu — trop d'occurrences pour trancher sans autre indice.

@@ -1,0 +1,37 @@
+Clef en en-tête : CRZERNODS-426
+
+Principe commun à toutes les œuvres de la série : seules les longueurs de mots sont visibles.
+Le chiffrement interne (CRZERNODS-426) brouille les lettres à l'intérieur de chaque mot,
+mais la longueur de chaque mot est préservée.
+
+Pattern de longueurs de mots (en ignorant l'en-tête CRZERNODS-426) :
+  Ligne 1 : [4, 2]
+  Ligne 2 : [3, 5, 1, 4]
+  Ligne 3 : [1, 3, 2, 6]
+  Ligne 4 : [4, 2]
+  Ligne 5 : [8, 2, 3, 1, 5, 5, 3]
+  Ligne 6 : [3, 5]  (avec "!" en fin)
+Note : aux sauts de ligne, le dernier mot d'une ligne peut continuer sur la suivante
+(join combinations à tester, comme pour les frames 02_xx).
+
+Source : non identifiée. Aucun match trouvé dans les livres disponibles
+(La littérature potentielle, Les Indes Noires, La Prison d'Édimbourg,
+Les Fleurs bleues, Zazie, Odile, Impressions d'Afrique, L'Étoile au front,
+Récréations mathématiques, Histoire des Météores).
+
+Piste probable : texte sur "LA FOUDRE" — la page 24 du carnet (COI 39) mentionne
+"LA FOUDRE — Histoire de Watson p. 185, Chap. VII", et la page 38 cite
+Rambosson (Histoire des Météores) et Régnault (Les Écarts de la nature, 1775).
+Le texte source est probablement un ouvrage de sciences naturelles/météorologie
+non encore disponible.
+
+Sur la clef CRZERNODS-426 :
+- Les 9 lettres correspondent probablement aux digits du chiffre (0-9 → lettres),
+  mais le mapping exact (9 ou 10 lettres) n'est pas établi avec certitude.
+- Le nombre 426 est vraisemblablement une clef Vigenère ou un paramètre de décalage.
+- Dans le carnet (COI 39, p. 6), on trouve plusieurs variantes de clef avec le même
+  nombre 426 : CWZEROMPD-426, CPZERNODS-426, PCHZERDMP-426 — suggérant que chaque
+  exemplaire de la série a sa propre clef de substitution (personnalisée par acquéreur ?).
+  La variante CPZERNODS-426 est associée au print n°6 ("COLLECTION MS GENA LUNA LEBLANC").
+- CDEHNOPRZ-237 est une autre variante avec un nombre différent (237).
+  Somme des chiffres : 2+3+7 = 12 = 4+2+6, peut-être significatif.

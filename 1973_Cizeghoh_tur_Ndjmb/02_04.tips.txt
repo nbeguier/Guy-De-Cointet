@@ -1,0 +1,22 @@
+Le chiffrement de frame 02 ne préserve QUE les longueurs de mots (pas les lettres).
+Pour décoder : trouver dans "La littérature potentielle" (OULIPO, Gallimard, 1973, pp. 24-25)
+le passage dont les longueurs de mots correspondent exactement.
+
+Longueurs de mots : 4, 2, 5, 4, 2, 8 (6 mots, 25 lettres au total, fin de phrase marquée par le ".")
+
+**RÉSOLU** : "dans le monde même le tremplin"
+Contexte : "...à la liberté vraie qui consiste en exerçant son goût passionné de l'obstacle à trouver
+dans le monde même le tremplin de son action..."
+Source confirmée : La littérature potentielle (OULIPO, Gallimard, 1973) — manifeste OULIPO
+
+---
+
+Autres matches trouvés dans le même livre (non retenus) :
+
+- "Pour te louer dans la profonde"
+  Contexte : "...Nous rompons ses liens ô clarté toujours pure Pour te louer dans la profonde nuit..."
+  Section : permutations (poème) — hors manifeste
+
+- "neuf la littérature elle-même" [avec fusion de saut de ligne]
+  Contexte : "...concrétude à la fois très ancien et tout neuf la littérature elle-même Je ne veux pas dire..."
+  Section : différente du second manifeste
