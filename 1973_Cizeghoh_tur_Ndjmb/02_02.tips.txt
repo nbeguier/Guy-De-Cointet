@@ -16,3 +16,12 @@ Soit environ 22 mots en deux blocs (séparés par le ".") :
 
 Ce frame se trouve entre 02_01 (Le Lionnais : acrobaties) et 02_03 (Queneau : inspiré).
 Il s'agit probablement du texte de transition dans le second manifeste.
+
+---
+
+Recherche exhaustive (mars 2026) :
+  - error=0 sur Litt_potentielle-Oulipo-1973.txt → 0 match
+  - error=2 sur les 15 livres disponibles → 0 match
+
+Conclusion : source non identifiée. Pas dans l'Oulipo malgré la position entre 02_01 et 02_03.
+Piste possible : autre texte du même volume (anthologie), ou ouvrage non encore disponible.

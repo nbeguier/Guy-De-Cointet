@@ -11,9 +11,9 @@ Série de 12 sérigraphies présentée à la Galerie Sonnabend, Paris, le 30 nov
 | Fichier | Statut | Source |
 |---|---|---|
 | 01.txt | À faire | |
-| 02_01.txt | **Résolu** | LE LIONNAIS (François), « Le second manifeste », *La littérature potentielle*, OULIPO, 1973, pp. 24-25 |
+| 02_01.txt | **Résolu** | *La littérature potentielle*, OULIPO, 1973 p25 (LE LIONNAIS, « Le second manifeste ») |
 | 02_02.txt | À faire | |
-| 02_03.txt | **Résolu** | QUENEAU (Raymond), *Odile*, 1937 |
+| 02_03.txt | **Résolu** | *La littérature potentielle*, OULIPO, 1973 p32 (QUENEAU, *Odile*, 1937) |
 | 02_04.txt | À faire | |
 | 02_05.txt | À faire | |
 | 02_06.txt | À faire | |
@@ -21,7 +21,7 @@ Série de 12 sérigraphies présentée à la Galerie Sonnabend, Paris, le 30 nov
 | 03_02.txt | À faire | |
 | 03_03.txt | À faire | |
 | 03_04.txt | À faire | |
-| 04_01.txt | À faire | clé : `CRZERNODS-426` |
+| 04_01.txt | — | clé `CRZERNODS-426`, pas un message |
 | 04_02.txt | À faire | |
 | 04_03.txt | À faire | |
 | 04_04.txt | À faire | |
@@ -29,7 +29,7 @@ Série de 12 sérigraphies présentée à la Galerie Sonnabend, Paris, le 30 nov
 | 05_01.txt | À faire | |
 | 05_02.txt | À faire | |
 | 05_03.txt | À faire | |
-| 05_04.txt | Piste forte | SCOTT (Walter), *La Prison d'Édimbourg* |
+| 05_04.txt | À faire | |
 | 05_05.txt | À faire | |
 | 06_01.txt | À faire | |
 | 06_02.txt | À faire | |

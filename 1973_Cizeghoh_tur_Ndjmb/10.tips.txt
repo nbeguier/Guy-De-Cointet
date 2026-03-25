@@ -1,0 +1,117 @@
+Note de travail — CIZEGHOH TUR NDJMB, planche 10
+
+Source confirmée : A.E. Van Vogt, Les Armureries d’Isher (The Weapon Shops of Isher, 1951).
+Passage source dans books/Armureries_Disher-Vogt.txt, lignes ~914-965.
+
+Texte original Van Vogt :
+
+  --- Regarde, dit-il d’une voix rauque, en désignant de son bras tendu
+  l’enseigne qui rougeoyait dans l’obscurité.
+  [ARMES DE QUALITÉ / ÊTRE ARMÉ / C’EST ÊTRE LIBRE]
+  Les lettres brillaient d’un éclat éblouissant et Fara éprouvait, à les
+  contempler, un étrange sentiment de vide.
+  [...]
+  --- Ne fais rien d’inconsidéré, répondit Creel que toute timidité avait
+  à présent désertée. Souviens-toi. Ce n’est pas la première nouveauté qui
+  a surgi ici depuis que le tableau a été peint.
+  Fara ne répliqua pas tout de suite. [...] Il ne savait que trop à quoi elle
+  faisait allusion.
+
+Modifications apportées par GdC dans le script de performance :
+  - "dit-il d’une voix rauque"    → "me dit-elle d’une voix inquiète"
+  - "l’enseigne qui rougeoyait"   → "la peinture qui rougeoyait"
+  - "Fara éprouvait"              → "Patty éprouvait"
+  - "un étrange sentiment de vide"→ "un sentiment de danger imminent"
+  - "Il ne savait … à quoi elle"  → "Elle ne savait … à quoi je"
+
+Le texte sérigraphié encode probablement le texte original Van Vogt (ou
+la version modifiée). Le passage source dans le livre fait ~300 caractères
+(lignes 914-965), cohérent avec la taille de la grille de lettres (11×5×5=275).
+
+---
+
+Note sur les groupes YUSOQ / NODEN / ZLUIC et ACAUD / KUBNE :
+
+Ces groupes apparaissent AUSSI dans le script de performance de la planche 2
+(annexe 3), où Huzo Lumnst les cite comme exemples d’une instruction de lecture :
+
+  « Il faudrait voir : YUSOQ / NODEN / ZLUIK … comme ceci (un tour de passe-passe).
+  De la même manière : ACAUD / KUBVE … ne doivent pas être vus verticalement.
+  Je les envisage comme une ligne oblique, un jet de sang, qui va de la bouche
+  au sol. Pour comprendre, il faut donc que : R, V, E, T, F, Y, se penchent
+  comme une tour de Pise. »
+
+Ces groupes sont donc à la fois :
+- des balises dans le cipher de la planche 10
+- des exemples explicitement cités dans le discours de performance
+
+---
+
+Observation structurelle (valide) : dans la grille de lettres de la planche 10,
+la colonne 10 (0-indexée, soit la 11e) donne verticalement R-V-E-T-F-Y sur les
+6 premières lignes — exactement les lettres citées dans l’instruction de lecture
+de la planche 2.
+
+---
+
+Structure de 10.txt : trois blocs distincts
+
+  Bloc A (lignes 1-22) : 21 lignes de groupes de chiffres (~93 mots)
+  Bloc B (lignes 24-34) : grille de lettres 11×5 = 265 lettres (le cipher principal)
+  Bloc C (lignes 36-42) : 7 lignes de groupes de chiffres (~34 mots)
+  Bloc D (lignes 44-45) : 2 lignes (~8 mots)
+
+Les blocs A/C/D contiennent des groupes de chiffres séparés par des espaces, comme
+dans les autres planches (cipher longueurs de mots). Total : ~135 groupes.
+
+---
+
+Résultats des tentatives de déchiffrement (grille de lettres)
+
+Texte anglais confirmé par recherche web (The Weapon Shops of Isher, Van Vogt) :
+  "Look!" Fara said hoarsely. He pointed with rigid arm and finger at a sign
+  that glowed in the night, a sign that read:
+    FINE WEAPONS
+    THE RIGHT TO BUY WEAPONS IS THE RIGHT TO BE FREE
+  Fara had a strange, empty feeling as he stared at the blazing sign.
+  He saw that other villagers were gathering.
+  "Don’t do anything rash, Fara. Remember it is not the first new building
+  to come into Glay since the picture was painted."
+
+Analyse fréquentielle de la grille (265 lettres) :
+  Lettres fréquentes : E(10.6%), N(7.2%), I(6.8%), A(6.4%), T/R/O(5.7%),
+                       H(4.2%), W(2.6%), Y(2.6%), F(2.6%), Z/J/K(≈1.5%)
+  → H, W, Y, F, Z, J, K sont rares ou absents en français mais présents dans
+    la grille : cohérent avec un texte SOURCE EN ANGLAIS ou un cipher de
+    substitution sur texte français.
+
+Tentatives échouées :
+  - Vigenère avec clef RVETFY → 7% de correspondance (aléatoire)
+  - Lecture en boustrophédon → 10.6% (aléatoire)
+  - Lecture par colonnes → 10.9% (aléatoire)
+  - Lecture en diagonales (r+c et r-c) → ~14% (légèrement au-dessus de l’aléatoire)
+  - Aucun pattern simple de transposition ne produit de texte lisible
+
+Note sur les balises YUSOQ/NODEN/ZLUIC/ACAUD/KUBNE :
+  En termes de GROUPES (pas de lettres individuelles) :
+    YUSOQ = (ligne 1, groupe 0) → diagonal r-groupe = 1
+    KUBNE = (ligne 2, groupe 1) → diagonal r-groupe = 1  [même diagonale r-g]
+    NODEN = (ligne 3, groupe 0) → diagonal r-groupe = 3
+    ACAUD = (ligne 4, groupe 1) → diagonal r-groupe = 3  [même diagonale r-g]
+    ZLUIC = (ligne 4, groupe 0) → diagonal r-groupe = 4
+  → L’instruction "ne pas voir ACAUD/KUBNE verticalement" et "voir YUSOQ/NODEN/ZLUIK
+    comme une ligne oblique" est cohérente avec une lecture diagonale des GROUPES
+    (par diagonales r-groupe = const).
+  → Lecture par diagonales r-g testée : 9.8% de correspondance avec Van Vogt
+    anglais (≈ aléatoire). La diagonale de groupes n’est pas le bon pattern.
+
+---
+
+Recherches restantes :
+  1. Blocs A/C/D (chiffres) : aucune correspondance longueur-de-mots trouvée dans
+     les 14 livres disponibles (avec jusqu’à 3 erreurs). Source non identifiée.
+  2. Grille de lettres : essayer une lecture diagonale des GROUPES (5 lettres chacun)
+     plutôt que des lettres individuelles.
+  3. Texte anglais Van Vogt : ~323 lettres normalisées pour le passage confirmé, à
+     comparer aux 265 de la grille avec les tentatives restantes.
+

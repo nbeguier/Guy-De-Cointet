@@ -1,10 +1,4 @@
 Pattern de longueurs : [7, 3, 3, 2, 4, 8, 3]
 
-**PISTE FORTE** : 1 seule occurrence dans La Prison d'Édimbourg (Walter Scott)
-
-  "courait son ame si elle ecoutait les"
-  Contexte : "...pour lui démontrer le danger que courait son âme si elle écoutait les
-  doctrines d'un profane tel que Saddletree, et si elle venait à tomber
-  dans quelque erreur de dogme religieux..."
-
-Source probable : *La Prison d'Édimbourg*, Walter Scott
+Recherche exhaustive (mars 2026) : 0 match concluant dans les 15 livres disponibles.
+Source non identifiée.

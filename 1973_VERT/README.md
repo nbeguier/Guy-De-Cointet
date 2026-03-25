@@ -13,18 +13,23 @@ Source image: `1973_VERT/full book/COI 39 (1).JPG`
 Source image: `1973_VERT/full book/COI 39 (2).JPG`
 
 - Page gauche : notes au crayon, `DICI DICI` en haut, dessins rouges de profils.
-- Page gauche : mentions `Before - 12 Friday` et `Tuesday` (lisible).
+- Page gauche : citation `Melody is the most artificial thing in music` - Boris de Schloezer
+- Page gauche : Ezra Pound, `ABC of Reading, p. 24`
+- Page gauche : citation `it might be a little confusing that we hope to make things clearer with the next show...` - TODO
+- Page gauche : citation `The sum of human wisdom is not contained in any one language, and no single language is capable of expressing all forms and degrees of human comprehension.` ― Ezra Pound 
+- Page gauche : mentions `Before - 12 Friday` et `Tuesday`.
 - Page gauche : chiffres `6 III` et `16` près des dessins (lisible).
-- Page droite : ligne de texte rouge chiffré en haut (même style que la couverture).
-- Page droite : formats `7 x 7 1/2` et `11 x 14` (lecture probable).
+- Page droite : ligne de texte rouge chiffré en haut : TODO
+- Page droite : formats `7 x 7 1/2` et `11 x 14`
 - Bas de page droite : `CDEHNOPRZ - 237` en rouge.
       
 ## Page 3
 Source image: `1973_VERT/full book/COI 39 (3).JPG`
 
-- Texte rouge : `MELODY IS THE MOST ARTIFICIAL THING IN MUSIC`.
-- Texte rouge sur la “sagesse humaine” et les “langues” (phrase longue, lisible).
-- Nom en rouge : `Ezra Pound` (lecture probable).
+- Page gauche : `MELODY IS THE MOST ARTIFICIAL THING IN MUSIC` - Boris de Schloezer
+- Page gauche : citation `The sum of human wisdom is not contained in any one language, and no single language is capable of expressing all forms and degrees of human comprehension.` ― Ezra Pound
+- Page gauche : Tout en rouge - Couverture : carton avec une couverture de papier blanc (crabes) / - Texte : rouge écrit à la main.
+- Page droite : `Démocrite affirme que dans la nature la couleur n’existe pas. Là, les éléments sont privés de qualités ; il n’y a que des particules compactes et le vide ; les composés qui en sont formés ont acquis [la couleur]` - 
 - Page droite : petit papier collé avec micro‑texte noir.
 - Page droite : deux rectangles dessinés avec blocs de “pseudo‑texte” rouge.
 
