@@ -1,0 +1,38 @@
+Clé de substitution : CRZERNODS-426
+
+Pas un message chiffré — c'est l'en-tête de clé du frame 04.
+
+Principe commun à toutes les œuvres de la série : seules les longueurs de mots sont visibles.
+Le chiffrement interne (CRZERNODS-426) brouille les lettres à l'intérieur de chaque mot,
+mais la longueur de chaque mot est préservée.
+
+Pattern de longueurs (contenu sous l'en-tête, à vérifier) :
+  Ligne 1 : [4, 2]
+  Ligne 2 : [3, 5, 1, 4]
+  Ligne 3 : [1, 3, 2, 6]
+  Ligne 4 : [4, 2]
+  Ligne 5 : [8, 2, 3, 1, 5, 5, 3]
+  Ligne 6 : [3, 5]  (avec "!" en fin)
+Note : aux sauts de ligne, le dernier mot d'une ligne peut continuer sur la suivante.
+
+Source : non identifiée. Aucun match trouvé dans les livres disponibles.
+
+Piste probable : texte sur "LA FOUDRE" — la page 24 du carnet (COI 39) mentionne
+"LA FOUDRE — Histoire de Watson p. 185, Chap. VII", et la page 38 cite
+Rambosson (Histoire des Météores) et Régnault (Les Écarts de la nature, 1775).
+Le texte source est probablement un ouvrage de sciences naturelles/météorologie
+non encore disponible.
+
+---
+
+Variantes de clés dans le carnet COI 39 (1973_VERT) :
+  - CDEHNOPRZ-237  (pages 2 et 6)
+  - CWZEROMPD-426  (page 6)
+  - PCHZERDMP-426  (page 6)
+  - CPZERNODS-426  (page 6, étiquette : "QEI NO MYSXDOD / CPZERNODS-426 / COLLECTION MS OONA LUNA LEBLANC")
+  - CRZERNODS-426  (04_01.txt — variante confirmée, pas une erreur de lecture)
+
+Toutes opèrent sur le même alphabet de 9 lettres C D E H N O P R Z.
+GDC testait différentes permutations avec le même nombre Vigenère (426 ou 237).
+Observation : 2+3+7 = 12 = 4+2+6 — peut-être significatif.
+Chaque exemplaire de la série aurait sa propre clé (personnalisée par acquéreur ?).

@@ -4,10 +4,10 @@ le passage dont les longueurs de mots correspondent exactement.
 
 Longueurs de mots : 2, 7, 2, 4, 6 (5 mots, 21 lettres, fin de phrase marquée par le ".")
 
-**RÉSOLU** : "du plagiat Il nous arrive"
+**Piste — non confirmée** : "du plagiat Il nous arrive"
 Contexte : "...Et cela m'amène à la question du plagiat Il nous arrive parfois de découvrir
 qu'une structure que nous avions crue parfaitement inédite avait déjà été découverte..."
-Source confirmée : La littérature potentielle (OULIPO, Gallimard, 1973) — Le Lionnais, second manifeste
+Source probable : La littérature potentielle (OULIPO, Gallimard, 1973) — Le Lionnais, second manifeste
 
 ---
 

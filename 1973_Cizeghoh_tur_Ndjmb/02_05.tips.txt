@@ -4,10 +4,10 @@ le passage dont les longueurs de mots correspondent exactement.
 
 Longueurs de mots : 1, 4, 6 (3 mots, 11 lettres, fragment avec "..." indiquant continuation)
 
-**RÉSOLU** : "à tout jamais"
+**Piste — non confirmée** : "à tout jamais"
 Contexte : "...abandonnant à tout jamais la psychologisation qui s'alliant à la moralisation
 constituait pour la plupart l'arc-boutant du bon goût..."
-Source confirmée : La littérature potentielle (OULIPO, Gallimard, 1973)
+Source probable : La littérature potentielle (OULIPO, Gallimard, 1973)
 
 ---
 

@@ -30,6 +30,27 @@ la version modifiée). Le passage source dans le livre fait ~300 caractères
 
 ---
 
+Genèse de la grille — carnet COI 39, page 17 (1973_VERT/README.md) :
+
+La page 17 du carnet contient un brouillon de 39 mots en 3 colonnes avec certains
+mots "barrés" (cochés). Dans ce contexte, "barré" = SÉLECTIONNÉ pour la version finale,
+pas supprimé. Les mots barrés dans le carnet se retrouvent dans la grille de 10.txt ;
+les non-barrés sont absents.
+
+Correspondances confirmées (barré carnet → 10.txt) :
+  IFFFA* → IFFFA    FUDEM* → FUDEM    ACAUD* → ACAUD
+  MEIBB* → MEIBB    KIHFO* → KIHFO    BVJEU* → BVJEU
+  INRLP* → INRLP    DULOT* → DULOT    ERNIC* → ERNIC
+  ABENI* → ABENI    LIRGG* → LIRGS    KUBNK* → KUBNE
+  (LIRGG/LIRGS et KUBNK/KUBNE : 1 lettre de différence, variantes de brouillon)
+
+Mots non barrés dans le carnet = absents de 10.txt (sauf TYTAJ, exception).
+
+Les mots YUSOQ, NODEN, ZLUIC et d'autres présents dans 10.txt n'apparaissent pas
+dans le brouillon du carnet : ils ont été ajoutés dans une phase ultérieure.
+
+---
+
 Note sur les groupes YUSOQ / NODEN / ZLUIC et ACAUD / KUBNE :
 
 Ces groupes apparaissent AUSSI dans le script de performance de la planche 2
@@ -109,7 +130,7 @@ Note sur les balises YUSOQ/NODEN/ZLUIC/ACAUD/KUBNE :
 
 Recherches restantes :
   1. Blocs A/C/D (chiffres) : aucune correspondance longueur-de-mots trouvée dans
-     les 14 livres disponibles (avec jusqu’à 3 erreurs). Source non identifiée.
+     les 15 livres disponibles (avec jusqu’à 3 erreurs). Source non identifiée.
   2. Grille de lettres : essayer une lecture diagonale des GROUPES (5 lettres chacun)
      plutôt que des lettres individuelles.
   3. Texte anglais Van Vogt : ~323 lettres normalisées pour le passage confirmé, à
