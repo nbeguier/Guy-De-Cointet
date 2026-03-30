@@ -8,7 +8,6 @@ roman
 La Bibliothèque électronique du Québec
 Collection À tous les vents
 Volume 346 : version 1.01
-2
 Du même auteur, à la Bibliothèque :
 Famille-sans-nom
 Le pays des fourrures
@@ -44,15 +43,12 @@ L’île mystérieuse
 La maison à vapeur
 Le village aérien
 Clovis Dardentor
-3
 Les Indes noires
 Source : Jules Verne : Les romans du feu,
 Omnibus, édition présentée et commentée par
 Claude Aziza. Le volume comprend : Voyage au
 centre de la terre, Le Château des Carpathes,
 Les Indes noires et Maître du monde.
-4
-1
 Deux lettres contradictoires
 Mr. J. R. Starr, ingénieur,
 30, Canongate.
@@ -67,7 +63,6 @@ fils de l’ancien overman Simon Ford.
 Il est prié de tenir cette invitation secrète.
 Telle fut la lettre que James Starr reçut par le
 premier courrier à la date du 3 décembre 18... –
-5
 lettre qui portait le timbre du bureau de poste
 d’Aberfoyle, comté de Stirling, Écosse.
 La curiosité de l’ingénieur fut piquée au vif. Il
@@ -91,7 +86,6 @@ que dans les bas comtés de l’Écosse. Toutefois,
 c’était plus particulièrement au fond de ces
 mystérieuses houillères d’Aberfoyle, qui
 confinent aux mines d’Alloa et occupent une
-6
 partie du comté de Stirling, que le nom de Starr
 avait conquis l’estime générale. Là s’était écoulée
 presque toute son existence. En outre, James
@@ -116,7 +110,6 @@ surprenante richesse du Royaume-Uni. Là, en
 effet, tout un peuple de mineurs travaille, nuit et
 jour, à extraire du sous-sol britannique le
 charbon, ce précieux combustible, indispensable
-7
 élément de la vie industrielle.
 À cette époque, la limite de temps, assignée
 par les hommes spéciaux à l’épuisement des
@@ -140,7 +133,6 @@ Dix ans auparavant, la dernière benne avait
 enlevé la dernière tonne de houille de ce
 gisement. Le matériel du « fond1 », machines
 1 L’exploitation d’une mine se divise en travaux du « fond »
-8
 destinées à la traction mécanique sur les rails des
 galeries, berlines formant les trains subterranés,
 tramways souterrains, cages desservant les puits
@@ -164,7 +156,6 @@ fosse, complètement abandonnée, comme
 l’étaient les autres fosses, dont l’ensemble
 et travaux du « jour »; les uns s’accomplissant à l’intérieur, les
 autres à l’extérieur.
-9
 constituait les houillères d’Aberfoyle.
 Ce fut un triste jour, lorsque, pour la dernière
 fois, les mineurs quittèrent la mine, dans laquelle
@@ -188,7 +179,6 @@ l’ingénieur. La Compagnie leur avait fait
 distribuer, à titre de gratification, les bénéfices de
 l’année courante. Peu de chose, en vérité, car le
 rendement des filons avait dépassé de bien peu
-10
 les frais d’exploitation ; mais cela devait leur
 permettre d’attendre qu’ils fussent embauchés,
 soit dans les houillères voisines, soit dans les
@@ -211,7 +201,6 @@ réunissaient dans un travail commun, sont
 maintenant épuisées. Nos recherches n’ont pu
 amener la découverte d’un nouveau filon, et le
 dernier morceau de houille vient d’être extrait de
-11
 la fosse Dochart ! »
 Et, à l’appui de sa parole, James Starr montrait
 aux mineurs un bloc de charbon qui avait été
@@ -235,7 +224,6 @@ que l’avenir en réunisse jamais les membres
 longtemps vécu ensemble, et que, chez les
 mineurs d’Aberfoyle, c’est un devoir de
 s’entraider. Vos anciens chefs ne l’oublieront pas,
-12
 non plus. Quand on a travaillé ensemble, on ne
 saurait être des étrangers les uns pour les autres.
 Nous veillerons sur vous, et, partout où vous irez
@@ -259,7 +247,6 @@ Dochart, retentit une dernière fois sous le pied
 des mineurs, et le silence succéda à cette
 bruyante animation, qui avait empli jusqu’alors la
 houillère d’Aberfoyle.
-13
 Un homme était resté seul près de James Starr.
 C’était l’overman Simon Ford. Près de lui se
 tenait un jeune garçon, âgé de quinze ans, son fils
@@ -281,7 +268,6 @@ en secouant la tête. Oui ! loin de la fosse
 Dochart !
 – Loin, Simon ! Où comptez-vous donc
 demeurer ?
-14
 – Ici même, monsieur James ! Nous
 n’abandonnerons pas la mine, notre vieille
 nourrice, parce que son lait s’est tari ! Ma femme,
@@ -304,7 +290,6 @@ n’avait plus entendu parler de lui.
 Et c’était après dix ans de séparation, que lui
 arrivait cette lettre de Simon Ford, qui le conviait
 à reprendre sans délai le chemin des anciennes
-15
 houillères d’Aberfoyle.
 Une communication de nature à l’intéresser,
 qu’était-ce donc ? La fosse Dochart, le puits
@@ -328,7 +313,6 @@ dans ce sol ruiné par une exploitation poussée à
 l’excès. On avait même tenté de reprendre le
 terrain houiller sous les couches qui lui sont
 ordinairement inférieures, telles que le grès rouge
-16
 dévonien, mais sans résultat. James Starr avait
 donc abandonné la mine avec l’absolue
 conviction qu’elle ne possédait plus un morceau
@@ -352,7 +336,6 @@ avec sa femme et son fils. Tout ce qu’il savait,
 c’est que rendez-vous lui était donné au puits
 Yarow, et qu’Harry, le fils de Simon Ford,
 l’attendrait à la gare de Callander pendant toute la
-17
 journée du lendemain. Il s’agissait donc
 évidemment de visiter la fosse Dochart.
 « J’irai, j’irai ! » dit James Starr, qui sentait sa
@@ -375,7 +358,6 @@ troisième courrier, le domestique de James Starr
 apporta une seconde lettre.
 Cette lettre était renfermée dans une
 enveloppe grossière, dont la suscription indiquait
-18
 une main peu exercée au maniement de la plume.
 James Starr déchira cette enveloppe. Elle ne
 contenait qu’un morceau de papier, jauni par le
@@ -387,8 +369,6 @@ ainsi conçue :
 déranger... la lettre de Simon Ford étant
 maintenant sans objet. »
 Et pas de signature.
-19
-2
 Chemin faisant
 Le cours des idées de James Starr fut
 brusquement arrêté, lorsqu’il eut lu cette seconde
@@ -405,7 +385,6 @@ l’auteur de cette seconde lettre connaissait le
 secret de l’overman, puisqu’il contremandait
 formellement l’invitation faite à l’ingénieur de se
 rendre au puits Yarow.
-20
 Était-il donc vrai que cette première
 communication fût maintenant sans objet ?
 Voulait-on empêcher James Starr de se déranger,
@@ -429,7 +408,6 @@ de Simon Ford doit avoir une extrême
 importance ! Demain, je serai au rendez-vous
 indiqué et à l’heure convenue ! »
 Le soir venu, James Starr fit ses préparatifs de
-21
 départ. Comme il pouvait arriver que son absence
 se prolongeât pendant quelques jours, il prévint,
 par lettre, Sir W. Elphiston, le président de
@@ -453,7 +431,6 @@ souverains de l’Écosse. Il n’aperçut pas, devant
 sa poterne, les sentinelles revêtues de l’antique
 costume écossais, jupon d’étoffe verte, plaid
 1 Principale et célèbre rue du vieil Edimbourg.
-22
 quadrillé et sac de peau de chèvre à longs poils
 pendant sur la cuisse. Bien qu’il fût fanatique de
 Walter Scott, comme l’est tout vrai fils de la
@@ -478,7 +455,6 @@ décrite dans le roman de L’Abbé, il s’élança vers
 le pont gigantesque de Bridge-street, qui relie les
 trois collines d’Edimbourg.
 Quelques minutes après, James Starr arrivait à
-23
 la gare du « Général railway », et le train le
 débarquait, une demi-heure après, à Newhaven,
 joli village de pêcheurs, situé à un mille de Leith,
@@ -502,7 +478,6 @@ James Starr ne fut pas le dernier à
 s’embarquer. Il sauta lestement sur le pont du
 Prince de Galles. Bien que la pluie tombât avec
 violence, pas un de ces passagers ne songeait à
-24
 chercher un abri dans le salon du steam-boat.
 Tous restaient immobiles, enveloppés de leurs
 couvertures de voyage, quelques-uns se ranimant
@@ -526,7 +501,6 @@ nécessité de faire escale aux diverses stations des
 deux rives n’obligeait à de nombreux détours.
 Les villes, les villages, les cottages s’étalent sur
 les bords du Forth entre les arbres d’une
-25
 campagne fertile. James Starr, abrité sous la large
 passerelle jetée entre les tambours, ne cherchait
 pas à rien voir de ce paysage, alors rayé par les
@@ -550,7 +524,6 @@ les ruines d’un monastère du XIIe siècle, les
 restes du château de Barnbougle, puis
 Donibristle, où fut assassiné le gendre du régent
 Murray, puis l’îlot fortifié de Garvie. Il franchit le
-26
 détroit de Queensferry, laissa à gauche le château
 de Rosyth, où résidait autrefois une branche des
 Stuarts à laquelle était alliée la mère de
@@ -574,7 +547,6 @@ l’atmosphère. De Callander à la fosse Dochart et
 au puits Yarow, il fallait compter une distance de
 quatre milles. C’étaient là des raisons qui
 pouvaient, dans une certaine mesure, retarder le
-27
 fils du vieil overman. Toutefois, l’ingénieur se
 préoccupait davantage de l’idée que le rendez-
 vous donné dans la première lettre eût été
@@ -598,7 +570,6 @@ port de Bowness, le port de Grangemouth, creusé
 disparaissaient dans l’humide brouillard. Culross,
 le vieux bourg et les ruines de son abbaye de
 Cîteaux, Kinkardine et ses chantiers de
-28
 construction, auxquels le steam-boat fit escale,
 Ayrth-Castle et sa tour carrée du XIIIe siècle,
 Clackmannan et son château, bâti par Robert
@@ -622,7 +593,6 @@ dans les nombreux détours que fait le Forth sur
 un parcours de dix-neuf milles. Il circulait
 rapidement entre les grands arbres des deux rives.
 Un instant, dans une éclaircie, apparurent les
-29
 ruines de l’abbaye de Cambuskenneth, qui date
 du XIIe siècle. Puis, ce furent le château de
 Stirling et le bourg royal de ce nom, où le Forth,
@@ -636,8 +606,6 @@ gros village situé sur la rive gauche du Teith.
 Là, devant la gare, attendait un jeune homme,
 qui s’avança aussitôt vers l’ingénieur.
 C’était Harry, le fils de Simon Ford.
-30
-3
 Le sous-sol du Royaume-Uni
 Il est convenable, pour l’intelligence de ce
 récit, de rappeler en quelques mots quelle est
@@ -655,7 +623,6 @@ effet, un liquide chargé d’acide carbonique qui se
 déversait torrentiellement sur un sol pâteux, mal
 consolidé, sujet aux déformations brusques ou
 lentes, à la fois maintenu dans cet état semi-fluide
-31
 autant par les feux du soleil que par les feux de la
 masse intérieure. C’est que la chaleur interne
 n’était pas encore emmagasinée au centre du
@@ -679,7 +646,6 @@ terre n’était pas prête encore pour l’apparition du
 règne animal.
 Voici quelle était la composition de ces forêts
 antédiluviennes. La classe des cryptogames
-32
 vasculaires y dominait. Les calamites, variétés de
 prêles arborescentes, les lépidodendrons, sortes
 de lycopodes géants, hauts de vingt-cinq ou trente
@@ -703,7 +669,6 @@ l’atmosphère, encore impropre au
 fonctionnement de la vie, et on peut dire qu’ils
 étaient destinés à l’emmagasiner, sous forme de
 houille, dans les entrailles mêmes du globe.
-33
 En effet, c’était l’époque des tremblements de
 terre, de ces secouements du sol, dus aux
 révolutions intérieures et au travail plutonique,
@@ -727,7 +692,6 @@ dessus, le terrain des alluvions anciennes et
 modernes.
 À cette époque, les eaux, qu’aucun lit ne
 retenait encore et que la condensation engendrait
-34
 sur tous les points du globe, se précipitaient en
 arrachant aux roches, à peine formées, de quoi
 composer les schistes, les grès, les calcaires. Elles
@@ -751,7 +715,6 @@ et de la haute température que lui fournissaient
 les feux internes, si voisins d’elle à cette époque.
 Ainsi donc un règne se substituait à l’autre
 dans cette lente, mais irrésistible réaction. Le
-35
 végétal se transformait en minéral. Toutes ces
 plantes, qui avaient vécu de la vie végétative sous
 l’active sève des premiers jours, se pétrifiaient.
@@ -777,7 +740,6 @@ toute la terre, soit qu’elle y fût apportée par des courants d’eaux
 chaudes, soit que les feux intérieurs se fissent sentir à sa surface
 à travers la croûte poreuse. Ainsi s’explique la formation de
 gisements carbonifères sous toutes les latitudes terrestres.
-36
 puissance que sont dues les diverses sortes de
 houilles dont l’industrie fait usage. Ainsi, aux
 plus basses couches du terrain houiller apparaît
@@ -801,7 +763,6 @@ géologique, puis, minéralisation des végétaux
 obtenue avec le temps, sous l’influence de la
 pression et de la chaleur, et sous l’action de
 l’acide carbonique.
-37
 Cependant, la nature, si prodigue d’ordinaire,
 n’a pas enfoui assez de forêts pour une
 consommation qui comprendrait quelques
@@ -826,7 +787,6 @@ gîtes carbonifères du Nord-Amérique soient dix
 fois plus considérables que tous les gisements du
 monde entier, cent siècles ne s’écouleront pas
 sans que le monstre à millions de gueules de
-38
 l’industrie n’ait dévoré le dernier morceau de
 houille du globe.
 La disette, on le comprend, se fera plus
@@ -850,7 +810,6 @@ depuis la découverte des premiers gisements. Les
 bassins houillers de la Russie, de la Saxe et de la
 Bavière comprennent six cent mille hectares ;
 ceux de l’Espagne, cent cinquante mille ; ceux de
-39
 la Bohême et de l’Autriche, cent cinquante mille.
 Les bassins de la Belgique, longs de quarante
 lieues, larges de trois, comptent également cent
@@ -875,7 +834,6 @@ important de ces divers bassins, celui de
 Newcastle, qui occupe le sous-sol du comté de
 Northumberland, produit par an jusqu’à trente
 millions de tonnes, c’est-à-dire près du tiers de la
-40
 consommation anglaise et plus du double de la
 production française. Le bassin du pays de
 Galles, qui a concentré toute une population de
@@ -900,7 +858,6 @@ du commerce, que ces richesses s’épuiseront. Le
 troisième millénaire de l’ère chrétienne ne sera
 pas achevé, que la main du mineur aura vidé, en
 Europe, ces magasins dans lesquels, suivant une
-41
 juste image, s’est concentrée la chaleur solaire
 des premiers jours1.
 Or, précisément à l’époque où se passe cette
@@ -926,7 +883,6 @@ Allemagne – 300 ans.
 En Amérique, à raison de 500 millions de tonnes
 annuellement, les gîtes pourraient produire du charbon pendant
 6000 ans.
-42
 eussent été portés jusqu’à la profondeur de
 quinze cents et même de deux mille pieds, et
 lorsque James Starr s’était retiré, c’était avec la
@@ -950,7 +906,6 @@ plus compte. D’ailleurs, le fils du vieil overman
 lettre anonyme n’avait donc plus aucune valeur.
 À l’instant où l’ingénieur prenait pied sur le
 quai, le jeune homme s’avança vers lui.
-43
 « Tu es Harry Ford ? lui demanda vivement
 James Starr, sans autre entrée en matière.
 – Oui, monsieur Starr.
@@ -972,7 +927,6 @@ toute la journée, et je suis pressé. Partons.
 – À vos ordres, répondit le jeune homme.
 – Dis-moi, Harry, le père se porte bien ?
 – Très bien, monsieur Starr.
-44
 – Et la mère ?...
 – La mère aussi.
 – C’est ton père qui m’a écrit, pour me donner
@@ -993,7 +947,6 @@ soin de vous le dire lui-même.
 – Mais tu le sais ?...
 – Je le sais.
 – Eh bien, Harry, je ne t’en demande pas plus.
-45
 En route donc, car j’ai hâte de causer avec Simon
 Ford. À propos, où demeure-t-il ?
 – Dans la mine.
@@ -1015,8 +968,6 @@ Et James Starr, suivant le jeune homme, se
 dirigea à travers les rues de Callander.
 Dix minutes après, tous deux avaient quitté la
 ville.
-46
-4
 La fosse Dochart
 Harry Ford était un grand garçon de vingt-cinq
 ans, vigoureux, bien découplé. Sa physionomie
@@ -1034,7 +985,6 @@ solide compagnon, une brave et bonne nature.
 Guidé par son père, poussé par ses propres
 instincts, il avait travaillé, il s’était instruit de
 bonne heure, et, à un âge où l’on n’est guère
-47
 qu’un apprenti, il était arrivé à se faire quelqu’un
 – l’un des premiers de sa condition –, dans un
 pays qui compte peu d’ignorants, car il fait tout
@@ -1058,7 +1008,6 @@ une fraîche brise.
 Harry Ford et James Starr – le jeune homme
 portant le léger bagage de l’ingénieur – suivirent
 la rive gauche du fleuve pendant un mille
-48
 environ. Après avoir longé sa plage sinueuse, ils
 prirent une route qui s’enfonçait dans les terres
 sous les grands arbres ruisselants. De vastes
@@ -1083,7 +1032,6 @@ dernière tonne des houillères d’Aberfoyle avait
 Glasgow. La vie agricole remplaçait, maintenant,
 la vie industrielle, toujours plus bruyante, plus
 active. Le contraste était d’autant plus frappant
-49
 que, pendant l’hiver, les travaux des champs
 subissent une sorte de chômage. Mais autrefois,
 en toute saison, la population des mineurs, au-
@@ -1108,7 +1056,6 @@ alimentée au gisement même, nul tuyau
 d’échappement s’époumonant à souffler sa
 vapeur blanche. Le sol, autrefois sali par la
 poussière de la houille, avait un aspect propre,
-50
 auquel les yeux de James Starr n’étaient plus
 habitués.
 Lorsque l’ingénieur s’arrêtait, Harry Ford
@@ -1131,7 +1078,6 @@ incendies, des inondations, des coups de grisou
 qui frappent comme la foudre ! Il fallait parer à
 ces périls ! Tu dis bien ! C’était la lutte, et, par
 conséquent, la vie émouvante !
-51
 – Les mineurs d’Alloa ont été plus favorisés
 que les mineurs d’Aberfoyle, monsieur Starr !
 – Oui, Harry, répondit l’ingénieur.
@@ -1154,7 +1100,6 @@ certainement, c’est ainsi que notre monde eût fini
 un beau jour !
 – Cela n’est plus à craindre, monsieur Starr.
 Mais aussi, les houillères s’épuiseront, sans
-52
 doute, plus rapidement que ne l’établissent les
 statistiques !
 – Cela arrivera, Harry, et, suivant moi,
@@ -1178,7 +1123,6 @@ James Starr et son guide, tout en causant,
 avaient repris leur marche d’un pas rapide. Une
 heure après avoir quitté Callander, ils arrivaient à
 la fosse Dochart.
-53
 Un indifférent lui-même eût été touché du
 triste aspect que présentait l’établissement
 abandonné. C’était comme le squelette de ce qui
@@ -1202,7 +1146,6 @@ chambre délabrée des machines, autrefois si
 luisantes dans les parties du mécanisme faites
 d’acier ou de cuivre. Quelques pans de murs
 gisaient à terre au milieu de solives brisées et
-54
 verdies par l’humidité. Des restes de balanciers
 auxquels s’articulait la tige des pompes
 d’épuisement, des coussinets cassés ou encrassés,
@@ -1227,7 +1170,6 @@ sur l’orifice des puits de pompes, passerelles
 tremblant au vent, ponceaux frémissant au pied,
 murailles lézardées, toits à demi effondrés qui
 dominaient des cheminées aux briques disjointes,
-55
 ressemblant à ces canons modernes dont la
 culasse est frettée d’anneaux cylindriques, de tout
 cela il sortait une vive impression d’abandon, de
@@ -1250,7 +1192,6 @@ premier palier.
 À l’époque de l’exploitation, d’ingénieux
 engins desservaient certains puits des houillères
 d’Aberfoyle, qui, sous ce rapport, étaient
-56
 parfaitement outillées : cages munies de
 parachutes automatiques, mordant sur des
 glissières en bois, échelles oscillantes, nommées
@@ -1274,7 +1215,6 @@ avec un autre puits dont l’orifice s’ouvrait à un
 niveau supérieur – l’air chaud se dégageant
 naturellement par cette espèce de siphon
 renversé.
-57
 « Je te suis, mon garçon, dit l’ingénieur, en
 faisant signe au jeune homme de le précéder.
 – À vos ordres, monsieur Starr.
@@ -1297,7 +1237,6 @@ emploi. Mais si le danger n’existait pas, c’est que
 la cause en avait disparu, et, avec cette cause, le
 combustible qui faisait autrefois la richesse de la
 fosse Dochart.
-58
 Harry descendit les premiers échelons de
 l’échelle supérieure. James Starr le suivit. Tous
 deux se trouvèrent bientôt dans une obscurité
@@ -1320,7 +1259,6 @@ mais enfin, cela va encore !
 Harry, et c’est quelque chose, voyez-vous, que
 d’avoir longtemps vécu dans la mine.
 – Tu as raison, Harry. Autrefois, lorsque
-59
 j’avais vingt ans, j’aurais descendu tout d’une
 haleine. Allons, en route ! »
 Mais, au moment où tous deux allaient quitter
@@ -1342,7 +1280,6 @@ seuls.
 – Bon ! laissons passer cet intrus, dit James
 Starr. C’est à ceux qui descendent de céder le pas
 à ceux qui montent. »
-60
 Tous deux attendirent.
 La voix résonnait en ce moment avec un
 magnifique éclat, comme si elle eût été portée par
@@ -1364,7 +1301,6 @@ Et la chanson reprit de plus belle.
 Quelques instants après, un grand garçon de
 vingt-cinq ans, la figure gaie, les yeux souriants,
 la bouche joyeuse, la chevelure d’un blond
-61
 ardent, apparaissait au fond du cône lumineux
 que projetait sa lanterne, et il prenait pied sur le
 palier de la quinzième échelle.
@@ -1387,7 +1323,6 @@ qui chantait toujours. Voilà bien dix ans de cela,
 mon garçon ! C’était toi, sans doute ?
 – Moi-même, monsieur Starr, et, en changeant
 de métier, je n’ai pas changé d’humeur, voyez-
-62
 vous ? Bah ! rire et chanter, cela vaut mieux,
 j’imagine, que pleurer et geindre !
 – Sans doute, Jack Ryan. Et que fais-tu, depuis
@@ -1410,7 +1345,6 @@ t’a amené au cottage aujourd’hui ?
 Ryan, et t’inviter à la fête du clan d’Irvine. Tu
 sais, je suis le « piper1 » de l’endroit ! On
 1 Le piper est le joueur de cornemuse en Écosse.
-63
 chantera, on dansera !
 – Merci, Jack, mais cela m’est impossible.
 – Impossible ?
@@ -1432,7 +1366,6 @@ revu ! Je pourrai donner de vos nouvelles aux
 amis. Personne ne vous a oublié, monsieur
 l’ingénieur.
 – Et je n’ai oublié personne, dit James Starr.
-64
 – Merci pour tous, monsieur, répondit Jack
 Ryan.
 – Adieu, Jack ! » dit Harry, en serrant une
@@ -1456,7 +1389,6 @@ l’exploitation. Les piliers artificiels étaient faits
 de pierres arrachées aux carrières voisines, et
 maintenant ils supportaient le sol, c’est-à-dire le
 double étage des terrains tertiaires et
-65
 quaternaires, qui reposaient autrefois sur le
 gisement même. L’obscurité emplissait alors ces
 galeries, jadis éclairées soit par la lampe du
@@ -1480,7 +1412,6 @@ reconnaîtriez parfaitement votre route dans cet
 obscur dédale des galeries.
 – Oui, certes ! J’ai encore dans la tête tout le
 plan de la vieille fosse. »
-66
 Harry, suivi de l’ingénieur et levant sa lampe
 pour le mieux éclairer, s’enfonça dans une haute
 galerie, semblable à une contre-nef de cathédrale.
@@ -1503,7 +1434,6 @@ mon garçon ?
 évasivement Harry, dont le regard, devenu
 sérieux, aurait voulu percer ces épaisses
 murailles. Continuons notre route. Prenez mon
-67
 bras, je vous prie, et n’ayez aucune crainte de
 faire un faux pas.
 – Me voilà, Harry ! »
@@ -1525,7 +1455,6 @@ Harry s’était arrêté. Il écoutait.
 « Qu’y a-t-il, Harry ? demanda l’ingénieur.
 – J’ai cru entendre marcher derrière nous »,
 répondit le jeune mineur, qui prêta plus
-68
 attentivement l’oreille.
 Puis :
 « Non ! je me serai trompé, dit-il. Appuyez-
@@ -1541,8 +1470,6 @@ retournait, essayant de surprendre, soit un bruit
 éloigné, soit quelque lueur lointaine.
 Mais, derrière et devant lui, tout n’était que
 silence et ténèbres.
-69
-5
 La famille Ford
 Dix minutes après, James Starr et Harry
 sortaient enfin de la galerie principale.
@@ -1559,7 +1486,6 @@ sa moindre densité, l’air chaud de l’intérieur était
 entraîné vers le puits Yarow.
 Donc, un peu d’air et de clarté pénétrait à la
 fois à travers l’épaisse voûte de schiste jusqu’à la
-70
 clairière.
 C’était là que Simon Ford habitait depuis dix
 ans, avec sa famille, une souterraine demeure,
@@ -1583,7 +1509,6 @@ avait pas à craindre que les agents du fisc, les
 vinssent jamais y relancer ses hôtes !
 À cette époque, Simon Ford, l’ancien overman
 de la fosse Dochart, portait vigoureusement
-71
 encore ses soixante-cinq ans. Grand, robuste,
 bien taillé, il eût été regardé comme l’un des plus
 remarquables « sawneys1 » du canton, qui
@@ -1607,7 +1532,6 @@ Conquérant partageait entre ses compagnons
 d’armes les produits du bassin de Newcastle. Au
 1 Le sawney, c’est l’Écossais, comme John Bull est
 l’Anglais, et Paddy l’Irlandais.
-72
 XIIIe siècle, une licence d’exploitation du
 « charbon marin » était concédée par Henri III.
 Enfin, vers la fin du même siècle, il est fait
@@ -1631,7 +1555,6 @@ Quoi qu’il en soit, Simon Ford était fier
 d’appartenir à cette grande famille des houilleurs
 écossais. Il avait travaillé de ses mains, là même
 où ses ancêtres avaient manié le pic, la pince, la
-73
 rivelaine et la pioche. À trente ans, il était
 overman de la fosse Dochart, la plus importante
 des houillères d’Aberfoyle. Il aimait
@@ -1655,7 +1578,6 @@ Mais le moment arriva, on l’a dit, où la
 matière combustible manqua tout à fait à la
 houillère. Les sondages ne donnèrent plus aucun
 résultat. Il fut évident que le gîte carbonifère était
-74
 entièrement épuisé. L’exploitation cessa. Les
 mineurs se retirèrent.
 Le croira-t-on ? Ce fut un désespoir pour le
@@ -1679,7 +1601,6 @@ vieil overman ne connaissait ni les chaleurs de
 l’été, ni les froids de l’hiver. Les siens se
 portaient bien. Que pouvait-il désirer de plus ?
 Au fond, il était sérieusement attristé. Il
-75
 regrettait l’animation, le mouvement, la vie
 d’autrefois, dans la fosse si laborieusement
 exploitée. Cependant, il était soutenu par une idée
@@ -1703,7 +1624,6 @@ La digne compagne de Simon Ford, c’était
 Madge, grande et forte, la « goodwife », la
 « bonne femme », suivant l’expression écossaise.
 Pas plus que son mari, Madge n’eût voulu quitter
-76
 la fosse Dochart. Elle partageait à cet égard
 toutes ses espérances et ses regrets. Elle
 l’encourageait, elle le poussait en avant, elle lui
@@ -1726,7 +1646,6 @@ schiste. Soyez le bienvenu au cottage du vieil
 overman ! Pour être enfouie à quinze cents pieds
 sous terre, la maison de la famille Ford n’en est
 pas moins hospitalière !
-77
 – Comment allez-vous, brave Simon ?
 demanda James Starr, en serrant la main que lui
 tendait son hôte.
@@ -1750,7 +1669,6 @@ particulièrement enchanté de n’avoir entre vous
 et lui qu’un mur mitoyen.
 – Et Madge ?... demanda l’ingénieur.
 1 Stations balnéaires des environs d’Edimbourg.
-78
 – La bonne femme se porte encore mieux que
 moi, si cela est possible ! répondit Simon Ford, et
 elle se fait une joie de vous voir à sa table. Je
@@ -1773,7 +1691,6 @@ avantages que vous connaissez aussi bien que
 moi ! Vous voilà arrivé au cottage. C’est le
 principal, et, je vous le répète, soyez le
 bienvenu ! »
-79
 Simon Ford, suivi d’Harry, fit entrer dans
 l’habitation James Starr, qui se trouva au milieu
 d’une vaste salle, éclairée par plusieurs lampes,
@@ -1796,7 +1713,6 @@ que M. James. Il a une faim de mineur, et il verra
 que notre garçon ne nous laisse manquer de rien
 au cottage ! À propos, Harry, ajouta le vieil
 overman en se retournant vers son fils, Jack Ryan
-80
 est venu te voir.
 – Je le sais, père ! Nous l’avons rencontré dans
 le puits Yarow.
@@ -1818,7 +1734,6 @@ adresser.
 – Allez, monsieur James.
 – Votre lettre me parle d’une communication
 qui doit être de nature à m’intéresser ?
-81
 – Elle est très intéressante, en effet.
 – Pour vous ?...
 – Pour vous et pour moi, monsieur James.
@@ -1840,7 +1755,6 @@ attentivement.
 Puis, la montrant à son fils :
 « Connais-tu cette écriture ? dit-il.
 – Non, père, répondit Harry.
-82
 – Et cette lettre était timbrée du bureau de
 poste d’Aberfoyle ? demanda Simon Ford à
 l’ingénieur.
@@ -1863,7 +1777,6 @@ Et, sur l’invitation de la vieille femme, chacun
 prit place à la table – James Starr vis-à-vis de
 Madge, pour lui faire honneur –, le père et le fils
 l’un vis-à-vis de l’autre.
-83
 Ce fut un bon repas écossais. Et, d’abord, on
 mangea d’un « hotchpotch », soupe dont la
 viande nageait au milieu d’un excellent bouillon.
@@ -1886,7 +1799,6 @@ passa comme un rêve.
 Madge reçut les sincères compliments de son
 hôte.
 Le déjeuner se termina par un dessert composé
-84
 de fromage et de « cakes », gâteaux d’avoine,
 finement préparés, accompagnés de quelques
 petits verres « d’usquebaugh », excellente eau-
@@ -1909,7 +1821,6 @@ l’ingénieur dit à Simon Ford et Madge :
 amis !
 – Oui, monsieur James, un être bon et dévoué,
 répondit vivement le vieil overman.
-85
 – Il se plaît avec vous, au cottage ?
 – Il ne voudrait pas nous quitter.
 – Vous songerez à le marier, cependant ?
@@ -1931,7 +1842,6 @@ porte du cottage.
 « Eh bien, Simon, dit l’ingénieur, je vous
 écoute !
 – Monsieur James, répondit Simon Ford, je
-86
 n’ai pas besoin de vos oreilles, mais de vos
 jambes. Vous êtes-vous bien reposé ?
 – Bien reposé et bien refait, Simon. Je suis
@@ -1954,7 +1864,6 @@ ressortit presque aussitôt, rapportant trois lampes
 de sûreté.
 Harry remit une de ces lampes à l’ingénieur,
 l’autre à son père, et il garda la troisième
-87
 suspendue à sa main gauche, pendant que sa main
 droite s’armait d’un long bâton.
 « En route ! dit Simon Ford, qui prit un pic
@@ -1965,8 +1874,6 @@ Madge !
 – Un bon souper, femme, tu entends, s’écria
 Simon Ford. Nous aurons faim à notre retour, et
 nous lui ferons honneur ! »
-88
-6
 Quelques phénomènes inexplicables
 On sait ce que sont les croyances
 superstitieuses dans les hautes et basses terres de
@@ -1984,7 +1891,6 @@ moyennant finances, le « Seer » des Highlanders,
 qui, par un don de seconde vue, prédit les morts
 prochaines, le « May Moullach », qui se montre
 sous la forme d’une jeune fille aux bras velus et
-89
 prévient les familles des malheurs dont elles sont
 menacées, la fée « Branshie », qui annonce les
 événements funestes, les « Brawnies », auxquels
@@ -2009,7 +1915,6 @@ superstitieux Écossais. En vérité, la plupart des
 mineurs croyaient volontiers au fantastique,
 quand il ne s’agissait que de phénomènes
 purement physiques, et on eût perdu son temps à
-90
 vouloir les désabuser. Où la crédulité se fût-elle
 développée plus librement qu’au fond de ces
 abîmes ?
@@ -2033,7 +1938,6 @@ montre de sa crédulité. Ses camarades
 affirmaient, non moins hautement, que les fosses
 d’Aberfoyle étaient hantées, que certains êtres
 insaisissables y apparaissaient fréquemment,
-91
 comme cela arrivait dans les Hautes-Terres. À les
 entendre, ce qui même aurait été extraordinaire,
 c’eût été qu’il n’en fût pas ainsi. Est-il donc, en
@@ -2057,7 +1961,6 @@ donc souvent, soit lorsqu’ils se rendaient sur les
 travaux d’exploitation, soit lorsqu’ils en
 revenaient. De là, une facilité constante
 d’échanger des propos et de faire circuler d’une
-92
 fosse à l’autre les histoires qui tiraient leur
 origine de la houillère. Les récits se
 transmettaient ainsi avec une rapidité
@@ -2081,7 +1984,6 @@ Simon et Harry Ford eussent-ils été aussi
 crédules que leurs camarades, ils n’auraient
 abandonné la houillère ni aux génies, ni aux fées.
 L’espoir de découvrir un nouveau filon leur eût
-93
 fait braver toute la fantastique cohorte des lutins.
 Ils n’étaient crédules, ils n’étaient croyants que
 sur un point : ils ne pouvaient admettre que le
@@ -2105,7 +2007,6 @@ entière, ils la passeraient à essayer de rendre à la
 houillère d’Aberfoyle son ancienne prospérité. Si
 le père devait succomber avant l’heure de la
 réussite, le fils reprendrait la tâche à lui seul.
-94
 En même temps, ces deux gardiens passionnés
 de la houillère la visitaient au point de vue de sa
 conservation. Ils s’assuraient de la solidité des
@@ -2129,7 +2030,6 @@ Ainsi, plusieurs fois, lorsqu’il suivait quelque
 bruits analogues à ceux qu’auraient pu produire
 de violents coups de pic, frappés sur la paroi
 remblayée.
-95
 Harry, que le surnaturel, non plus que le
 naturel, ne pouvait effrayer, avait pressé le pas
 pour surprendre la cause de ce mystérieux travail.
@@ -2152,7 +2052,6 @@ de dynamite.
 La dernière fois, après de minutieuses
 recherches, il avait reconnu qu’un pilier venait
 d’être éventré par un coup de mine.
-96
 À la clarté de sa lampe, Harry examina
 attentivement la paroi attaquée par la mine. Elle
 n’était point faite d’un simple remblayage de
@@ -2176,7 +2075,6 @@ d’anéantir ce qui reste des houillères
 d’Aberfoyle ? Mais dans quel but ? Je le saurai,
 quand il devrait m’en coûter la vie ! »
 Quinze jours avant cette journée, pendant
-97
 laquelle Harry Ford guidait l’ingénieur à travers
 le dédale de la fosse Dochart, il s’était vu sur le
 point d’atteindre le but de ses recherches.
@@ -2200,7 +2098,6 @@ dévoiler ce mystère. De loin en loin, il vit encore
 apparaître des lueurs qui voltigeaient d’un point à
 l’autre comme des feux de Saint-Elme ; mais leur
 apparition n’avait que la durée d’un éclair et il
-98
 fallut renoncer à en découvrir la cause.
 Si Jack Ryan et les autres superstitieux de la
 houillère eussent aperçu ces flammes
@@ -2223,7 +2120,6 @@ genre.
 James Starr, interrogé, fus d’avis que cette
 pierre s’était détachée de la voûte de la galerie.
 Mais Harry n’admit pas une explication si simple.
-99
 La pierre, suivant lui, n’était pas tombée, elle
 avait été lancée. À moins de rebondir, elle n’eût
 jamais décrit une trajectoire, si elle n’eût été mue
@@ -2232,8 +2128,6 @@ Harry voyait donc là une tentative directe
 contre lui et son père, ou même contre
 l’ingénieur. Après ce qu’on sait, peut-être
 conviendra-t-on qu’il était fondé à le croire.
-100
-7
 Une expérience de Simon Ford
 Midi sonnait à la vieille horloge de bois de la
 salle, lorsque James Starr et ses deux
@@ -2250,7 +2144,6 @@ verra qu’il s’agissait d’une exploration –
 arrivèrent à l’orifice d’un étroit tunnel. C’était
 comme une contre-nef dont la voûte reposait sur
 un boisage, tapissé d’une mousse blanchâtre. Elle
-101
 suivait à peu près la ligne que traçait, à quinze
 cents pieds au-dessus, le haut cours du Forth.
 Pour le cas où James Starr eût été moins
@@ -2273,7 +2166,6 @@ ces temps sont loin !
 – Nous nous dirigeons donc vers l’extrémité
 du dernier filon ? demanda James Starr.
 – Oui. Je vois que vous connaissez encore bien
-102
 la mine.
 – Eh ! Simon, répondit l’ingénieur, il serait
 difficile d’aller plus loin, si je ne me trompe ?
@@ -2297,7 +2189,6 @@ maison de ses ancêtres !
 James Starr avait serré la main de Simon Ford.
 Mais, à son tour, celui-ci venait de prendre la
 main de l’ingénieur, et la pressant fortement :
-103
 « Ce jour-là, nous nous étions tous trompés,
 dit-il. Non ! La vieille houillère n’était pas
 morte ! Ce n’était pas un cadavre que les mineurs
@@ -2320,7 +2211,6 @@ assuré ?...
 Simon Ford. Ce n’est pas un gisement que j’ai
 retrouvé...
 – Qu’est-ce donc ?
-104
 – C’est seulement la preuve matérielle que ce
 gisement existe.
 – Et cette preuve ?
@@ -2343,7 +2233,6 @@ que par l’explosion !...
 – Monsieur James, répondit Simon Ford,
 voulez-vous me permettre de vous raconter ce
 que j’ai fait... et comment je l’ai fait... à ma
-105
 façon, en excusant les longueurs ? »
 James Starr connaissait le vieil overman, et
 savait que le mieux était de le laisser aller.
@@ -2367,7 +2256,6 @@ ces feux s’allumaient-ils ? Je ne pouvais et je ne
 puis le dire encore. Mais enfin, ces feux n’étaient
 évidemment dus qu’à la présence du grisou, et,
 pour moi, le grisou, c’était le filon de houille.
-106
 – Ces feux ne produisaient aucune explosion ?
 demanda vivement l’ingénieur.
 – Si, de petites explosions partielles, répondit
@@ -2391,7 +2279,6 @@ n’avait d’autre moyen de détruire le mauvais gaz
 qu’en le décomposant par de petites explosions,
 avant que sa légèreté l’eût amassé en trop grandes
 quantités dans les hauteurs des galeries. C’est
-107
 pourquoi le pénitent, la face masquée, la tête
 encapuchonnée dans son épaisse cagoule, tout le
 corps étroitement serré dans sa robe de bure,
@@ -2415,7 +2302,6 @@ Tout ce que le vieil overman avait raconté du
 pénitent était rigoureusement exact. C’est ainsi
 que l’on procédait autrefois dans les houillères
 pour purifier l’air des galeries.
-108
 Le grisou, autrement dit l’hydrogène
 protocarboné ou gaz des marais, incolore,
 presque inodore, ayant un pouvoir peu éclairant,
@@ -2440,7 +2326,6 @@ perfectionnée de vingt façons. Si elle vient à se
 briser, elle s’éteint. Si, malgré les défenses
 formelles, le mineur veut l’ouvrir, elle s’éteint
 encore. Pourquoi donc les explosions se
-109
 produisent-elles ? C’est que rien ne peut obvier à
 l’imprudence d’un ouvrier qui veut quand même
 allumer sa pipe, ni au choc de l’outil qui peut
@@ -2464,7 +2349,6 @@ Tout en marchant, Simon Ford apprit à
 l’ingénieur ce qu’il avait fait pour atteindre son
 but, comment il s’était assuré que le dégagement
 du grisou se faisait au fond même de l’extrême
-110
 galerie de la fosse, dans sa portion occidentale, de
 quelle façon il avait provoqué à l’affleurement
 des feuillets de schistes quelques explosions
@@ -2489,7 +2373,6 @@ quelquefois entre les feuillets, elle se fût
 promptement vidée, et le phénomène eût cessé de
 se produire. Mais loin de là. Au dire de Simon
 Ford, l’hydrogène se dégageait sans cesse, et l’on
-111
 en pouvait conclure à l’existence de quelque
 important filon. Conséquemment, les richesses de
 la fosse Dochart pouvaient n’être pas entièrement
@@ -2512,7 +2395,6 @@ mais il ne faut pas perdre de temps ! »
 formait en s’évasant une sorte de caverne
 obscure. Aucun puits n’avait été foncé dans cette
 portion du massif, et la galerie, profondément
-112
 ouverte dans les entrailles du sol, était sans
 communication directe avec la surface du comté
 de Stirling.
@@ -2536,7 +2418,6 @@ soulevant son pic, c’est ici que nous attaquerons
 la faille1, car, derrière cette paroi, à une
 1 La faille est la portion du massif où manque le filon, et
 elle se compose ordinairement de grès ou de schiste.
-113
 profondeur plus ou moins considérable, se trouve
 assurément le nouveau filon dont j’affirme
 l’existence.
@@ -2559,7 +2440,6 @@ C’est que, en effet, l’hydrogène protocarboné
 n’est pas complètement inodore, et l’ingénieur
 était tout d’abord étonné que son odorat, qu’il
 avait très fin, ne lui eût pas révélé la présence du
-114
 gaz explosif. En tout cas, si ce gaz était mêlé à
 l’air ambiant, ce n’était qu’à bien faible dose.
 Donc, pas d’explosion à craindre, et l’on pouvait
@@ -2583,7 +2463,6 @@ remarquée par Harry, car celui-ci, d’une voix
 altérée, dit :
 « Père, il semble que la fuite du gaz ne se fait
 plus à travers les feuillets de schiste !
-115
 – Ne se fait plus !... » s’écria le vieux mineur.
 Et Simon Ford, après avoir hermétiquement
 serré ses lèvres, aspira fortement du nez, à
@@ -2606,7 +2485,6 @@ de sa légèreté spécifique, aurait dû plutôt
 s’accumuler, en si minime quantité que ce fût.
 La flamme de la lampe, droite et blanche, ne
 décela aucune trace d’hydrogène protocarboné.
-116
 « À la paroi ! dit l’ingénieur.
 – Oui ! » répondit Simon Ford, en portant la
 lampe sur cette partie de la paroi à travers
@@ -2629,7 +2507,6 @@ travers la paroi.
 tendit sous une impression de colère plutôt que de
 désappointement.
 Un cri s’échappa alors de la bouche d’Harry.
-117
 « Qu’as-tu ? demanda vivement James Starr.
 – On a bouché les fissures du schiste !
 – Dis-tu vrai ? s’écria le vieux mineur.
@@ -2652,7 +2529,6 @@ enfin, qui nous a lancé cette pierre dans la galerie
 du puits Yarow ! Ah ! aucun doute n’est plus
 possible ! La main d’un homme est dans tout
 cela ! »
-118
 Harry avait parlé avec une telle énergie, que sa
 conviction passa instantanément et tout entière
 dans l’esprit de l’ingénieur. Quant au vieil
@@ -2676,7 +2552,6 @@ dans les houillères anglaises, est connu sous le
 nom onomatopique de « puff ».
 Harry saisit alors sa lampe, et il l’approcha de
 la fissure...
-119
 Une légère détonation se fit entendre, et une
 petite flamme rouge, un peu bleuâtre à son
 contour, voltigea sur la paroi, comme eût fait un
@@ -2686,8 +2561,6 @@ overman, ne pouvant contenir sa joie, saisit les
 mains de l’ingénieur, en s’écriant :
 « Hurrah ! hurrah ! hurrah ! monsieur James !
 Le grisou brûle ! Donc, le filon est là ! »
-120
-8
 Un coup de dynamite
 L’expérience annoncée par le vieil overman
 avait réussi. L’hydrogène protocarboné, on le
@@ -2704,7 +2577,6 @@ avait déjà tirées Simon Ford.
 s’étend une couche carbonifère que nos sondages
 n’ont pas su atteindre ! Cela est fâcheux, puisque
 tout l’outillage de la mine abandonnée depuis dix
-121
 ans, est maintenant à refaire ! N’importe ! Nous
 avons retrouvé la veine que l’on croyait épuisée,
 et, cette fois, nous l’exploiterons jusqu’au bout !
@@ -2728,7 +2600,6 @@ extraites du nouveau gisement !
 – Bien parlé, monsieur James ! s’écria Simon
 Ford. La vieille houillère va donc rajeunir,
 comme une veuve qui se remarie ! L’animation
-122
 des anciens jours recommencera avec les coups
 de pioche, les coups de pic, les coups de mine, le
 roulement des wagons, le hennissement des
@@ -2752,7 +2623,6 @@ souvenir reparaissait la succession des
 circonstances singulières, inexplicables, au milieu
 desquelles s’était opérée la découverte du
 nouveau gisement. Cela ne laissait pas de
-123
 l’inquiéter pour l’avenir.
 Une heure après, James Starr et ses deux
 compagnons étaient de retour au cottage.
@@ -2776,7 +2646,6 @@ en y comprenant les haltes nécessaires à
 l’exploration – si une exploration devenait
 possible.
 « À l’œuvre ! » s’écria Simon, lorsque ses
-124
 compagnons et lui furent arrivés à l’extrémité de
 la galerie.
 Et sa main saisit une lourde pince qu’elle
@@ -2799,7 +2668,6 @@ faiblement. Cela tenait sans doute à ce que,
 depuis la veille, il trouvait un libre passage pour
 s’épancher. Toutefois, cette émission était si peu
 importante, qu’elle ne pouvait former avec l’air
-125
 intérieur un mélange détonant. James Starr et ses
 compagnons allaient donc pouvoir procéder en
 toute sécurité. D’ailleurs, cet air se purifierait peu
@@ -2822,7 +2690,6 @@ en résulta un évidement assez profond dans la
 paroi terminale.
 James Starr choisit alors l’emplacement où
 devaient être forés les trous de mine, travail qui
-126
 s’accomplit rapidement sous la main d’Harry
 avec le fleuret et la massette1. Des cartouches de
 dynamite furent introduites dans ces trous. Dès
@@ -2846,7 +2713,6 @@ manière dont Harry et moi nous avons découvert
 ce gîte, pourquoi cette chance ne continuerait-elle
 pas jusqu’au bout ? »
 1 Sorte de marteau spécial au mineur.
-127
 L’explosion de la dynamite se produisit. Un
 roulement sourd se propagea à travers le réseau
 des galeries souterraines.
@@ -2868,7 +2734,6 @@ Ford.
 Un quart d’heure se passa dans une anxieuse
 attente. Le fanal, placé au bout d’un bâton, fut
 1 Nom donné aux exhalaisons mauvaises dans les houlières.
-128
 alors introduit dans l’excavation et continua de
 brûler avec un inaltérable éclat.
 « Va donc, Harry, dit James Starr, nous te
@@ -2891,12 +2756,9 @@ elle plus arriver jusqu’à ses compagnons ?
 Le vieil overman, ne voulant rien écouter,
 allait s’introduire à son tour par l’orifice, lorsque
 parut une lueur, vague d’abord, qui se renforça
-129
 peu à peu, et Harry fit entendre ces paroles :
 « Venez, monsieur Starr ! Venez, mon père !
 La route est libre dans la Nouvelle-Aberfoyle. »
-130
-9
 La Nouvelle-Aberfoyle
 Si, par quelque puissance surhumaine, des
 ingénieurs eussent pu enlever d’un bloc et sur une
@@ -2914,7 +2776,6 @@ centaines d’alvéoles, de toutes formes et de toutes
 grandeurs. On eût dit une ruche, avec ses
 nombreux étages de cellules, capricieusement
 disposées, mais une ruche construite sur une
-131
 vaste échelle, et qui, au lieu d’abeilles, eût suffi à
 loger tous les ichthyosaures, les mégathériums, et
 les ptérodactyles de l’époque géologique !
@@ -2938,7 +2799,6 @@ sang noir de cette étrange houillère eût circulé à
 travers leur inextricable réseau. Ces gisements se
 développaient sur une étendue de quarante milles
 du nord au sud, et ils s’enfonçaient même sous le
-132
 canal du Nord. L’importance de ce bassin
 n’aurait pu être évaluée qu’après sondages, mais
 elle devait dépasser celle des couches
@@ -2962,7 +2822,6 @@ portion du sous-sol de l’Écosse, et c’était la
 nature qui avait ainsi fait les choses. Mais, on le
 répète, nul hypogée de l’époque égyptienne, nulle
 catacombe de l’époque romaine, n’auraient pu lui
-133
 être comparés – si ce n’est les célèbres grottes de
 Mammouth, qui, sur une longueur de plus de
 vingt milles, comptent deux cent vingt-six
@@ -2986,7 +2845,6 @@ de James Starr, pendant les dernières années
 d’exploitation, s’étaient-ils précisément arrêtés à
 cette limite, sur la frontière même de la nouvelle
 mine ? cela était dû au hasard, dont la part est
-134
 grande dans les recherches de ce genre.
 Quoi qu’il en soit, il y avait là, dans le sous-
 sol écossais, une sorte de comté souterrain,
@@ -3010,7 +2868,6 @@ se levait jamais sur leur horizon. Et pourtant, ces
 lacs profonds, dont la brise ne ridait pas le miroir,
 n’auraient pas été sans charme, à la lumière de
 quelque astre électrique, et, réunis par un lacet de
-135
 canaux, ils complétaient bien la géographie de cet
 étrange domaine.
 Quoiqu’il fût impropre à toute production
@@ -3022,8 +2879,6 @@ dans celles de Newcastle, d’Alloa ou de Cardiff,
 lorsque leurs gisements seront épuisés, qui sait si
 la classe pauvre du Royaume-Uni ne trouvera pas
 refuge quelque jour ?
-136
-10
 Aller et retour
 À la voix d’Harry, James Starr, Madge et
 Simon Ford s’étaient introduits par l’étroit orifice
@@ -3040,7 +2895,6 @@ ancienne houillère, dont les plus vieux mineurs
 du comté n’auraient jamais connu l’existence.
 Non ! C’étaient les couches géologiques qui
 avaient « épargné » cette galerie, à l’époque où se
-137
 faisait le tassement des terrains secondaires. Peut-
 être quelque torrent l’avait-il parcourue autrefois,
 lorsque les eaux supérieures allaient se mélanger
@@ -3064,7 +2918,6 @@ de sûreté, qui lui assurait un éclairage de douze
 heures.
 James Starr et ses compagnons éprouvaient
 alors une joie complète. C’était l’entière
-138
 satisfaction de leurs désirs. Autour d’eux, tout
 n’était que houille. Une certaine émotion les
 rendait silencieux. Simon Ford, lui-même, se
@@ -3088,7 +2941,6 @@ dans la houillère.
 La galerie aboutissait à une énorme caverne,
 dont on ne pouvait estimer ni la hauteur, ni la
 profondeur. À quelle altitude s’arrondissait la
-139
 voûte de cette excavation, à quell[Oe distance se
 reculait sa paroi opposée ? les ténèbres qui
 l’emplissaient ne permettaient pas de le
@@ -3111,7 +2963,6 @@ J’avoue que mes jambes en ont besoin ! Et vous,
 Madge, est-ce que vous ne vous ressentez pas des
 fatigues d’une aussi longue course ?
 – Mais pas trop, monsieur James, répondit la
-140
 robuste Écossaise. Nous avions l’habitude
 d’explorer pendant des journées entières
 l’ancienne houillère d’Aberfoyle.
@@ -3134,7 +2985,6 @@ mon instinct de vieux mineur. Il ne m’a jamais
 trompé !
 – Je veux vous croire, Simon, répondit
 l’ingénieur en souriant. Mais enfin, tel que j’en
-141
 puis juger par cette courte exploration, nous
 possédons les éléments d’une exploitation qui
 durera des siècles !
@@ -3157,7 +3007,6 @@ comme elle se détaillera en gailleteries1, presque
 sans poussière ! Ah ! monsieur James, il y a vingt
 ans, voici un gisement qui aurait fait une rude
 1 Nom que les mineurs donnent aux moyennes sortes.
-142
 concurrence au Swansea et au Cardiff ! Eh bien,
 les chauffeurs se le disputeront encore, et, s’il
 coûte peu à extraire de la mine, il ne s’en vendra
@@ -3181,7 +3030,6 @@ direction générale. Mais, sans boussole, je suis ici
 comme un marin en pleine mer, au milieu des
 brumes, lorsque l’absence de soleil ne lui permet
 pas de relever sa position.
-143
 – Sans doute, monsieur James, répliqua Simon
 Ford, mais, je vous en prie, ne comparez pas
 notre position à celle du marin, qui a toujours et
@@ -3205,7 +3053,6 @@ avait surpris un bruit sourd, comme eût été un
 murmure lointain. James Starr, Simon et Madge
 ne tardèrent pas à l’entendre eux-mêmes. Il se
 produisait, dans les couches supérieures du
-144
 massif, une sorte de roulement, dont on percevait
 distinctement le crescendo et le decrescendo
 successif, si faible qu’il fût.
@@ -3228,7 +3075,6 @@ même du lac Katrine.
 en cet endroit, puisque le bruit des eaux est
 perceptible ?
 – Peu épaisse, en effet, répondit James Starr,
-145
 et c’est ce qui fait que cette excavation est si
 vaste.
 – Vous devez avoir raison, monsieur Starr, dit
@@ -3252,7 +3098,6 @@ l’Atlantique ! Allons rejoindre à coups de pioche
 nos frères des États-Unis à travers le sous-sol de
 l’Océan ! Fonçons jusqu’au centre du globe, s’il
 le faut, pour lui arracher son dernier morceau de
-146
 houille !
 – Croyez-vous rire, monsieur James ?
 demanda Simon Ford d’un air tant soit peu
@@ -3275,7 +3120,6 @@ dynamite. Donc, nulle crainte de s’égarer.
 Mais, au moment où James Starr se dirigeait
 vers la galerie, Simon Ford l’arrêta.
 « Monsieur James, lui dit-il, vous voyez cette
-147
 caverne immense, ce lac souterrain qu’elle
 recouvre, cette grève que les eaux viennent
 baigner à nos pieds ? Eh bien, c’est ici que je
@@ -3299,7 +3143,6 @@ lorsqu’une fâcheuse complication survint, qui
 rendit fort grave la situation des explorateurs.
 En effet, à un moment où Harry levait sa
 lampe, un vif déplacement de l’air s’opéra,
-148
 comme s’il eût été causé par un battement d’ailes
 invisibles. La lampe, frappée de biais, s’échappa
 des mains d’Harry, tomba sur le sol rocheux de la
@@ -3323,7 +3166,6 @@ mais les faits parlaient d’eux-mêmes, et ils
 s’accumulaient de manière à changer de simples
 présomptions en certitudes.
 En attendant, la situation des explorateurs était
-149
 assez mauvaise. Il leur fallait, au milieu de
 profondes ténèbres, suivre pendant environ cinq
 milles la galerie qui conduisait à la fosse Dochart.
@@ -3347,7 +3189,6 @@ après, et moi, je fermerai la marche. Ne nous
 séparons pas surtout, et qu’on se sente les talons,
 sinon les coudes ! »
 Il n’y avait qu’à se conformer aux instructions
-150
 du vieil overman. Comme il le disait, en
 tâtonnant on ne pouvait guère se tromper de
 route. Il fallait seulement remplacer les yeux par
@@ -3371,7 +3212,6 @@ l’anfractuosité fût peu profonde, soit que l’orifice
 fût trop étroit, et il se maintenait ainsi dans le
 droit chemin.
 Au milieu d’une obscurité à laquelle les yeux
-151
 ne pouvaient se faire, puisqu’elle était absolue, ce
 difficile retour dura deux heures environ. En
 supputant le temps écoulé, en tenant compte de
@@ -3394,12 +3234,9 @@ Un cri lui échappa.
 Ou les explorateurs s’étaient égarés pendant le
 retour, ou l’étroit orifice, creusé dans la paroi par
 la dynamite, avait été bouché récemment !
-152
 Quoi qu’il en soit, James Starr et ses
 compagnons étaient emprisonnés dans la
 Nouvelle-Aberfoyle !
-153
-11
 Les Dames de feu
 Huit jours après ces événements, les amis de
 James Starr étaient fort inquiets. L’ingénieur
@@ -3417,7 +3254,6 @@ Donc, à Edimbourg, il ne fut plus question que
 de l’absence inexplicable de l’ingénieur. Sir W.
 Elphiston, le président de « Royal Institution »,
 communiqua à ses collègues la lettre que lui avait
-154
 adressée James Starr, en s’excusant de ne pouvoir
 assister à la prochaine séance de la Société. Deux
 ou trois autres personnes produisirent aussi des
@@ -3441,7 +3277,6 @@ Les recherches n’aboutirent pas. Personne ne
 se rappelait avoir vu l’ingénieur dans le pays.
 Seul, Jack Ryan, qui l’avait rencontré en
 compagnie d’Harry sur un des paliers du puits
-155
 Yarow, eût pu satisfaire la curiosité publique.
 Mais le joyeux garçon, on le sait, travaillait à la
 ferme de Melrose, à quarante milles dans le sud-
@@ -3465,7 +3300,6 @@ Il fallut donc insérer dans les principaux
 journaux du Royaume-Uni une note relative à
 l’ingénieur James Starr, donnant son signalement,
 indiquant la date à laquelle il avait quitté
-156
 Edimbourg, et il n’y eut plus qu’à attendre. Cela
 ne se fit pas sans grande anxiété. Le monde
 savant de l’Angleterre n’était pas éloigné de
@@ -3489,7 +3323,6 @@ Or, à la fête d’Irvine, rien n’avait manqué, ni
 les chants, ni les danses, ni les réjouissances de
 toutes sortes, rien – si ce n’est Harry Ford.
 Jack Ryan avait commencé par lui en vouloir,
-157
 parce que l’absence de son ami influait sur sa
 bonne humeur. Il en perdit même la mémoire au
 milieu d’une de ses chansons, et, pour la première
@@ -3513,7 +3346,6 @@ ils étaient nombreux à la ferme de Melrose.
 Irvine, petite ville maritime du comté de
 Renfrew, qui compte environ sept mille habitants,
 est bâtie dans un brusque retour que fait la côte
-158
 écossaise, presque à l’ouverture du golfe de
 Clyde. Son port, assez bien abrité contre les vents
 du large, est éclairé par un feu important qui
@@ -3537,7 +3369,6 @@ mal famées de cette partie du littoral, étaient
 précisément celles de ce château de Robert
 Stuart, qui porte le nom de Dundonald-Castle.
 À cette époque, le château de Dundonald,
-159
 refuge de tous les lutins errants de la contrée,
 était voué au plus complet abandon. On allait peu
 le visiter sur le haut rocher qu’il occupait au-
@@ -3561,7 +3392,6 @@ Ces flammes avaient-elles forme humaine,
 comme on l’assurait ? Méritaient-elles ce nom de
 « Dames de feu » que leur avaient donné les
 Écossais du littoral ? Ce n’était évidemment là
-160
 qu’une illusion de cerveaux portés à la crédulité,
 et la science eût expliqué physiquement ce
 phénomène.
@@ -3585,7 +3415,6 @@ d’en conter à leur sujet !
 Donc, pendant cette dernière veillée, bien
 arrosée d’ale, de brandy et de whisky, qui avait
 terminé la fête du clan d’Irvine, Jack Ryan
-161
 n’avait pas manqué de reprendre son thème
 favori, au grand plaisir et peut-être au grand
 effroi de ses auditeurs.
@@ -3609,7 +3438,6 @@ commerce, à voiles ou vapeur, attaquent la terre,
 lorsqu’ils veulent donner dans le golfe de Clyde.
 Ce soir-là, cependant, quelque pêcheur, attardé
 sur le rivage, eût aperçu, non sans surprise, un
-162
 navire qui se dirigeait vers la côte. Si le jour se
 fût fait tout à coup, ce n’est plus avec surprise,
 mais avec effroi, que ce bâtiment eût été vu,
@@ -3632,7 +3460,6 @@ pluie et de vent couraient à la surface de la grève.
 Deux ou trois pêcheurs, arc-boutés près d’un
 rocher, afin de mieux résister aux poussées de
 l’air, appelaient avec de grands éclats de voix.
-163
 Jack Ryan et ses compagnons coururent à eux.
 Ces cris, ce n’était pas aux habitants de la
 ferme qu’ils s’adressaient, mais à un équipage
@@ -3655,7 +3482,6 @@ plus !
 bourrasque, on ne pourrait pas tenir une torche
 allumée ! »
 Et, pendant que ces propos s’échangeaient
-164
 rapidement, de nouveaux cris étaient poussés.
 Mais comment eût-on pu les entendre au milieu
 de cette tempête ? L’équipage du navire n’avait
@@ -3678,7 +3504,6 @@ croire, un suprême avertissement que Jack Ryan
 avait tenté de faire parvenir au bâtiment en
 perdition. Jack Ryan tournait alors le dos à la
 mer. Ses compagnons, eux aussi, regardaient un
-165
 point situé à un demi mille en arrière de la grève.
 C’était le château de Dundonald. Une longue
 flamme se tordait sous les rafales au sommet de
@@ -3701,7 +3526,6 @@ fausse route, et qu’il avait pris cette flamme,
 allumée au sommet du château de Dundonald,
 pour le feu d’Irvine. Il se croyait à l’entrée du
 golfe, située dix milles plus au nord, et il courait
-166
 vers une franche terre, qui ne lui offrait aucun
 refuge !
 Que pouvait-on faire pour le sauver, s’il en
@@ -3724,7 +3548,6 @@ C’était le bâtiment qui l’abordait, se couchait sur
 le flanc et se disloquait entre les récifs.
 Et, à ce même instant, par une coïncidence qui
 ne pouvait être due qu’au hasard, la longue
-167
 flamme disparut, comme si elle eût été arrachée
 par une violente rafale. La mer, le ciel, la grève
 furent aussitôt replongés dans les plus profondes
@@ -3748,7 +3571,6 @@ nombre – se fussent grièvement meurtris sur les
 roches ; mais le capitaine du navire et les huit
 hommes de l’équipage purent être déposés, sains
 et saufs, sur la grève.
-168
 Ce navire était le brick norvégien Motala,
 chargé de bois du Nord, faisant route pour
 Glasgow.
@@ -3759,8 +3581,6 @@ lieu d’embouquer le golfe de Clyde.
 Et maintenant, du Motala, il ne restait plus que
 de rares épaves, dont le ressac achevait de briser
 les débris sur les roches du littoral.
-169
-12
 Les exploits de Jack Ryan
 Jack Ryan et trois de ses compagnons, blessés
 comme lui, avaient été transportés dans une des
@@ -3777,7 +3597,6 @@ quelques jours, ce dont il enragea fort.
 Cependant, lorsqu’on lui eut permis de chanter
 autant qu’il le voudrait, il prit son mal en
 patience, et la ferme de Melrose retentit, à toute
-170
 heure, des joyeux éclats de sa voix. Mais Jack
 Ryan, dans cette aventure, ne puisa qu’un plus vif
 sentiment de crainte à l’égard de ces brawnies et
@@ -3802,7 +3621,6 @@ semblèrent donner raison – au moins en
 apparence – à cette façon superstitieuse
 d’expliquer les choses.
 En effet, le magistrat, chargé de diriger une
-171
 enquête relativement à la perte du Motala, vint
 interroger les divers témoins de la catastrophe.
 Tous furent d’accord sur ce point que le naufrage
@@ -3826,7 +3644,6 @@ pouvait plus sortir. Tantôt une torche, attachée
 aux cornes d’un taureau et promenée au caprice
 de l’animal, trompait un équipage sur la route à
 suivre. Le résultat de ces manœuvres était
-172
 inévitablement quelque naufrage, dont les pillards
 profitaient. Il avait fallu l’intervention de la
 justice et de sévères exemples pour détruire ces
@@ -3850,7 +3667,6 @@ Le magistrat voulut d’abord reconnaître si le
 sol avait conservé quelques empreintes de pas,
 pouvant être attribuées à d’autres pieds que des
 pieds de lutins. Il fut impossible de relever la plus
-173
 légère trace, ni ancienne ni nouvelle. Cependant,
 la terre, encore tout humide des pluies de la
 veille, eût conservé le moindre vestige.
@@ -3873,7 +3689,6 @@ Sur le second point, néant non moins absolu.
 On ne retrouva ni herbes desséchées, ni
 fragments de bois, dont ce foyer, si intense, avait
 pourtant dû être largement alimenté pendant la
-174
 nuit.
 Quant au troisième point, il ne put être éclairci
 davantage. L’absence de toutes cendres, de tout
@@ -3897,7 +3712,6 @@ en furent pour leur peine, qu’une nouvelle
 légende s’ajouta à tant d’autres – légende qui
 devait perpétuer le souvenir de la catastrophe du
 Motala et affirmer plus indiscutablement encore
-175
 l’apparition des Dames de feu.
 Cependant, un si brave garçon que Jack Ryan,
 et d’une si vigoureuse constitution, ne pouvait
@@ -3921,7 +3735,6 @@ entendu parler de la catastrophe du Motala
 rapportée à grands détails par les journaux. Il
 devait savoir la part que Jack Ryan avait prise au
 sauvetage, ce qui en était advenu pour lui, et
-176
 c’eût été trop d’indifférence de la part d’Harry
 que de ne pas pousser jusqu’à la ferme pour
 serrer la main de son ami Jack Ryan.
@@ -3945,7 +3758,6 @@ Starr, d’Edimbourg, s’est embarqué à Granton-
 pier sur le Prince de Galles. Il a débarqué le
 même jour à Stirling. Depuis ce temps, on est
 sans nouvelles de lui.
-177
 « Prière d’adresser toute information le
 concernant au président de Royal Institution, à
 Edimbourg. »
@@ -3969,7 +3781,6 @@ l’ingénieur James Starr.
 Trois heures après, il quittait le train à la gare
 de Callander, et se dirigeait rapidement vers le
 puits Yarow.
-178
 « Ils n’ont pas reparu, se disait-il. Pourquoi ?
 Est-ce quelque obstacle qui les en a empêchés ?
 Est-ce un travail dont l’importance les retient
@@ -3992,7 +3803,6 @@ supérieure.
 Cette lampe avait disparu.
 « Voilà une première complication ! » dit Jack
 Ryan, qui commença à devenir très inquiet.
-179
 Puis, sans hésiter, tout superstitieux qu’il fût :
 « J’irai, dit-il, quand il devrait faire plus noir
 dans la fosse que dans le tréfonds de l’enfer ! »
@@ -4016,7 +3826,6 @@ comme on sait, à l’extrémité de la galerie
 principale.
 Jack Ryan arriva ainsi au vingt-sixième palier,
 et, par conséquent, deux cents pieds, au plus, le
-180
 séparaient alors du fond.
 À cet endroit, il baissa la jambe pour chercher
 le premier échelon de la vingt-septième échelle.
@@ -4039,7 +3848,6 @@ eux, n’avaient pu remonter. Il n’existait plus, en
 effet, aucune communication entre le sol du
 comté et les profondeurs de la fosse. Si cet
 enlèvement des échelles inférieures du puits
-181
 Yarow avait été pratiqué depuis sa dernière visite
 au cottage, qu’étaient devenus Simon Ford, sa
 femme, son fils et l’ingénieur ? L’absence
@@ -4063,7 +3871,6 @@ Jack Ryan se pencha au-dessus du palier.
 puissante.
 Les échos se renvoyèrent à plusieurs reprises
 le nom d’Harry, qui s’éteignit enfin dans les
-182
 dernières profondeurs du puits Yarow.
 Jack Ryan remonta rapidement les échelles
 supérieures, et revit la lumière du jour. Il ne
@@ -4087,7 +3894,6 @@ des houillères d’Aberfoyle.
 Le soir même, Sir W. Elphiston, Jack Ryan et
 les agents arrivèrent à l’orifice du puits Yarow, et
 ils descendirent jusqu’au vingt-septième palier,
-183
 sur lequel Jack s’était arrêté, quelques heures
 auparavant.
 Les lampes, attachées au bout de longues
@@ -4110,7 +3916,6 @@ agents fixèrent au palier les échelles de corde, qui
 se déroulèrent dans le puits. Les paliers inférieurs
 subsistaient encore. On put descendre de l’un à
 l’autre.
-184
 Cela ne se fit pas sans de grandes difficultés.
 Jack Ryan, le premier, s’était suspendu à ces
 échelles vacillantes, et, le premier, il atteignit le
@@ -4133,7 +3938,6 @@ communication avec le dehors ?
 pensif. Allons, mon garçon, au cottage ! C’est là
 que nous saurons la vérité. »
 Jack Ryan hocha la tête, en homme peu
-185
 convaincu. Mais, prenant une lampe des mains
 d’un agent, il s’avança rapidement à travers la
 galerie principale de la fosse Dochart.
@@ -4156,7 +3960,6 @@ inexplicable. Mais pouvait-on constater d’une
 manière précise à quelle époque ils l’avaient
 quitté ? Oui, car, dans ce milieu où ne se
 succédaient ni les nuits, ni les jours, Madge avait
-186
 coutume de marquer d’une croix chaque
 quantième de son calendrier.
 Ce calendrier était suspendu au mur de la
@@ -4179,7 +3982,6 @@ balancées aux mains des agents, étoilait
 seulement ces impénétrables ténèbres.
 Soudain, Jack Ryan poussa un cri.
 « Là ! là ! » dit-il.
-187
 Et son doigt montrait une assez vive lueur, qui
 s’agitait dans l’obscur lointain de la galerie.
 « Mes amis, courons sur ce feu ! répondit Sir
@@ -4203,7 +4005,6 @@ son falot jetait de nouveau un vif éclat. En
 somme, on gagnait peu sur lui, et Jack Ryan
 persistait à croire, non sans raison, qu’on ne
 l’atteindrait pas.
-188
 Pendant une heure de cette inutile poursuite,
 Sir W. Elphiston et ses compagnons
 s’enfoncèrent dans la portion sud-ouest de la
@@ -4227,7 +4028,6 @@ porteur du falot devint plus visible. Quelquefois,
 lorsqu’il retournait la tête, on pouvait reconnaître
 le vague profil d’une figure humaine, et, à moins
 qu’un lutin n’eût pris cette forme, Jack Ryan était
-189
 forcé de convenir qu’il ne s’agissait point là d’un
 être surnaturel.
 Et alors, tout en courant plus vite :
@@ -4250,7 +4050,6 @@ traversait l’esprit de Sir W. Elphiston, la lueur
 disparut subitement, et les agents, continuant leur
 poursuite, arrivèrent presque aussitôt devant une
 étroite ouverture que les roches schisteuses
-190
 laissaient entre elles, à l’extrémité d’un étroit
 boyau.
 S’y glisser, après avoir ravivé leurs lampes,
@@ -4272,7 +4071,6 @@ Mais, alors, l’un de ces corps se redressa, et
 l’on entendit la voix épuisée de la vieille Madge
 murmurer ces mots :
 « Eux ! eux, d’abord ! »
-191
 Sir W. Elphiston, Jack Ryan, les agents,
 essayèrent de ranimer l’ingénieur et ses
 compagnons, en leur faisant avaler quelques
@@ -4296,7 +4094,6 @@ au cottage, en repassant par l’étroite issue que le
 porteur du falot semblait avoir voulu indiquer à
 Sir W. Elphiston.
 Et si James Starr et ses compagnons n’avaient
-192
 pu retrouver l’orifice de la galerie que leur avait
 ouvert la dynamite, c’est que cet orifice avait été
 solidement bouché au moyen de roches
@@ -4306,8 +4103,6 @@ Ainsi donc, pendant qu’ils exploraient la vaste
 crypte, toute communication avait été
 volontairement fermée par une main ennemie
 entre l’ancienne et la Nouvelle-Aberfoyle !
-193
-13
 Coal-city
 Trois ans après les événements qui viennent
 d’être racontés, les Guides Joanne ou Murray
@@ -4324,7 +4119,6 @@ quinze cents pieds au-dessous de la surface du
 comté.
 En effet, à sept milles, dans le sud-ouest de
 Callander, un tunnel oblique, décoré d’une entrée
-194
 monumentale, avec tourelles, créneaux et
 mâchicoulis, affleurait le sol. Ce tunnel, à pente
 douce, largement évidé, venait aboutir
@@ -4348,7 +4142,6 @@ disques électriques remplaçaient le disque solaire.
 Suspendus sous l’intrados des voûtes, accrochés
 aux piliers naturels, tous alimentés par des
 courants continus que produisaient des machines
-195
 électromagnétiques – les uns soleils, les autres
 étoiles –, ils éclairaient largement ce domaine.
 Lorsque l’heure du repos arrivait, un interrupteur
@@ -4372,7 +4165,6 @@ point été déçues. La richesse des filons
 carbonifères était incalculable. C’était dans
 l’ouest de la crypte, à un quart de mille de Coal-
 city, que les premières veines avaient été
-196
 attaquées par le pic des mineurs. La cité ouvrière
 n’occupait donc pas le centre de l’exploitation.
 Les travaux du fond étaient directement reliés
@@ -4396,7 +4188,6 @@ On sait que cette énorme halle – la plus grande
 de tout l’hypogée américain – peut aisément
 contenir cinq mille personnes. Dans cette partie
 de la Nouvelle-Aberfoyle, c’était même
-197
 proportion et aussi même disposition. Mais, au
 lieu des admirables stalactites de la célèbre
 grotte, le regard s’accrochait ici à des
@@ -4420,7 +4211,6 @@ fenêtres s’ouvraient sur les eaux sombres, qui
 s’étendaient au-delà de la limite du regard.
 Deux mois après, une seconde habitation
 s’était élevée dans le voisinage du cottage de
-198
 Simon Ford. Ce fut celle de James Starr.
 L’ingénieur s’était donné corps et âme à la
 Nouvelle-Aberfoyle. Il avait, lui aussi, voulu
@@ -4444,7 +4234,6 @@ briques, s’étaient peu à peu disposées d’une façon
 pittoresque, les unes sur les rives du lac Malcolm,
 les autres sous ces arceaux, qui semblaient faits
 pour résister à la poussée des voûtes comme les
-199
 contreforts d’une cathédrale. Piqueurs qui
 abattent la roche, rouleurs qui transportent le
 charbon, conducteurs de travaux, boiseurs qui
@@ -4468,7 +4257,6 @@ rayons projetés par les disques, suspendus aux
 piliers du dôme ou aux arceaux des contre-nefs, il
 se présentait sous un aspect quelque peu
 fantastique, d’un effet étrange, qui justifiait la
-200
 recommandation des Guides Murray ou Joanne.
 C’est pourquoi les visiteurs affluaient.
 Si les habitants de Coal-city se montraient
@@ -4492,7 +4280,6 @@ le jour ! »
 Il faut noter, à ce propos, qu’un des premiers
 accourus à l’appel de l’ingénieur avait été Jack
 Ryan. Ce joyeux compagnon s’était fait un devoir
-201
 de reprendre son ancien métier. La ferme de
 Melrose avait donc perdu son chanteur et son
 piper ordinaire. Mais ce n’est pas dire que Jack
@@ -4516,7 +4303,6 @@ d’une brigade des travaux du fond.
 « Voilà qui est bien travaillé, monsieur Ford,
 disait-il, quelques jours après son installation.
 Vous avez trouvé un nouveau filon, et, si vous
-202
 avez failli payer de votre vie cette découverte, eh
 bien, ce n’est pas trop cher !
 – Non, Jack, c’est même un bon marché que
@@ -4539,7 +4325,6 @@ devenu, Harry, et voilà tout. Mais, afin de rendre
 à chacun ce qui lui est dû, j’ajouterai que sans cet
 insaisissable lutin...
 – Ah ! nous y voilà ! s’écria Simon Ford. Un
-203
 lutin !
 – Un lutin, un brawnie, un fils de fée, répéta
 Jack Ryan, un petit-fils des Dames de feu, un
@@ -4562,7 +4347,6 @@ tu nous aides à cela.
 – Vous vous ferez là une mauvaise affaire,
 monsieur Ford ! répondit Jack Ryan.
 – Bon ! laisse venir, Jack ! »
-204
 On se figure aisément combien ce domaine de
 la Nouvelle-Aberfoyle devint bientôt familier aux
 membres de la famille Ford, et plus
@@ -4587,7 +4371,6 @@ lumière, il l’eût fait dans la houillère, en pleine
 ombre, avec une incomparable sûreté d’instinct.
 Aussi l’aimait-il, cette Nouvelle-Aberfoyle !
 Que de fois, sa lampe au chapeau, il s’aventurait
-205
 jusque dans ses plus extrêmes profondeurs ! Il
 explorait ses étangs sur un canot qu’il
 manœuvrait adroitement. Il chassait même, car de
@@ -4611,7 +4394,6 @@ Nouvelle-Aberfoyle, elles ne s’étaient pas
 renouvelées.
 Ainsi allaient les choses dans cet étrange
 domaine.
-206
 Il ne faudrait pas s’imaginer que, même à
 l’époque où les linéaments de Coal-city se
 dessinaient à peine, toute distraction fût écartée
@@ -4635,15 +4417,12 @@ Jack Ryan, revêtu de son costume de Highlander,
 Enfin, de tout cela il résultait, au dire de
 Simon Ford, que Coal-city pouvait déjà se poser
 en rivale de la capitale de l’Écosse, de cette cité
-207
 soumise aux froids de l’hiver, aux chaleurs de
 l’été, aux intempéries d’un climat détestable, et
 qui, dans une atmosphère encrassée de la fumée
 de ses usines, justifiait trop justement son surnom
 de « Vieille-Enfumée1 ».
 1 Auld-Reeky, surnom donné au vieil Edimbourg.
-208
-14
 Suspendu à un fil
 Dans de telles conditions, ses plus chers désirs
 satisfaits, la famille de Simon Ford était
@@ -4660,7 +4439,6 @@ temps était orageux. De violentes pluies faisaient
 sortir de la terre une buée chaude. On ne respirait
 pas à la surface du comté.
 Au contraire, à Coal-city, calme absolu,
-209
 température douce, ni pluie ni vent. Rien n’y
 transpirait de la lutte des éléments du dehors.
 Aussi, un certain nombre de promeneurs de
@@ -4683,7 +4461,6 @@ Tu donnerais à penser, à tous ces gens du dessus,
 que l’on peut envier leur sort !
 – Jack, répondit Harry, ne t’occupe pas de
 moi ! Tu es gai pour deux, et cela suffit !
-210
 – Que le vieux Nick m’emporte ! riposta Jack
 Ryan, si ta mélancolie ne finit pas par déteindre
 sur moi ! Mes yeux se rembrunissent, mes lèvres
@@ -4706,7 +4483,6 @@ montrent plus, il me semble que ceux auxquels tu
 veux rapporter toutes ces choses extraordinaires
 ne se montrent pas davantage !
 – Je les retrouverai, Jack !
-211
 – Ah ! Harry ! Harry ! Les génies de la
 Nouvelle-Aberfoyle ne sont pas faciles à
 surprendre !
@@ -4729,7 +4505,6 @@ nous !
 – Ils sont faits comme nous, Jack !
 – Eh non ! Harry... non... D’ailleurs, ne peut-
 on supposer que quelque fou est parvenu à
-212
 s’introduire...
 – Un fou ! répondit Harry ! Un fou qui aurait
 une telle suite dans les idées ! Un fou, ce
@@ -4752,7 +4527,6 @@ demanda Jack Ryan, assez étonné.
 m’abuse, mais je vois dans toute cette affaire un
 intérêt contraire au nôtre. J’y ai souvent songé, et
 je ne crois pas me tromper. Rappelle-toi la série
-213
 de ces faits inexplicables, qui s’enchaînent
 logiquement l’un à l’autre. Cette lettre anonyme,
 contradictoire de celle de mon père, prouve, tout
@@ -4777,7 +4551,6 @@ galerie... Plus d’issue pour en sortir. L’orifice
 Jack, ne vois-tu pas dans tout cela une pensée
 criminelle ? Oui ! un être, insaisissable jusqu’ici,
 mais non pas surnaturel, comme tu persistes à le
-214
 croire, était caché dans la houillère. Dans un
 intérêt que je ne puis comprendre, il cherchait à
 nous en interdire l’accès. Il y était !... Un
@@ -4801,7 +4574,6 @@ famille Ford.
 « Eh bien, Harry, dit-il, si je suis obligé de te
 donner raison sur un certain nombre de points, ne
 penseras-tu pas avec moi que quelque bienfaisant
-215
 brawnie, en vous apportant le pain et l’eau, a pu
 vous sauver de...
 – Jack, répondit Harry en l’interrompant, l’être
@@ -4825,7 +4597,6 @@ s’agitait à l’intérieur, comme s’il eût été battu de
 grands coups d’ailes.
 – C’était quelque oiseau égaré dans les
 galeries inférieures de la houillère, répondit Jack.
-216
 – Ce n’est pas tout, Jack, reprit Harry. Ce
 matin même, je suis retourné à ce puits, et là,
 prêtant l’oreille, j’ai cru surprendre comme une
@@ -4848,7 +4619,6 @@ de me retirer à un signal convenu. Je puis
 compter sur toi, Jack ?
 – Harry, répondit Jack Ryan en hochant la
 tête, je ferai ce que tu me demandes, et
-217
 cependant, je te le répète, tu as tort.
 – Mieux vaut avoir tort de faire que remords
 de n’avoir pas fait, dit Harry d’un ton décidé.
@@ -4871,7 +4641,6 @@ faits, qui s’expliquaient si aisément par une
 intervention surnaturelle des génies de la
 mine ? »
 Quoi qu’il en soit, le lendemain, Jack Ryan et
-218
 trois mineurs de sa brigade arrivaient en
 compagnie d’Harry à l’orifice du puits suspect.
 Harry n’avait rien dit de son projet, ni à James
@@ -4895,7 +4664,6 @@ Le puits était assez large, ayant douze pieds de
 diamètre à son orifice. Une poutre fut placée en
 travers, comme un pont, de manière que la corde,
 en glissant à sa surface, pût se maintenir dans
-219
 l’axe du puits. Précaution indispensable à prendre
 pour qu’Harry ne fût pas heurté, pendant la
 descente, aux parois latérales.
@@ -4918,7 +4686,6 @@ s’enfonça lentement dans le puits. Comme la
 corde subissait un léger mouvement de rotation,
 la lueur de sa lampe se portait successivement sur
 chaque point des parois, et Harry put les
-220
 examiner avec soin.
 Ces parois étaient faites de schiste houiller.
 Elles étaient assez lisses pour qu’il fût impossible
@@ -4942,7 +4709,6 @@ absolue. Le silence, absolu aussi. Si un être
 vivant, quel qu’il fût, avait cherché refuge dans
 ce mystérieux et profond abîme, ou il n’y était
 pas alors, ou aucun mouvement ne trahissait sa
-221
 présence.
 Harry, plus défiant à mesure qu’il descendait,
 avait tiré le couteau de sa gaine, et il le tenait de
@@ -4965,7 +4731,6 @@ Un étroit boyau s’enfonçait latéralement dans
 l’étage inférieur du gisement. Il eût fallu se
 courber pour y pénétrer, et se traîner sur les
 mains pour le suivre.
-222
 Harry voulut voir en quelle direction se
 ramifiait cette galerie, et si elle aboutissait à
 quelque abîme.
@@ -4988,7 +4753,6 @@ L’enfant, retrouvé au fond de cet abîme,
 respirait encore, mais son souffle était si faible
 qu’Harry put croire qu’il allait cesser. Il fallait
 donc, sans perdre un instant, ramener cette
-223
 pauvre petite créature à l’orifice du puits, et la
 conduire au cottage, où Madge lui prodiguerait
 ses soins.
@@ -5011,7 +4775,6 @@ profondeurs du puits. Il regarda au-dessous de lui
 et aperçut, dans la pénombre, une masse, qui,
 s’élevant peu à peu, le frôla en passant.
 C’était un énorme oiseau, dont il ne put
-224
 reconnaître l’espèce, et qui montait à grands
 coups d’ailes.
 Le monstrueux volatile s’arrêta, plana un
@@ -5034,7 +4797,6 @@ Il restait encore une hauteur de quatre-vingts
 pieds à franchir. L’oiseau se jeta plus violemment
 alors sur Harry. Celui-ci, d’un coup de son
 couteau, le blessa à l’aile ; l’oiseau, poussant un
-225
 cri rauque, disparut dans les profondeurs du puits.
 Mais, circonstance terrible, Harry, en
 brandissant son couteau pour frapper l’oiseau,
@@ -5057,7 +4819,6 @@ en sacrifiant l’enfant qu’il soutenait d’un bras... Il
 n’y voulut même pas penser.
 Cependant, Jack Ryan et ses compagnons,
 surexcités par les cris d’Harry, halaient plus
-226
 vivement.
 Harry crut qu’il ne pourrait tenir bon jusqu’à
 ce qu’il fût remonté à l’orifice du puits. Sa face
@@ -5068,8 +4829,6 @@ qu’il ne tenait plus que par son extrémité, il fut
 saisi et déposé sur le sol avec l’enfant.
 La réaction se fit alors, et Harry tomba sans
 connaissance entre les bras de ses camarades.
-227
-15
 Nell au cottage
 Deux heures après, Harry, qui n’avait pas
 aussitôt recouvré ses sens, et l’enfant, dont la
@@ -5086,7 +4845,6 @@ teint de blonde que la lumière ne semblait avoir
 jamais baigné, sa taille frêle et petite, tout en
 faisait un être à la fois bizarre et charmant. Jack
 Ryan, avec quelque raison, la compara à un
-228
 farfadet d’aspect un peu surnaturel. Était-ce dû
 aux circonstances particulières, au milieu
 exceptionnel dans lequel cette jeune fille avait
@@ -5109,7 +4867,6 @@ depuis... depuis... »
 À ce peu de mots qu’elle venait de prononcer,
 on sentait que Nell n’était pas habituée à parler.
 1 Nell est un abréviatif de Helena.
-229
 La langue dont elle se servait était ce vieux
 gaélique, dont Simon Ford et les siens faisaient
 souvent usage.
@@ -5131,7 +4888,6 @@ pour lui donner toute confiance :
 « Quel âge as-tu, ma fille ? » demanda-t-elle,
 en lui faisant de bons yeux, bien rassurants.
 Même signe négatif de Nell.
-230
 « Oui, oui, reprit Madge, combien d’années ?
 – Années ?... » répondit Nell.
 Et ce mot, pas plus que le mot « jour », ne
@@ -5154,7 +4910,6 @@ seule ?
 redressant.
 Sa physionomie décelait alors l’épouvante.
 Ses yeux, qui s’étaient adoucis sous le regard du
-231
 jeune homme, redevinrent sauvages.
 « Seule ! seule ! » répéta-t-elle, et elle retomba
 sur le lit de Madge, comme si les forces lui
@@ -5177,7 +4932,6 @@ enfermée dans la roche schisteuse, comme un de
 ces êtres antédiluviens qu’un coup de pic délivre
 de leur gangue de pierre, que l’affaire n’eût pas
 eu plus d’éclat.
-232
 Sans le savoir, Nell devint fort à la mode. Les
 gens superstitieux trouvèrent là un nouveau texte
 à leurs récits légendaires. Ils pensaient volontiers
@@ -5201,7 +4955,6 @@ parut ignorer la plupart des choses de la vie.
 Cependant, elle était intelligente, on le reconnut
 bientôt, mais certaines notions élémentaires lui
 manquaient : celle du temps, entre autres. On
-233
 voyait qu’elle n’avait été habituée à diviser le
 temps ni par heures, ni par jours, et que ces mots
 mêmes lui étaient inconnus. En outre, ses yeux,
@@ -5226,7 +4979,6 @@ Quant à la question de savoir si Nell vivait
 seule dans les profondeurs de la Nouvelle-
 Aberfoyle, James Starr dut renoncer à la
 résoudre. En effet, toute allusion à ce sujet jetait
-234
 l’épouvante dans cette étrange nature. Ou bien
 Nell ne pouvait, ou elle ne voulait pas répondre ;
 mais, certainement, il existait là quelque secret
@@ -5250,7 +5002,6 @@ explorer le puits mystérieux. Ils le firent donc,
 bien armés et bien accompagnés. Mais ils n’y
 trouvèrent aucune trace suspecte. Le puits
 communiquait avec les étages inférieurs de la
-235
 crypte, creusés dans la couche carbonifère.
 James Starr, Simon et Harry causaient souvent
 de ces choses. Si un ou plusieurs êtres
@@ -5274,7 +5025,6 @@ pensée de ces braves gens, du moment que Nell
 enfant d’adoption.
 Nell était charmante, en vérité. Sa nouvelle
 existence l’embellissait. C’étaient sans doute les
-236
 premiers jours heureux de sa vie. Elle se sentait
 pleine de reconnaissance pour ceux auxquels elle
 les devait. Madge s’était pris pour Nell d’une
@@ -5298,7 +5048,6 @@ coup.
 En effet, vers cette époque, Harry fit une
 découverte assez inattendue, mais qui expliquait
 en partie l’apparition des Dames de feu dans les
-237
 ruines du château de Dundonald, à Irvine.
 Un jour, après une longue exploration de la
 partie sud de la houillère – exploration qui avait
@@ -5322,7 +5071,6 @@ Harry, vint reconnaître lui-même cette disposition
 naturelle du gisement houiller.
 « Voilà, dit-il, de quoi convaincre les
 superstitieux de la mine. Adieu, les brawnies, les
-238
 lutins et les Dames de feu !
 – Je ne crois pas, monsieur Starr, répondit
 Harry, que nous ayons lieu de nous en féliciter !
@@ -5346,7 +5094,6 @@ puisque Nell ne veut pas ou n’ose pas en
 parler ! »
 Harry devait avoir raison. Si les mystérieux
 hôtes de la houillère l’eussent abandonnée, ou
-239
 s’ils étaient morts, quelle raison aurait eue la
 jeune fille de garder le silence ?
 Cependant, James Starr tenait absolument à
@@ -5370,7 +5117,6 @@ l’abri de toute perquisition. Mais, depuis, les
 circonstances n’étaient plus les mêmes. Le gîte
 devenait difficile à cacher. On aurait donc dû
 raisonnablement espérer qu’il n’y avait plus rien
-240
 à craindre pour l’avenir. Cependant, James Starr
 n’était pas absolument rassuré. Harry, non plus,
 ne pouvait se rendre, et il répétait souvent :
@@ -5394,7 +5140,6 @@ Un jour, cependant, Harry fut amené à faire
 connaître à Nell ce que James Starr, son père, sa
 mère et lui-même croyaient devoir à son
 intervention.
-241
 C’était jour de fête. Les bras chômaient aussi
 bien à la surface du comté de Stirling que dans le
 domaine souterrain. On s’y promenait un peu
@@ -5418,7 +5163,6 @@ qui dominait les eaux du lac.
 au jour, dit Harry, et certainement, ils ne
 pourraient supporter l’éclat du soleil.
 – Non, sans doute, répondit la jeune fille, si le
-242
 soleil est tel que tu me l’as dépeint, Harry.
 – Nell, reprit Harry, en te parlant, je n’ai pu te
 donner une juste idée de sa splendeur ni des
@@ -5442,7 +5186,6 @@ minutes, le railway du grand tunnel nous
 transporte à la surface du comté. J’ai donc hâte,
 Nell, de t’entendre me dire : « Viens, Harry, mes
 yeux peuvent supporter la lumière du jour, et je
-243
 veux voir le soleil ! Je veux voir l’œuvre de
 Dieu ! »
 – Je te le dirai, Harry, répondit la jeune fille,
@@ -5466,7 +5209,6 @@ bruits qui vous parlent ! Vois-tu, Harry, il faut
 avoir vécu là pour comprendre ce que je ressens,
 ce que je ne puis t’exprimer !
 – Et tu n’avais pas peur, Nell, quand tu étais
-244
 seule ?
 – Harry, répondit la jeune fille, c’est quand
 j’étais seule que je n’avais pas peur ! »
@@ -5488,7 +5230,6 @@ l’ancienne mine d’Aberfoyle.
 seulement, ceux qui l’habitaient !
 – C’étaient mon père et ma mère, répondit
 Harry, c’était moi ! Nous n’avions jamais voulu
-245
 abandonner notre ancienne demeure !
 – Peut-être cela aurait-il mieux valu pour
 vous !... murmura la jeune fille.
@@ -5511,7 +5252,6 @@ imprudents ont pénétré dans ces abîmes. Ils ont
 été loin, bien loin ! Ils se sont égarés...
 – Égarés ? dit Harry en regardant Nell.
 – Oui... égarés... répondit Nell, dont la voix
-246
 tremblait. Leur lampe s’est éteinte ! Ils n’ont pu
 retrouver leur chemin...
 – Et là, s’écria Harry, emprisonnés pendant
@@ -5534,15 +5274,12 @@ profond de son cœur.
 – Oui ! répondit Harry, après un instant de
 silence, et celle à qui nous devons de vivre,
 c’était toi, Nell ! Ce ne pouvait être que toi ! »
-247
 Nell laissa tomber sa tête entre ses deux
 mains, sans répondre. Jamais Harry ne l’avait vue
 aussi vivement impressionnée.
 « Ceux qui t’ont sauvée, Nell, ajouta-t-il d’une
 voix émue, te devaient déjà la vie, et crois-tu
 qu’ils puissent jamais l’oublier ? »
-248
-16
 Sur l’échelle oscillante
 Cependant, les travaux d’exploitation de la
 Nouvelle-Aberfoyle étaient conduits avec grand
@@ -5560,7 +5297,6 @@ faisait bien ses affaires. Tous deux se voyaient
 souvent, soit au cottage, soit dans les travaux du
 fond. Jack Ryan n’était pas sans avoir observé les
 sentiments qu’éprouvait Harry pour la jeune fille.
-249
 Harry n’avouait pas, mais Jack riait à belles
 dents, lorsque son camarade secouait la tête en
 signe de dénégation.
@@ -5584,7 +5320,6 @@ l’appareil l’avaient abaissé de cent cinquante
 pieds environ, lorsque, sur l’étroit palier où il
 avait pris place, il se rencontra avec Harry, qui
 remontait aux travaux du jour.
-250
 « C’est toi ? dit Jack, en regardant son
 compagnon, éclairé par la lumière des lampes
 électriques du puits.
@@ -5607,7 +5342,6 @@ quitté la mine, c’est bien la femme qu’il faut à un
 mineur ! Elle est orpheline comme je suis
 orphelin, et, pour peu que tu ne penses vraiment
 pas à elle, et qu’elle veuille de ton camarade,
-251
 Harry !... »
 Harry regardait gravement Jack. Il le laissait
 parler, sans même essayer de lui répondre.
@@ -5629,7 +5363,6 @@ sérieusement tout à l’heure à propos de Nell ?
 – Eh bien, je vais le faire alors !
 – Toi, parler sérieusement !
 – Mon brave Harry, répondit Jack, je suis
-252
 capable de donner un bon conseil à un ami.
 – Donne, Jack.
 – Eh bien, voilà ! Tu aimes Nell de tout
@@ -5652,7 +5385,6 @@ faire écarteler !
 – Écoute sérieusement, Jack, répondit Harry,
 car, à mon tour, c’est sérieusement que je parle.
 – J’écoute... jusqu’à la prochaine oscillation,
-253
 mais pas plus !
 – Jack, reprit Harry, je n’ai point à cacher que
 j’aime Nell. Mon plus vif désir est d’en faire ma
@@ -5675,7 +5407,6 @@ préférer à tout autre le séjour dans la houillère.
 Me comprends-tu, Jack ?
 – Oui... vaguement... Je comprends surtout
 que tu vas encore me faire manquer la prochaine
-254
 oscillation !
 – Jack, répondit Harry d’une voix grave,
 quand ces appareils ne devraient plus jamais
@@ -5698,7 +5429,6 @@ elle sera guérie ! » n’attendrais-tu pas pour
 l’épouser que sa guérison fût faite ?
 – Oui, ma foi, oui ! répondit Jack Ryan.
 – Eh bien, Jack, Nell est encore aveugle, et,
-255
 avant d’en faire ma femme, je veux qu’elle sache
 bien que c’est moi, que ce sont les conditions de
 ma vie qu’elle préfère et accepte. Je veux que ses
@@ -5721,7 +5451,6 @@ l’appareil.
 « Eh ! Jack, cria Harry, où es-tu donc ?
 – Au-dessous de toi, répondit en riant le
 joyeux compère. Pendant que tu t’élèves dans
-256
 l’infini, moi, je descends dans l’abîme !
 – Adieu, Jack ! répondit Harry, en se
 cramponnant lui-même à l’échelle remontante. Je
@@ -5743,7 +5472,6 @@ crier :
 « Et lorsque Nell aura vu les étoiles, la lune et
 le soleil, sais-tu bien ce qu’elle leur préférera ?
 – Non, Jack !
-257
 – Ce sera toi, mon camarade, toi encore, toi
 toujours ! »
 Et la voix de Jack Ryan s’éteignit enfin dans
@@ -5766,7 +5494,6 @@ On se rappelle que lors de sa première visite à
 l’ancien cottage, le vieil overman avait dit à
 l’ingénieur :
 « Pourquoi mon fils se marierait-il ? Quelle
-258
 créature de là-haut conviendrait à un garçon dont
 la vie doit s’écouler dans les profondeurs d’une
 mine ! »
@@ -5789,7 +5516,6 @@ On le sait, James Starr avait conservé certaines
 appréhensions, bien que rien dans le présent ne
 les justifiât plus. Cependant, ce qui avait été
 pouvait être encore. Ce mystère de la nouvelle
-259
 houillère, Nell était évidemment la seule à le
 connaître. Or, si l’avenir devait réserver de
 nouveaux dangers aux mineurs d’Aberfoyle,
@@ -5813,7 +5539,6 @@ s’aimaient. Les vieux parents ne rêvaient pas
 d’autre compagne pour leur fils. Les camarades
 d’Harry enviaient son bonheur, tout en
 reconnaissant qu’il lui était bien dû. La jeune fille
-260
 ne relevait que d’elle-même et n’avait d’autre
 consentement à obtenir que celui de son propre
 cœur.
@@ -5837,15 +5562,12 @@ toute surveillance ? Pourquoi venait-il appuyer
 son oreille aux fenêtres et essayait-il de
 surprendre des lambeaux de conversation à
 travers les volets du cottage ?
-261
 Et, lorsque certaines paroles arrivaient jusqu’à
 lui, pourquoi son poing se dressait-il pour
 menacer la tranquille demeure ? Pourquoi, enfin,
 ces mots s’échappaient-ils de sa bouche,
 contractée par la colère :
 « Elle et lui ! Jamais ! »
-262
-17
 Un lever de soleil
 Un mois après – c’était le soir du 20 août –,
 Simon Ford et Madge saluaient de leurs meilleurs
@@ -5862,7 +5584,6 @@ dehors, la jeune fille eût vu tout ce qu’elle n’avait
 pu voir dans la sombre houillère, c’est-à-dire les
 divers aspects du globe, comme si un panorama
 mouvant de villes, de plaines, de montagnes, de
-263
 fleuves, de lacs, de golfes, de mers, se fût déroulé
 devant ses yeux.
 Or, dans cette portion de l’Écosse, comprise
@@ -5886,7 +5607,6 @@ psychologique, d’observer les naïves impressions
 de Nell – peut-être même de surprendre quelque
 peu des mystérieux événements auxquels son
 enfance avait été mêlée.
-264
 Harry, lui, se demandait, non sans
 appréhension, si une autre jeune fille que celle
 qu’il aimait et qu’il avait connue jusqu’alors,
@@ -5909,7 +5629,6 @@ son regard pourrait s’habituer peu à peu.
 Au moment de quitter le cottage, Nell prit la
 main d’Harry, et lui dit :
 « Harry, est-il donc nécessaire que
-265
 j’abandonne notre houillère, ne fût-ce que
 quelques jours ?
 – Oui, Nell, répondit le jeune homme, il le
@@ -5932,7 +5651,6 @@ ce que tu laisses avec ce que tu prends, et agir en
 toute liberté. Viens donc !
 – Viens, ma chère Nell, dit Harry.
 – Harry, je suis prête à te suivre », répondit la
-266
 jeune fille.
 À neuf heures, le dernier train du tunnel
 entraînait Nell et ses compagnons à la surface du
@@ -5955,7 +5673,6 @@ La première impression physique qu’éprouva
 la jeune fille fut celle de l’air pur que ses
 poumons aspirèrent avidement.
 « Respire bien, Nell, dit James Starr, respire
-267
 cet air chargé de toutes les vivifiantes senteurs de
 la campagne !
 – Quelles sont ces grandes fumées qui courent
@@ -5978,7 +5695,6 @@ qui fourmillaient au-dessus de sa tête.
 « Mais, dit-elle, si ce sont des soleils,
 comment mes yeux peuvent-ils en supporter
 l’éclat ?
-268
 – Ma fille, répondit James Starr, ce sont des
 soleils, en effet, mais des soleils qui gravitent à
 une distance énorme. Le plus rapproché de ces
@@ -6002,7 +5718,6 @@ quelques géants qui gesticulaient. Le bruissement
 de la brise dans les hautes branches, le profond
 silence pendant les accalmies, cette ligne
 d’horizon qui s’accusait plus nettement, lorsque
-269
 la route coupait une plaine, tout l’imprégnait de
 sentiments nouveaux et traçait en elle des
 impressions ineffaçables. Après avoir interrogé
@@ -6025,7 +5740,6 @@ d’étoiles tremblotantes.
 – Non, répondit Harry, c’est un vaste golfe
 avec des eaux courantes, c’est l’embouchure d’un
 fleuve, c’est presque un bras de mer. Prends un
-270
 peu de cette eau dans le creux de ta main, Nell, et
 tu verras qu’elle n’est pas douce comme celle du
 lac Malcolm. »
@@ -6048,7 +5762,6 @@ quelle est cette lueur rougeâtre qui enflamme
 l’horizon ? Est-ce donc une forêt en feu ? »
 Et Nell montrait un point du ciel, au milieu
 des basses brumes qui se coloraient dans l’est.
-271
 « Non, Nell, répondit Harry. C’est la lune à
 son lever.
 – Oui, la lune ! s’écria Jack Ryan, un superbe
@@ -6071,7 +5784,6 @@ vivait plus que par le regard. Mais je croyais que
 la lune était toute ronde ?
 – Elle est ronde quand elle est pleine, répondit
 James Starr, c’est-à-dire lorsqu’elle se trouve en
-272
 opposition avec le soleil. Mais, cette nuit, la lune
 entre dans son dernier quartier, elle est écornée
 déjà, et le plateau d’argent de notre ami Jack
@@ -6092,7 +5804,6 @@ contemplait en silence cet admirable spectacle,
 ses yeux supportaient sans fatigue cette douce
 lueur argentée, mais sa main frémissait dans celle
 d’Harry et parlait pour elle.
-273
 « Embarquons-nous, mes amis, dit James
 Starr. Il faut que nous ayons gravi les pentes de
 l’Arthur-Seat avant le lever du soleil ! »
@@ -6116,7 +5827,6 @@ semblait courir sur une nappe d’argent toute
 scintillante. De petites ondulations chantaient le
 long du bordage. C’était un ravissement.
 Mais il arriva alors que les yeux de Nell se
-274
 fermèrent involontairement. Une sorte
 d’assoupissement passager la prit. Sa tête
 s’inclina sur la poitrine d’Harry, et elle
@@ -6139,7 +5849,6 @@ Le petit port de Granton ne contenait que deux
 ou trois bateaux de pêche, que balançait
 doucement la houle du golfe. La brise calmissait
 aux approches du matin. L’atmosphère, nettoyée
-275
 de brumes, promettait une de ces délicieuses
 journées d’août que le voisinage de la mer rend
 plus belles encore. Une sorte de buée chaude se
@@ -6163,7 +5872,6 @@ d’un pas léger, et jamais Harry n’était obligé de
 ralentir le sien, par crainte de la fatiguer.
 « Tu n’es pas lasse ? lui demanda-t-il, après
 une demi-heure de marche.
-276
 – Non, répondit-elle. Mes pieds ne semblent
 même pas toucher à la terre ! Ce ciel est si haut
 au-dessus de nous que j’ai l’envie de m’envoler,
@@ -6186,7 +5894,6 @@ feras à cette immensité du monde extérieur, et
 peut-être oublieras-tu alors notre sombre
 houillère !
 – Jamais, Harry ! » répondit Nell.
-277
 Et elle appuya sa main sur ses yeux, comme si
 elle eût voulu refaire dans son esprit le souvenir
 de tout ce qu’elle venait de quitter.
@@ -6209,7 +5916,6 @@ c’est le palais des anciens souverains de l’Écosse,
 Holyrood, où se sont accomplis tant
 d’événements funèbres ! Là, l’historien pourrait
 évoquer bien des ombres royales, depuis l’ombre
-278
 de l’infortunée Marie Stuart jusqu’à celle du
 vieux roi français Charles X ! Et pourtant, malgré
 ces funèbres souvenirs, lorsque le jour sera venu,
@@ -6233,7 +5939,6 @@ obtenue avec quelques lignes de roman.
 L’Arthur-Seat n’est, à vrai dire, qu’une colline
 haute de sept cent cinquante pieds, dont la tête
 isolée domine les hauteurs environnantes. En
-279
 moins d’une demi-heure, par un sentier tournant
 qui en rendait l’ascension facile, James Starr et
 ses compagnons atteignirent le crâne de ce lion
@@ -6256,7 +5961,6 @@ l’observait avec une anxieuse attention. N’allait-
 elle pas être trop vivement impressionnée par les
 premiers rayons du jour ? Tous demeurèrent
 silencieux. Jack Ryan lui-même se tut.
-280
 Déjà une petite ligne pâle, nuancée de rose, se
 dessinait au-dessus de l’horizon sur un fond de
 brumes légères. Un reste de vapeurs, égarées au
@@ -6280,7 +5984,6 @@ vigueur : le rose devenait rouge, le rouge
 devenait feu. Le jour se faisait au point
 d’intersection que l’arc diurne allait fixer sur la
 circonférence de la mer.
-281
 En ce moment, les regards de Nell couraient
 du pied de la colline jusqu’à la ville, dont les
 quartiers commençaient à se détacher par
@@ -6303,7 +6006,6 @@ Et, en effet, l’extrême pointe du clocheton,
 haut de deux cents pieds, brillait comme un phare
 de premier ordre.
 Le jour était fait. Le soleil déborda. Son
-282
 disque semblait encore humide, comme s’il fût
 réellement sorti des eaux de la mer. D’abord
 élargi par la réfraction, il se rétrécit peu à peu, de
@@ -6326,7 +6028,6 @@ s’imprégnèrent enfin de la lumière du jour.
 La pieuse enfant tomba à genoux, s’écriant :
 « Mon Dieu, que votre monde est beau ! »
 La jeune fille baissa les yeux alors et regarda.
-283
 À ses pieds se déroulait le panorama
 d’Edimbourg : les quartiers neufs et bien alignés
 de la nouvelle ville, l’amas confus des maisons et
@@ -6351,7 +6052,6 @@ empanachaient le ciel d’un cône de fumée noire.
 Puis, au-delà, verdoyait l’immense campagne. De
 modestes collines bossuaient çà et là la plaine.
 Au nord, les Lomond-Hills, dans l’ouest, le Ben-
-284
 Lomond et le Ben-Ledi réverbéraient les rayons
 solaires, comme si des glaces éternelles en
 eussent tapissé les cimes.
@@ -6370,8 +6070,6 @@ l’homme. Ses regards, après avoir plané sur la
 ville et sur la campagne, venaient de s’étendre,
 pour la première fois, sur l’immensité de la mer
 et l’infini du ciel.
-285
-18
 Du lac Lomond au lac Katrine
 Harry, portant Nell dans ses bras, suivi de
 James Starr et de Jack Ryan, redescendit les
@@ -6388,7 +6086,6 @@ variée des plantes, l’azur du ciel, avaient déployé
 devant ses regards la gamme des couleurs.
 Le train qu’ils prirent à Général railway
 station conduisit Nell et ses compagnons à
-286
 Glasgow. Là, du dernier pont jeté sur la Clyde, ils
 purent admirer le curieux mouvement maritime
 du fleuve. Puis, ils passèrent la nuit à Comrie’s
@@ -6411,7 +6108,6 @@ répondit Harry, ce sera double profit, car vous
 nous raconterez l’histoire du pays pendant que
 nous le regarderons.
 – Oui, Harry, dit l’ingénieur, autant que ma
-287
 mémoire me le permettra, mais à une condition,
 cependant : c’est que le joyeux Jack me viendra
 en aide ! Lorsque je serai fatigué de raconter, il
@@ -6435,7 +6131,6 @@ quelques particularités de l’aventureuse histoire
 de Marie Stuart. En effet, ce fut de ce bourg
 qu’elle partit pour aller épouser François II et
 devenir reine de France. Là aussi, après 1815, le
-288
 ministère anglais médita d’interner Napoléon ;
 mais le choix de Sainte-Hélène prévalut, et voilà
 pourquoi le prisonnier de l’Angleterre alla mourir
@@ -6459,7 +6154,6 @@ superbe, dont cette belle nature écossaise est si
 largement empreinte.
 Jack Ryan allait et venait sur le pont du
 Sinclair, interrogeant sans cesse l’ingénieur, qui,
-289
 cependant, n’avait pas besoin d’être interrogé. À
 mesure que ce pays de Rob Roy se développait à
 ses regards, il le décrivait en admirateur
@@ -6482,7 +6176,6 @@ que me rappelle cette partie du lac Lomond ?
 – Que te rappelle-t-elle, Harry ?
 – Les mille îles du lac Ontario, si
 admirablement décrites par Cooper. Tu dois être
-290
 comme moi frappée de cette ressemblance, ma
 chère Nell, car, il y a quelques jours, je t’ai lu ce
 roman qu’on a pu justement nommer le chef-
@@ -6506,7 +6199,6 @@ apparence de végétation, les autres, montrant leur
 croupe verte et arrondie. Ici, des mélèzes et des
 bouleaux. Là, des champs de bruyères jaunes et
 desséchées. En vérité ! j’ai quelque peine à croire
-291
 que les mille îles du lac Ontario offrent une telle
 variété de sites !
 – Quel est ce petit port ? demanda Nell, qui
@@ -6529,7 +6221,6 @@ ajouta Jack Ryan.
 Et, à l’appui de son dire, le brave garçon
 entonna le premier couplet d’un vieux chant de
 guerre, qui relatait les exploits d’Alexandre Mac
-292
 Gregor, du glen Sraë, contre sir Humphry
 Colquhour, de Luss.
 Nell écoutait, mais, de ces récits de combats,
@@ -6553,7 +6244,6 @@ corbeille de chênes, de bouleaux, de mélèzes, qui
 tapissent la zone inférieure du mont ! De là, on
 aperçoit les deux tiers de notre vieille Calédonie.
 C’est ici que le clan de Mac Gregor faisait sa
-293
 résidence habituelle, sur la partie orientale du lac.
 Non loin, les querelles des Jacobites et des
 Hanovriens ont plus d’une fois ensanglanté ces
@@ -6577,7 +6267,6 @@ boulingrin dans son jardinet. »
 Pendant ce temps, le Sinclair arrivait au
 village de Tarbet, sur la rive opposée du lac, où il
 déposa les voyageurs qui se rendaient à Inverary.
-294
 De cet endroit, le Ben Lomond apparaissait dans
 toute sa beauté. Ses flancs, zébrés par le lit des
 torrents, miroitaient comme des plaques d’argent
@@ -6601,7 +6290,6 @@ s’arrêta à la station d’Inverslaid.
 Là, pendant qu’on préparait leur déjeuner,
 Nell et ses compagnons allèrent visiter, près du
 lieu de débarquement, un torrent qui se précipitait
-295
 dans le lac d’une assez grande hauteur. Il
 paraissait avoir été planté là comme un décor,
 pour le plaisir des touristes. Un pont tremblant
@@ -6625,7 +6313,6 @@ main gauche les guides de ses quatre chevaux, et
 l’attelage commença à gravir le flanc de la
 montagne, en côtoyant le lit sinueux du torrent.
 La route était fort escarpée. À mesure qu’elle
-296
 s’élevait, la forme des cimes environnantes
 semblait se modifier. On voyait grandir
 superbement toute la chaîne de la rive opposée du
@@ -6649,7 +6336,6 @@ sinistre, entremêlées de cailloux, que l’action du
 temps et de l’atmosphère avait durcis comme du
 ciment. De misérables huttes, semblables à des
 tanières – de celles qu’on appelle « bourrochs »
-297
 –, gisaient au milieu des bergeries en ruine. On
 n’eût pu dire si elles étaient habitées par des
 créatures humaines ou des bêtes sauvages.
@@ -6674,7 +6360,6 @@ recherches ! Vous le voyez, mes amis, on ne peut
 faire un pas dans cette contrée, merveilleuse à
 tant de titres, sans rencontrer ces souvenirs du
 passé dont s’est inspiré Walter Scott, lorsqu’il a
-298
 paraphrasé en strophes magnifiques l’appel aux
 armes du clan des Mac Gregor !
 – Tout cela est bien dit, monsieur Starr,
@@ -6697,7 +6382,6 @@ de pierres s’élevaient en pyramides.
 « Ce sont des cairns, dit James Starr. Chaque
 passant, autrefois, devait y apporter une pierre,
 pour honorer le héros couché sous ces tombes.
-299
 De là est venu le dicton gaélique : « Malheur à
 qui passe devant un cairn sans y déposer la pierre
 du dernier salut ! » Si les fils avaient conservé la
@@ -6721,7 +6405,6 @@ Katrine.
 Là, au musoir d’une légère estacade, se
 balançait un petit steam-boat, qui portait
 naturellement le nom de Rob-Roy. Les voyageurs
-300
 s’y embarquèrent aussitôt : il allait partir.
 Le lac Katrine ne mesure que dix milles de
 longueur, sur une largeur qui ne dépasse jamais
@@ -6744,7 +6427,6 @@ Malcolm ? »
 En cet instant, les sons clairs d’une cornemuse
 se firent entendre à l’arrière du Rob-Roy.
 Là, un Highlander en costume national
-301
 préludait, sur son « bag-pipe » à trois bourdons,
 dont le plus gros sonnait le sol, le second le si, et
 le plus petit l’octave du gros. Quant au
@@ -6766,7 +6448,6 @@ donne, non les notes, mais les intervalles des
 tons :
 5 | 1.2 | 3525 | 1.765 | 22.22
 5 | 1.2 | 3525 | 1.765 | 11.11
-302
 Un homme véritablement heureux alors, ce fut
 Jack Ryan. Ce chant des lacs d’Écosse, il le
 savait. Aussi, pendant que le Highlander
@@ -6785,7 +6466,6 @@ Voici la tour où les sorcières
 Préparaient leur repas frugal ;
 Là, les vastes champs de bruyères,
 Où revient l’ombre de Fingal.
-303
 Ici passent dans la nuit sombre
 Les folles danses des lutins.
 Là, sinistre, apparaît dans l’ombre
@@ -6802,7 +6482,6 @@ N’a-t-on pas entendu naguère
 Fergus au milieu de ses clans,
 Entonnant ses pibrochs de guerre,
 Réveiller l’écho des Highlands
-304
 Si loin de vous, lacs poétiques,
 Que le destin mène nos pas,
 Ravins, rochers, grottes antiques,
@@ -6822,7 +6501,6 @@ et du Ben Venue. Déjà, à un demi-mille, se
 dessinait l’étroit bassin, au fond duquel le Rob-
 Roy allait débarquer les voyageurs, qui se
 rendaient à Stirling par Callander.
-305
 Nell était comme épuisée par la tension
 continue de son esprit. Un seul mot sortait de ses
 lèvres : « Mon Dieu ! mon Dieu ! » chaque fois
@@ -6845,7 +6523,6 @@ voulait en vain contenir l’émotion, veux-tu qu’un
 lien sacré nous unisse à jamais devant Dieu et
 devant les hommes ? Veux-tu de moi pour
 époux ?
-306
 – Je le veux, Harry, répondit Nell, en le
 regardant de ses yeux si purs, je le veux, si tu
 crois que je puisse suffire à ta vie... »
@@ -6868,8 +6545,6 @@ du sol.
 « Mes amis, s’était écrié James Starr, comme
 si la cause du phénomène se fût soudain révélée à
 son esprit, Dieu sauve la Nouvelle-Aberfoyle ! »
-307
-19
 Une dernière menace
 Ce jour-là, dans la Nouvelle-Aberfoyle, les
 travaux s’accomplissaient d’une façon régulière.
@@ -6887,7 +6562,6 @@ les tunnels inférieurs, les trains de wagonnets,
 mus mécaniquement, passaient avec une vitesse
 de quinze milles à l’heure, et les timbres
 automatiques prévenaient les ouvriers de se
-308
 blottir dans les refuges. Les cages montaient et
 descendaient sans relâche, halées par les énormes
 tambours des machines installées à la surface du
@@ -6911,7 +6585,6 @@ cette excursion à la surface de la terre. Où
 Comment, sans éprouver la nostalgie de la
 houillère, pouvaient-ils rester si longtemps au-
 dehors ?
-309
 En ce moment, un mugissement d’une
 violence extraordinaire se fit soudain entendre.
 C’était à croire qu’une énorme cataracte se
@@ -6934,7 +6607,6 @@ La terreur était au comble. Déjà quelques
 familles de mineurs, à demi affolées, se
 précipitaient vers le tunnel, pour gagner les
 étages supérieurs. On pouvait craindre que la mer
-310
 n’eût fait irruption dans la houillère, dont les
 galeries s’enfonçaient jusque sous le canal du
 Nord. La crypte, si vaste qu’elle fût, aurait été
@@ -6957,7 +6629,6 @@ Simon Ford. L’exploitation se fait à un étage
 supérieur au lit du lac ! »
 Les faits devaient donner raison au vieil
 overman. L’envahissement de l’eau s’était
-311
 produit subitement ; mais, réparti à l’étage
 inférieur de la vaste houillère, il n’avait eu
 d’autre effet que de surélever de quelques pieds
@@ -6981,7 +6652,6 @@ Les journaux du comté publiaient le récit de cet
 étrange phénomène, dont le lac Katrine avait été
 le théâtre. Nell, Harry, James Starr et Jack Ryan,
 qui étaient revenus en toute hâte au cottage,
-312
 confirmaient ces nouvelles, et apprenaient, non
 sans grande satisfaction, que tout se bornait à des
 dégâts matériels dans la Nouvelle-Aberfoyle.
@@ -7005,7 +6675,6 @@ préalablement bouché la fissure. Walter Scott en
 fût mort de désespoir, s’il eût encore été de ce
 monde !
 Après tout, l’accident était explicable. En
-313
 effet, entre la profonde cavité et le lit du lac,
 l’étage des terrains secondaires se réduisait à une
 mince couche, par suite d’une disposition
@@ -7028,7 +6697,6 @@ ceux dont nous recherchons encore la cause !
 répondit Simon Ford ; mais, si vous m’en croyez,
 n’ébruitons rien et faisons notre enquête nous-
 mêmes.
-314
 – Oh ! s’écria l’ingénieur, j’en connais le
 résultat d’avance !
 – Eh ! quel sera-t-il ?
@@ -7051,7 +6719,6 @@ sa famille adoptive. Sa figure attristée portait la
 marque des combats intérieurs qui l’agitaient.
 Quoi qu’il en soit, il fut résolu que James
 Starr, Simon et Harry Ford retourneraient sur le
-315
 lieu même de l’éboulement, et qu’ils essaieraient
 de se rendre compte de ses causes. Ils ne
 parlèrent à personne de leur projet. À qui n’eût
@@ -7075,7 +6742,6 @@ d’homme.
 Et qui sait ce qui serait arrivé, si, au lieu de ce
 petit lac, l’effondrement eût ouvert passage aux
 eaux d’une mer !
-316
 – Oui ! s’écria le vieil overman avec un
 sentiment de fierté, il n’aurait pas fallu moins
 d’une mer pour noyer notre Aberfoyle ! Mais,
@@ -7100,7 +6766,6 @@ tous les moyens possibles d’assouvir la haine
 qu’il nous a vouée ! Trop faible, sans doute, pour
 agir ouvertement, c’est dans l’ombre qu’il
 prépare ses embûches, mais l’intelligence qu’il y
-317
 déploie fait de lui un être redoutable. Mes amis, il
 possède mieux que nous tous les secrets de notre
 domaine, puisque depuis si longtemps il échappe
@@ -7124,7 +6789,6 @@ relevant la tête :
 nous n’avons jamais fait de mal à personne. Nous
 ne croyons pas que nous puissions avoir un
 ennemi, un seul !
-318
 – Ah ! s’écria l’ingénieur, si Nell voulait enfin
 parler !
 – Monsieur Starr, et vous, mon père, répondit
@@ -7147,7 +6811,6 @@ Et comme Harry allait se récrier :
 dirons rien à celle qui doit être ta femme.
 – Et qui le serait sans plus attendre, si vous le
 vouliez, mon père !
-319
 – Mon garçon, dit Simon Ford, dans un mois,
 jour pour jour, ton mariage se fera. Vous tiendrez
 lieu de père à Nell, monsieur James ?
@@ -7171,7 +6834,6 @@ enfant et jeune fille.
 Cependant, le mariage prochain de Harry Ford
 et de Nell avait fait grand bruit dans la Nouvelle-
 Aberfoyle. Les compliments affluèrent au
-320
 cottage. Jack Ryan ne fut pas le dernier à y
 apporter les siens. On le surprenait aussi à étudier
 au loin ses meilleures chansons pour une fête à
@@ -7195,7 +6857,6 @@ remplis d’une eau chargée d’acide carbonique,
 dont la houillère était prudemment pourvue.
 Une autre fois, ce fut un éboulement dû à la
 rupture des étançons d’un puits, et James Starr
-321
 constata que ces étançons avaient été
 préalablement attaqués à la scie. Harry, qui
 surveillait les travaux sur ce point, fut enseveli
@@ -7219,7 +6880,6 @@ comté se tint sur pied nuit et jour, mais elle ne put
 rien découvrir. James Starr défendit à Harry, que
 cette malveillance semblait viser plus
 directement, de s’aventurer jamais seul hors du
-322
 centre des travaux.
 On en agit de même à l’égard de Nell, à
 laquelle, sur les instances de Harry, on cachait,
@@ -7243,7 +6903,6 @@ autres. Son inquiétude la reprenait dès le matin, à
 l’heure de la sortie pour les travaux du fond.
 Harry aurait voulu, pour lui rendre le repos,
 que leur mariage fût un fait accompli, Il lui
-323
 semblait que, devant cet acte irrévocable, la
 malveillance, devenue inutile, désarmerait, et que
 Nell ne se sentirait en sûreté que lorsqu’elle serait
@@ -7267,7 +6926,6 @@ Arrivée au seuil, un cri d’indicible angoisse
 s’échappa de sa bouche.
 Ce cri retentit dans toute l’habitation, et attira
 en un instant Madge, Simon et Harry près de la
-324
 jeune fille.
 Nell était pâle comme la mort, le visage
 bouleversé, les traits empreints d’une épouvante
@@ -7288,7 +6946,6 @@ le regard se portait alternativement de son père à
 la jeune fille.
 – Silfax ! répétait Nell avec désespoir,
 Silfax ! »
-325
 Et tout son être frémissait en murmurant ce
 nom, pendant que Madge, s’emparant d’elle, la
 reconduisait presque de force à sa chambre.
@@ -7299,8 +6956,6 @@ celle qui m’avait écrit la lettre contradictoire de la
 vôtre, Simon ! Cet homme se nomme Silfax ! Je
 vois à votre trouble que vous le connaissez ! Quel
 est ce Silfax ? »
-326
-20
 Le pénitent
 Ce nom avait été toute une révélation pour le
 vieil overman.
@@ -7317,7 +6972,6 @@ son périlleux métier en portant une mèche
 enflammée là où la main de Silfax ne pouvait
 atteindre. Un jour, ce vieillard avait disparu, et,
 en même temps que lui, une petite orpheline, née
-327
 dans la mine et qui n’avait plus pour parent que
 lui, son arrière-grand-père. Cette enfant,
 évidemment, c’était Nell. Depuis quinze ans, tous
@@ -7341,7 +6995,6 @@ personne, qui passait pour ne craindre ni l’eau ni
 le feu ! C’était par goût qu’il avait choisi le
 métier de pénitent, dont peu se souciaient. Cette
 dangereuse profession avait dérangé ses idées.
-328
 On le disait méchant, et il n’était peut-être que
 fou. Sa force était prodigieuse. Il connaissait la
 houillère comme pas un – aussi bien que moi tout
@@ -7365,7 +7018,6 @@ Ford, depuis que j’ai vu le nom de Silfax sur cette
 porte ; mais, je le répète, je le croyais mort, et je
 ne pouvais imaginer que cet être malfaisant, que
 nous avons tant cherché, fût l’ancien pénitent de
-329
 la fosse Dochart !
 – En effet, dit James Starr, tout s’explique. Un
 hasard a révélé à Silfax l’existence du nouveau
@@ -7389,7 +7041,6 @@ est certainement fou, maintenant !
 – Cela vaut mieux, dit Madge.
 – Je ne sais, reprit James Starr en secouant la
 tête, car ce doit être une folie terrible que la
-330
 sienne ! Ah ! je comprends que Nell ne puisse
 songer à lui sans épouvante, et je comprends
 aussi qu’elle n’ait pas voulu dénoncer son grand-
@@ -7413,7 +7064,6 @@ irritation au comble ! reprit Simon Ford.
 de cette union ! s’écria Harry. Si étranger qu’il
 soit à la vie commune, on finira bien par l’amener
 à reconnaître que la nouvelle existence de Nell
-331
 vaut mieux que celle qu’il lui faisait dans les
 abîmes de la houillère ! Je suis sûr, monsieur
 Starr, que si nous pouvions mettre la main sur lui,
@@ -7437,7 +7087,6 @@ savez maintenant, c’est par conscience, c’est par
 devoir qu’elle s’est tue jusqu’ici. C’est par
 devoir, c’est par conscience qu’elle parlera dès
 que vous le voudrez. Ma mère a bien fait de la
-332
 reconduire dans sa chambre. Elle avait grand
 besoin de se recueillir, mais je vais l’aller
 chercher...
@@ -7460,7 +7109,6 @@ hélas ! a tirée de l’abîme.
 – Nell ! s’écria Harry.
 – Laisse parler Nell, dit James Starr, en
 imposant silence à Harry.
-333
 – Je suis la petite-fille du vieux Silfax, reprit
 Nell. Je n’ai jamais connu de mère que le jour où
 je suis entrée ici, ajouta-t-elle en regardant
@@ -7484,7 +7132,6 @@ j’ai eu pour nourrice une chèvre, dont la perte
 m’a bien désolée. Grand-père, me voyant si
 chagrine, la remplaça d’abord par un autre animal
 – un chien, me dit-il. Malheureusement, ce chien
-334
 était gai. Il aboyait. Grand-père n’aimait pas la
 gaieté. Il avait horreur du bruit. Il m’avait appris
 le silence, et n’avait pu l’apprendre au chien. Le
@@ -7508,7 +7155,6 @@ houillère. L’espace ne manquait pas, cependant.
 C’était loin, bien loin de vous qu’il se choisissait
 des refuges. Cela lui déplaisait de vous sentir là.
 Quand je le questionnais sur les gens de là-haut,
-335
 son visage s’assombrissait, il ne répondait pas et
 devenait comme muet pour longtemps. Mais où
 sa colère éclata, ce fut quand il s’aperçut que, ne
@@ -7532,7 +7178,6 @@ mais je ne pus supporter l’idée que des chrétiens
 allaient mourir de faim dans ces profondeurs, et,
 au risque d’être prise sur le fait, je parvins à vous
 procurer pendant quelques jours un peu d’eau et
-336
 de pain !... J’aurais voulu vous guider au-dehors,
 mais il était si difficile de tromper la surveillance
 de mon grand-père ! Vous alliez mourir ! Jack
@@ -7557,7 +7202,6 @@ ce que je sais, c’est que je me sentais mourir,
 quand tu es arrivé, mon Harry, et quand tu m’as
 sauvée ! Mais, tu le vois, la petite-fille du vieux
 Silfax ne peut pas être la femme d’Harry Ford,
-337
 puisqu’il y va de ta vie, de votre vie à tous !
 – Nell ! s’écria Harry.
 – Non, reprit la jeune fille. Mon sacrifice est
@@ -7580,7 +7224,6 @@ James Starr les écarta d’un geste plein
 d’autorité, et, allant droit à Nell, il lui prit les
 deux mains.
 « C’est bien, mon enfant, lui dit-il. Tu as dit ce
-338
 que tu devais dire ; mais voici ce que nous avons
 à te répondre. Nous ne te laisserons pas partir, et,
 s’il le faut, nous te retiendrons par la force. Nous
@@ -7605,7 +7248,6 @@ c’est que je parvienne à le retrouver. Il est
 invisible, lui, mais il voit tout. Demandez-vous
 comment il aurait découvert vos plus secrètes
 pensées, depuis la lettre écrite à M. Starr,
-339
 jusqu’au projet de mon mariage avec Harry, s’il
 n’avait pas l’inexplicable faculté de tout savoir.
 Mon grand-père, autant que je puis en juger, est,
@@ -7630,7 +7272,6 @@ bons, vénérer M. Starr, dont je les ai crus d’abord
 les esclaves, lorsque pour la première fois j’ai vu
 toute la population d’Aberfoyle venir à la
 chapelle, s’y agenouiller, prier Dieu et le
-340
 remercier de ses bontés infinies, alors je me suis
 dit : « Mon grand-père m’a trompée ! » Mais
 aujourd’hui, éclairée par ce que vous m’avez
@@ -7654,7 +7295,6 @@ d’entendre ?
 homme est un lâche, et, s’il était mon fils, je le
 renierais, je le maudirais !
 – Nell, tu as entendu notre mère, reprit Harry.
-341
 Où que tu ailles, je te suivrai. Si tu persistes à
 partir, nous partirons ensemble...
 – Harry ! Harry ! » s’écria Nell.
@@ -7662,8 +7302,6 @@ Mais l’émotion était trop forte. On vit blêmir
 les lèvres de la jeune fille, et elle tomba dans les
 bras de Madge, qui pria l’ingénieur, Simon et
 Harry de la laisser seule avec elle.
-342
-21
 Le mariage de Nell
 On se sépara, mais il fut d’abord convenu que
 les hôtes du cottage seraient plus que jamais sur
@@ -7681,7 +7319,6 @@ mettre les habitants de Coal-city au courant des
 menaces dont la colonie souterraine était l’objet.
 Silfax n’ayant aucune intelligence dans la place,
 il n’y avait nulle trahison à craindre. On fit
-343
 connaître à Nell toutes les mesures de sûreté qui
 venaient d’être prises, et, sans qu’elle fût rassurée
 complètement, elle retrouva quelque tranquillité.
@@ -7705,7 +7342,6 @@ donc minutieusement recommencée. On fouilla
 les galeries jusque dans les étages supérieurs qui
 affleuraient les ruines de Dundonald-Castle, à
 Irvine. On supposait avec raison que c’était par le
-344
 vieux château que Silfax communiquait avec
 l’extérieur et qu’il s’approvisionnait des choses
 nécessaires à sa misérable existence, soit en
@@ -7729,7 +7365,6 @@ fut sur pied. Les travaux de la Nouvelle-
 Aberfoyle avaient été suspendus. Chefs et
 ouvriers tenaient à rendre hommage au vieil
 overman et à son fils. Ce n’était que payer une
-345
 dette de reconnaissance aux deux hommes hardis
 et persévérants, qui avaient rendu à la houillère la
 prospérité d’autrefois.
@@ -7752,7 +7387,6 @@ torrides du mois d’août, qui sont particulièrement
 pénibles dans les pays du Nord. L’air orageux
 pénétrait jusque dans les profondeurs de la
 houillère, où la température s’était élevée d’une
-346
 façon anormale. L’atmosphère s’y saturait
 d’électricité, à travers les puits d’aération et le
 vaste tunnel de Malcolm.
@@ -7775,7 +7409,6 @@ que les Écossaises portent avec une certaine
 élégance.
 Nell s’était promis de ne rien laisser voir des
 agitations de sa pensée. Elle défendit à son cœur
-347
 de battre, à ses secrètes angoisses de se trahir, et
 la courageuse enfant parvint à montrer à tous un
 visage calme et recueilli.
@@ -7799,7 +7432,6 @@ Dans la chapelle, les lampes électriques
 projetaient aussi de vives lueurs, et les vitraux
 coloriés brillaient comme des kaléidoscopes de
 feux.
-348
 C’était le révérend William Hobson qui devait
 officier. À la porte même de Saint-Gilles, il
 attendait l’arrivée des époux.
@@ -7822,7 +7454,6 @@ voix forte.
 prendre pour époux Harry Ford, et... »
 La jeune fille n’avait pas eu le temps de
 répondre, qu’une immense clameur retentissait
-349
 au-dehors.
 Un de ces énormes rochers, formant terrasse,
 qui surplombait la rive du lac Malcolm, à cent
@@ -7845,7 +7476,6 @@ criait :
 « Le grisou ! le grisou ! Malheur à tous !
 malheur ! »
 En ce moment, la légère odeur qui caractérise
-350
 l’hydrogène protocarboné se répandit dans
 l’atmosphère.
 Et s’il en était ainsi, c’est que la chute du
@@ -7868,7 +7498,6 @@ danger, vint jeter ce cri d’alarme à la porte de
 Saint-Gilles.
 « Le grisou ! le grisou ! » répétait le vieillard,
 en poussant son canot plus avant sur les eaux du
-351
 lac.
 Harry, entraînant sa fiancée, son père, sa mère,
 avait précipitamment quitté la chapelle.
@@ -7891,7 +7520,6 @@ de destruction.
 Silfax le vit venir. Il brisa le verre de sa lampe,
 et, après avoir arraché la mèche allumée, il la
 promena dans l’air.
-352
 Un silence de mort planait sur toute
 l’assistance atterrée. James Starr, résigné,
 s’étonnait que l’explosion, inévitable, n’eût pas
@@ -7914,7 +7542,6 @@ vers la rive du lac, jusqu’à la lisière des eaux.
 « Harfang ! Harfang ! cria-t-elle d’une voix
 claire, à moi ! Viens à moi ! »
 L’oiseau fidèle, étonné, avait hésité un instant.
-353
 Mais soudain, ayant reconnu la voix de Nell, il
 avait laissé tomber la mèche enflammée dans les
 eaux du lac, et, traçant un large cercle, il était
@@ -7937,8 +7564,6 @@ Mais ses efforts furent inutiles.
 Les eaux du lac Malcolm ne rendirent pas leur
 proie. Elles s’étaient à jamais refermées sur le
 vieux Silfax.
-354
-22
 La légende du vieux Silfax
 Six mois après ces événements, le mariage, si
 étrangement interrompu, d’Harry Ford et de Nell,
@@ -7955,7 +7580,6 @@ Jack Ryan, revêtu de son costume de piper, après
 avoir gonflé d’air l’outre de sa cornemuse, obtint
 ce triple résultat de jouer, de chanter et de danser
 tout à la fois, aux applaudissements de toute
-355
 l’assemblée.
 Et, le lendemain, les travaux du jour et du fond
 recommencèrent, sous la direction de l’ingénieur
@@ -7978,7 +7602,6 @@ intempéries du dehors, on devînt deux fois
 centenaire ? »
 Les habitants de Coal-city devaient-ils jamais
 assister à cette seconde cérémonie ? L’avenir le
-356
 dira.
 En tout cas, un oiseau, qui semblait devoir
 atteindre une longévité extraordinaire, c’était le
@@ -8002,13 +7625,10 @@ fond de l’abîme où s’était englouti Silfax ?
 Les deux versions furent admises, car le
 harfang devint légendaire, et il inspira à Jack
 Ryan plus d’une fantastique histoire.
-357
 C’est grâce à ce joyeux compagnon qu’on
 chante encore dans les veillées écossaises la
 légende de l’oiseau du vieux Silfax, l’ancien
 pénitent des houillères d’Aberfoyle.
-358
-359
 Table
 1. Deux lettres contradictoires.................6
 2. Chemin faisant...................................21
@@ -8026,19 +7646,15 @@ Table
 14. Suspendu à un fil..............................210
 15. Nell au cottage.................................229
 16. Sur l’échelle oscillante.....................250
-360
 17. Un lever de soleil.............................264
 18. Du lac Lomond au lac Katrine.........287
 19. Une dernière menace........................309
 20. Le pénitent.......................................328
 21. Le mariage de Nell...........................344
 22. La légende du vieux Silfax..............356
-361
-362
 Cet ouvrage est le 346e publié
 dans la collection À tous les vents
 par la Bibliothèque électronique du Québec.
 La Bibliothèque électronique du Québec
 est la propriété exclusive de
 Jean-Yves Dupuis.
-363

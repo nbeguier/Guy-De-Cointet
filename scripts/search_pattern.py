@@ -51,6 +51,21 @@ def parse_cipher(filepath):
         if lengths:
             result.append(lengths)
 
+    if result:
+        return result, punct
+
+    # Fallback : si aucun chiffre trouvé, extraire les longueurs depuis les groupes de lettres
+    for line in lines:
+        tokens = re.findall(r'([a-zA-ZÀ-ÿ]+)([.?!]|\.\.\.)?', line)
+        lengths = []
+        for word, p in tokens:
+            lengths.append(len(word))
+            if p:
+                punct[global_idx] = p
+            global_idx += 1
+        if lengths:
+            result.append(lengths)
+
     return result, punct
 
 
@@ -220,6 +235,19 @@ def main():
         if key in seen_patterns:
             continue
         seen_patterns.add(key)
+
+        # Avec --punct, ne pas joindre un élément qui a une ponctuation terminale
+        if use_punct and punct and joins:
+            invalid = False
+            g = 0
+            for li, line in enumerate(cipher_lines[:-1]):
+                last_g = g + len(line) - 1
+                if joins[li] and last_g in punct:
+                    invalid = True
+                    break
+                g += len(line)
+            if invalid:
+                continue
 
         punct_filter = remap_punct(punct, cipher_lines, joins) if (punct and use_punct) else {}
         hits = find_pattern(lengths_array, word_punct, pattern, punct_filter, max_errors)

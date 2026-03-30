@@ -25,7 +25,7 @@ Source image: `1973_VERT/full book/COI 39 (2).JPG`
 - Page gauche : citation `The sum of human wisdom is not contained in any one language, and no single language is capable of expressing all forms and degrees of human comprehension.` ― Ezra Pound
 - Page gauche : mentions `Before - 12 Friday` et `Tuesday`.
 - Page gauche : chiffres `6 III` et `16` près des dessins (lisible).
-- Page droite : ligne de texte rouge chiffré en haut `[...] PASSE COMME [...]` - TODO
+- Page droite : ligne de texte rouge chiffré en haut `Le passé comme le futur est illimité` - TODO
 - Page droite : formats `7 x 7 1/2` et `11 x 14`
 - Bas de page droite : `CDEHNOPRZ - 237` en rouge.
 
@@ -42,8 +42,12 @@ Source image: `1973_VERT/full book/COI 39 (3).JPG`
 ## Page 4
 Source image: `1973_VERT/full book/COI 39 (4).JPG`
 
-- Page gauche : texte à déchiffrer en rouge: `[...] aime tout ce qui est dont les [...]` - TODO
-- Page gauche : `... The arrival of the snow had brought with it a strong ...` (lecture manuscrite minuscule) - TODO
+- Page gauche : texte chiffré en rouge: `Ma pensée aime tout ce qui est contre la raison` - TODO
+- Page gauche : écriture manuscrite minuscule, extrait de Matthiessen_1962_MountainWall p56.
+```
+The withdrawal of the arrow had brought with it a strong rush of dark dead blood, and with it a stink of putrefaction; the blood drew a cry of anguish from the mother. She remained kneeling, back to the pyre, as the body was lifted once again and borne toward the flames. There an old man held high a banana trunk wrapped in straw; as the body was carried under it, a warrior shot an arrow into the bundle. The arrow released the living spirit, which now became the ghost; the ghost would go off into the enemy countries, where, by causing trouble and dissension, it would abet the cause of its former comrades in the wars to come. The bundle would be stored with other bundles in a small shelter in the woods.Ekitamalek was lowered, face upward, onto the flames. The fire was very hot, and his bearers were forced to bend his legs in hastily
+```
+
 - Page droite : `LA PLUS HAUTE CULTURE EST CELLE DE SUPPORTER LES CONTRADICTIONS` - Nietzsche
 
 ## Page 5
@@ -199,7 +203,7 @@ Division euclidienne (fausse) : 4103978124375,50694 divisé par 8104712398610 = 
 *Source en ligne : https://www.guydecointet.org/img_web/GDC_carnet_1973_Vert_351_2.jpg*
 
 Page gauche : `432x647=279504`
-Page gauche : légèrement illisible `UTRO HK OLD MELOTTRU` - TODO
+Page gauche : légèrement illisible `UTRO HK OLD MELOTRU` - TODO
 
 Page droite: Passage des *Indes Noires* de Jules Verne https://fr.wikisource.org/wiki/Les_Indes_noires/Chapitre_17 et https://fr.wikisource.org/wiki/Les_Indes_noires/Chapitre_18, le passage n'est pas continue, il y a des sauts et des noms sont tronqués.
 
@@ -344,9 +348,10 @@ Fin de citation des Jules Verne — *Les Indes Noires* (chap. XVIII) https://fr.
 
 ### Droite
 
+- voir Nihé/Nilré d'Astorg (?) - TODO
 - Elie Faure (probablement *Histoire de l'art*)
 - Wittenstein (probablement Wittgenstein, typo de GDC) - TODO
-- Roussel (probablement *Impressions d'Afrique*)
+- Roussel ou Bussel ? - TODO
 - Peinture et poésie (?) - TODO
 - On Moore  - TODO
 
@@ -420,6 +425,25 @@ Page droite:
 ```
 doux et naïf. On peut croire, véritablement, que ces mélodies nationales n’ont été composées par personne, qu’elles sont un mélange naturel du souffle de la brise, du murmure des eaux, du bruissement des feuilles. La forme du refrain, qui revenait à intervalles réguliers, était bizarre. Sa phrase se composait de trois mesures à deux temps, et d’une mesure à trois temps, finissant sur le temps faible. Contrairement aux chants de la vieille époque, il était en majeur, et l’on eût pu l’écrire comme suit, dans ce langage chiffré qui
 ```
+
+## Page 18
+
+Représentation des 12 sérigraphies de Cizeghoh Tor Ndjmb.
+J'ajoute aussi à la fin de chaque ligne le numéro correspondant dans https://guydecointet.org/en/set/283 avec la note qui lui est attribué.
+
+- 1: Texte italique / à gauche en haut de la page - 12/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_12.jpg [4 - Les émirs]
+- 2: Texte italique, chiffres parenthèses / 40cm à droite, même distance en hauteur et en bas - 13/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_13.jpg [6 - Mme Atmont]
+- 3: Chiffres, Traduction texte / 32 cm, même distance de haut et bas - 6/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_12.jpg [8 - La vache]
+- 4: Chiffres / A gauche en haut de la page, 36cm - 2/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_2.jpg [11 - Paolo]
+- 5: Texte réponse ponctuation (entre guillemets) / 35cm, à gauche même distance en haut et en bas - 8/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_8.jpg [7 - Ces mots qui m'ont enchanté]
+- 6: Texte (sans ponctuation) /  Centré, haut de page, 38 - 11/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_11.jpg [3 - Journal intime]
+- 7: Texte, question + réponse - 3/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_3.jpg [1 - Arc-en-ciel]
+- 8: Texte en colonne, variations - 7/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_7.jpg [9 - La tête en bas]
+- 9: Chiffres (phrases) - 4/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_4.jpg [10 - La peinture qui rougeoit]
+- 10: Chiffres / 45 cm centré, même distance en haut et en bas - 9/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_9.jpg [5 - Ne me demandez pas qui je suis]
+11: Chiffres à la main / Centré, bas de la page. 24cm - 10/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_10.jpg [2 - jet de sang]
+12: Texte à la main (+ chiffres) / En haut à la droite de la page. 45cm - 5/13 https://guydecointet.org/img_web/GDC_prop_1973_CIZEGHOHTURNDJMB_PhotoMarcDomage_284_5.jpg [12 - Je rentre dans la forêt]
+
 
 ## Page 19
 
